@@ -1,4 +1,4 @@
-# España en 12 ejes · Atlas 4.0
+# España en 12 ejes · Atlas 5.0
 
 106 personalidades, 61 modelos de corrientes y 42 contextos históricos. Test de 48 u 80 preguntas en 16 dimensiones. 18 representaciones de banderas y símbolos, con fuentes y advertencias de alcance.
 
@@ -6,12 +6,12 @@
 
 1. Descomprime el ZIP.
 2. Abre `https://github.com/Hugoeee/12-ejes`, en la pantalla principal de archivos.
-3. Pulsa **Add file → Upload files** y arrastra **los 13 archivos de dentro**, directamente a la raíz del repositorio. No arrastres el ZIP ni una carpeta que envuelva los archivos.
+3. Pulsa **Add file → Upload files** y arrastra **los 13 archivos y la carpeta `fonts` de dentro**, directamente a la raíz del repositorio. No arrastres el ZIP ni una carpeta que envuelva los archivos.
 4. Reemplaza los archivos existentes, incluido `vercel.json`, y confirma con **Commit changes** en la rama conectada a Vercel.
 5. Espera a que el despliegue nuevo muestre **Ready**. La descarga de retratos puede prolongar el build. Después abre tu web y pulsa **Ctrl+F5**.
-6. Comprueba que abajo aparezca **V4.0**. En **Diagnóstico de imágenes** verás la cobertura de retratos del despliegue. En **Banderas** verás las 18 representaciones integradas.
+6. Comprueba que abajo aparezca **V5.0**. En **Diagnóstico de imágenes** verás la cobertura de retratos del despliegue. En **Banderas** verás las 18 representaciones integradas.
 
-El nuevo archivo `poster.js` es obligatorio para mostrar y descargar las cartas. `media.js` también es obligatorio. Si no se sube, el respaldo que resuelve retratos no estará disponible. Los archivos `build.cjs`, `package.json`, `app.js`, `media.js`, `poster.js`, `data.js` y `vercel.json` deben quedar al mismo nivel.
+La carpeta `fonts` es obligatoria: contiene cuatro fuentes WOFF2 y sus dos licencias SIL Open Font License. El build la copia a `dist/fonts`; no se solicitan fuentes a servicios externos. El archivo `poster.js` es obligatorio para mostrar y descargar las cartas. `media.js` también es obligatorio. Si no se sube, el respaldo que resuelve retratos no estará disponible. Los archivos `build.cjs`, `package.json`, `app.js`, `media.js`, `poster.js`, `data.js` y `vercel.json` deben quedar al mismo nivel.
 
 Las carpetas antiguas `scripts` y `tests` y `vista-previa.html` ya no se utilizan; no hace falta borrarlas para que funcione esta versión. Conserva otros archivos propios que no formen parte de esta app.
 
@@ -19,11 +19,11 @@ En Vercel: Framework **Other**, Build Command **npm run build**, Output Director
 
 ## Interfaz y cartas
 
-Portada con cartas apiladas, fondo crema, colores burdeos/verde/ciruela y catálogo con filtros por ámbito, época y familia. Al terminar el test se genera una carta con la corriente próxima, personalidad principal, 12 barras, cuatro claves históricas, tres afinidades secundarias y tres lugares históricos con banderas. El selector permite mostrar una de las tres corrientes próximas; la personalidad y los lugares conservan su clasificación independiente.
+Portada y navegación con fondo crema, verde oscuro, tipografías Sora/Poppins locales, panel de ejemplos y selector funcional. Menú desplegable en móvil, títulos por página, preguntas frecuentes y vista de los 16 ejes. Catálogo con filtros por ámbito, época y familia y tarjetas con retrato, título sobre degradado, porcentaje y barra de cercanía. Al terminar el test se genera una carta con la corriente próxima, personalidad principal, 12 barras, cuatro claves históricas, tres afinidades secundarias y tres lugares históricos con banderas. El selector permite mostrar una de las tres corrientes próximas; la personalidad y los lugares conservan su clasificación independiente.
 
 Las barras expresan posición hacia el polo escrito, no confianza: 50% es equilibrio; 100% es el extremo. Las afinidades muestran cercanía solo en ejes comparables. El orden incorpora cobertura y discrepancias centrales.
 
-**Descargar carta SVG** genera un archivo vectorial; **Descargar carta PNG** genera una imagen de 1080 píxeles de ancho. La altura puede aumentar para incluir los créditos de los retratos. Las imágenes se incorporan al archivo cuando el navegador puede obtenerlas; si fallan, se utilizan iniciales y se muestra un aviso. Si las imágenes están desactivadas en Privacidad, ambas descargas respetan esa preferencia. El JSON sigue disponible y los tests guardados de V2/V3 se conservan.
+**Descargar carta SVG** genera un archivo vectorial; **Descargar carta PNG** genera una imagen de 1080 píxeles de ancho. La altura puede aumentar para incluir los créditos de los retratos. Las imágenes se incorporan al archivo cuando el navegador puede obtenerlas; si fallan, se utilizan iniciales y se muestra un aviso. Si las imágenes están desactivadas en Privacidad, ambas descargas respetan esa preferencia. El JSON sigue disponible y los tests guardados de V2/V3/V4 se conservan.
 
 ## Nuevas personalidades
 
@@ -58,6 +58,12 @@ Nuevos contextos: Córdoba califal, Tordesillas y Villalar, Germanías de Valenc
 Este sigue siendo un catálogo selectivo y ampliable, no una enciclopedia completa ni un test validado. Las nuevas codificaciones son provisionales y necesitan revisión especializada. Las fuentes explican ideas y contextos: no publican estos números. Las dimensiones sin una comparación razonable quedan sin datos. Algunas figuras culturales, como Averroes, se consultan sin producir una afinidad numérica.
 
 Las comparaciones no recomiendan voto ni respaldan actuaciones. Los documentos contemporáneos seleccionados, incluidos programas de 2023, no equivalen a posiciones actualizadas de campaña de 2026.
+
+## Correcciones de maquetación y navegación
+
+Los estilos de la cabecera, el pie y la navegación están aislados de las cartas. Se evita el marcado de figuras dentro de elementos de texto en las miniaturas de banderas. El menú móvil indica su estado con `aria-expanded`; la navegación marca `aria-current`; la ficha tiene título accesible y el enlace «Saltar al contenido» conserva la página actual. La exportación se desactiva cuando no hay suficientes ejes comparables activos.
+
+Hay adaptaciones a 1050, 780, 540 y 360 píxeles. Las fuentes y banderas son locales. Las comprobaciones verifican el HTML generado de todas las rutas y las 209 fichas, la navegación y las descargas. No se ha realizado una revisión visual de la interfaz en un navegador real en este entorno.
 
 ## Verificar localmente
 

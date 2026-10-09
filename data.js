@@ -1,5 +1,5 @@
 window.AXIS_DATA = {
-  "version": "4.0.0",
+  "version": "5.0.0",
   "reviewed": "9 de octubre de 2026",
   "axes": [
     [
