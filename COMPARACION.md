@@ -1,3 +1,7 @@
+# Actualización V8: partidos y actualidad
+
+30 preguntas nuevas y comparación con diez partidos, separada del atlas. Consulta [PARTIDOS.md](PARTIDOS.md) para fuentes, fechas, cobertura, fórmula y limitaciones. Los archivos nuevos `parties-data.js` y `parties.js` son necesarios para esta sección.
+
 # Revisión funcional de 12 Axes y adaptación española
 
 Fecha: 9 de octubre de 2026. Repositorio de referencia: https://github.com/RomanCypherpunk/12axes . Commit examinado: `1873a6a1de3fdbc70523c298219610ebde31c181`.

@@ -1,3 +1,11 @@
+# España en 12 ejes · versión 9.0
+
+Revisión de banderas: [BANDERAS.md](BANDERAS.md). Modelos completos con fuentes y licencias, variantes por fechas y retirada de atribuciones no verificadas.
+
+# Actualización V8: partidos y actualidad
+
+30 preguntas nuevas y comparación con diez partidos, separada del atlas. Consulta [PARTIDOS.md](PARTIDOS.md) para fuentes, fechas, cobertura, fórmula y limitaciones. Los archivos nuevos `parties-data.js` y `parties.js` son necesarios para esta sección.
+
 # España en 12 ejes · Atlas 7.0
 
 Versión independiente centrada en España: 150 personalidades, 61 corrientes, 42 lugares y proyectos históricos, 18 representaciones de banderas y símbolos. Doce dimensiones contemporáneas y cuatro claves históricas. Catálogo selectivo, sin validación psicométrica.
@@ -9,7 +17,7 @@ Versión independiente centrada en España: 150 personalidades, 61 corrientes, 4
 3. Abre la carpeta **`subida-1`** del paquete. En GitHub pulsa **Add file → Upload files** y arrastra **su contenido**: 15 archivos y las carpetas `fonts` y `portraits`. No arrastres la carpeta `subida-1` ni el ZIP.
 4. Pulsa **Commit changes**. Después repite **Add file → Upload files** desde la raíz del repositorio y arrastra **la carpeta `portraits` que está dentro de `subida-2`**. Confirma de nuevo. Se incorporan los retratos restantes a la misma carpeta, sin eliminar los anteriores.
 5. En Vercel usa Framework **Other**, Build Command **npm run build**, Output Directory **dist** y Root Directory vacío. No se necesitan claves ni un servidor adicional.
-6. Espera al estado **Ready**, abre la web y pulsa **Ctrl+F5**. El pie debe mostrar **V7.0**.
+6. Espera al estado **Ready**, abre la web y pulsa **Ctrl+F5**. El pie debe mostrar **V9.0**.
 
 El paquete está dividido en dos tandas porque GitHub permite subir un máximo de 100 archivos a la vez mediante el navegador (https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository). `subida-1` contiene 93 archivos y `subida-2`, 70. Son carpetas de entrega: **no deben aparecer como carpetas del repositorio**. Si utilizas Git en tu ordenador, combina el contenido de ambas en la raíz del proyecto.
 
@@ -50,7 +58,7 @@ Las 44 incorporaciones de V6 siguen siendo fichas biográficas sin afinidad num�
 
 Cada personalidad contiene `sources`, `reading`, `documentation`, `evidence` y `researchPriorities`. `evidence.sourceIndexes` señala referencias editoriales por dimensión; no prueba que un pasaje respalde un número exacto. `documentation.updated` fecha la organización de metadatos y no certifica una revisión completa. Antes de añadir puntuaciones se debe localizar el pasaje, fijar fecha y contexto, contrastar fuentes y justificar la codificación.
 
-Los lugares representan proyectos y periodos, no los habitantes actuales de una ciudad. Asturias medieval y Toledo visigodo tienen fichas diferentes. La Primera República no recibe la tricolor de 1931. Las banderas son representaciones esquemáticas y se señala si el símbolo es posterior a su época. No se asignan por profesión o lugar de nacimiento.
+Los lugares representan proyectos y periodos, no los habitantes actuales de una ciudad. Asturias medieval y Toledo visigodo tienen fichas diferentes. La Primera República no recibe la tricolor de 1931. Las enseñas llevan modelo, periodo, fuente y alcance. Las atribuciones no verificadas se retiran; las composiciones de referencia explican sus límites. No se asignan por profesión o lugar de nacimiento.
 
 Las lecturas proceden de bibliografía enlazada del catálogo. No implican un aval de los autores ni una recomendación comercial. Los programas contemporáneos seleccionados, incluidos los de 2023, no se presentan como programas vigentes de campaña de 2026.
 
