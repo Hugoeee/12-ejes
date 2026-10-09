@@ -1,5 +1,5 @@
 window.AXIS_DATA = {
-  "version": "6.0.0",
+  "version": "7.0.0",
   "reviewed": "9 de octubre de 2026",
   "axes": [
     [
@@ -120,6 +120,46 @@ window.AXIS_DATA = {
       [
         "El Estado debería recuperar competencias que hoy ejercen las comunidades autónomas.",
         1
+      ],
+      [
+        "Los municipios deberían disponer de más autonomía para decidir sus inversiones.",
+        -1
+      ],
+      [
+        "Las normas educativas básicas deberían ser idénticas en todo el territorio.",
+        1
+      ],
+      [
+        "Las comunidades deberían poder pactar entre sí servicios compartidos sin depender de la administración central.",
+        -1
+      ],
+      [
+        "La financiación de los servicios públicos debería decidirse principalmente desde el Estado.",
+        1
+      ],
+      [
+        "Una cámara territorial debería intervenir más en las leyes que afectan a las comunidades.",
+        -1
+      ],
+      [
+        "La coordinación nacional debería prevalecer cuando dos administraciones discrepan sobre sus competencias.",
+        1
+      ],
+      [
+        "Las políticas culturales deberían diseñarse principalmente desde las comunidades y municipios.",
+        -1
+      ],
+      [
+        "La gestión estatal de grandes redes de transporte debería extenderse a más servicios.",
+        1
+      ],
+      [
+        "Los territorios deberían poder experimentar con políticas diferentes dentro de unas garantías comunes.",
+        -1
+      ],
+      [
+        "Las competencias tributarias deberían concentrarse más en el Gobierno central.",
+        1
       ]
     ],
     [
@@ -141,6 +181,46 @@ window.AXIS_DATA = {
       ],
       [
         "Es preferible que los asuntos técnicos los resuelvan los representantes con asesoramiento especializado.",
+        1
+      ],
+      [
+        "Los ciudadanos deberían poder revocar a sus representantes mediante una votación regulada.",
+        -1
+      ],
+      [
+        "El Parlamento debería conservar la decisión final aunque una consulta no vinculante diga otra cosa.",
+        1
+      ],
+      [
+        "Los consejos ciudadanos por sorteo deberían participar en la preparación de las leyes.",
+        -1
+      ],
+      [
+        "Las consultas populares deberían ser excepcionales para evitar decisiones precipitadas.",
+        1
+      ],
+      [
+        "Una petición con suficientes firmas debería obligar a debatir una propuesta en sede parlamentaria.",
+        -1
+      ],
+      [
+        "Los presupuestos generales deberían aprobarse por representantes, sin someter sus partidas a votaciones populares.",
+        1
+      ],
+      [
+        "Los vecinos deberían decidir directamente más asuntos urbanísticos.",
+        -1
+      ],
+      [
+        "Delegar las decisiones en cargos electos permite exigir responsabilidades con mayor claridad.",
+        1
+      ],
+      [
+        "Las consultas ciudadanas deberían poder corregir determinadas decisiones legislativas.",
+        -1
+      ],
+      [
+        "La complejidad de una ley justifica que su aprobación se reserve a los representantes elegidos.",
         1
       ]
     ],
@@ -164,6 +244,46 @@ window.AXIS_DATA = {
       [
         "En una emergencia de seguridad, el Gobierno debería poder ampliar temporalmente la vigilancia con controles posteriores.",
         1
+      ],
+      [
+        "La vigilancia masiva debería estar prohibida aunque facilite detectar amenazas.",
+        -1
+      ],
+      [
+        "La identificación obligatoria en más espacios públicos ayudaría a prevenir delitos.",
+        1
+      ],
+      [
+        "Los registros policiales deberían estar sujetos a controles judiciales más estrictos.",
+        -1
+      ],
+      [
+        "En zonas con mucha delincuencia se deberían ampliar las facultades de identificación policial.",
+        1
+      ],
+      [
+        "Las personas deberían poder recurrir con rapidez cualquier restricción de sus derechos.",
+        -1
+      ],
+      [
+        "La prevención del delito justifica conservar más tiempo ciertos registros de comunicaciones.",
+        1
+      ],
+      [
+        "La prohibición de una protesta debería requerir una justificación especialmente rigurosa.",
+        -1
+      ],
+      [
+        "La seguridad de grandes eventos puede justificar restricciones preventivas de acceso.",
+        1
+      ],
+      [
+        "La administración debería explicar de forma individualizada sus decisiones de vigilancia.",
+        -1
+      ],
+      [
+        "La seguridad colectiva debería pesar más que la privacidad cuando existe una amenaza documentada.",
+        1
       ]
     ],
     [
@@ -186,6 +306,46 @@ window.AXIS_DATA = {
       [
         "Las políticas de integración deberían permitir conservar distintas costumbres culturales dentro de la ley.",
         -1
+      ],
+      [
+        "Los permisos de trabajo deberían ser más accesibles para quienes encuentran un empleador.",
+        -1
+      ],
+      [
+        "Las autorizaciones de entrada deberían reducirse si no existe capacidad de alojamiento.",
+        1
+      ],
+      [
+        "Las familias migrantes deberían tener más facilidades para reagruparse legalmente.",
+        -1
+      ],
+      [
+        "La residencia permanente debería exigir más requisitos de integración.",
+        1
+      ],
+      [
+        "El reconocimiento de títulos extranjeros debería simplificarse.",
+        -1
+      ],
+      [
+        "Las ayudas iniciales deberían priorizar a quienes ya llevan varios años de residencia legal.",
+        1
+      ],
+      [
+        "Las vías de asilo deberían ampliarse para evitar rutas peligrosas.",
+        -1
+      ],
+      [
+        "La concesión de la nacionalidad debería exigir un periodo de residencia más largo.",
+        1
+      ],
+      [
+        "Los servicios municipales deberían facilitar información en distintos idiomas a los recién llegados.",
+        -1
+      ],
+      [
+        "La contratación exterior debería limitarse mientras haya candidatos residentes disponibles.",
+        1
       ]
     ],
     [
@@ -207,6 +367,46 @@ window.AXIS_DATA = {
       ],
       [
         "La industria de defensa debería recibir más inversión pública para reducir la dependencia exterior.",
+        1
+      ],
+      [
+        "Antes de aumentar armamento se deberían agotar más vías de negociación.",
+        -1
+      ],
+      [
+        "España debería mantener fuerzas capaces de actuar con rapidez fuera de sus fronteras.",
+        1
+      ],
+      [
+        "La financiación de mediación internacional debería crecer frente al gasto en material militar.",
+        -1
+      ],
+      [
+        "La preparación militar de la población debería tener un papel más amplio.",
+        1
+      ],
+      [
+        "El control de exportaciones de armas debería ser más restrictivo.",
+        -1
+      ],
+      [
+        "Las alianzas de defensa deberían exigir una mayor contribución material española.",
+        1
+      ],
+      [
+        "La ayuda humanitaria debería tener prioridad sobre el apoyo militar en conflictos exteriores.",
+        -1
+      ],
+      [
+        "España debería invertir más en sistemas propios de disuasión.",
+        1
+      ],
+      [
+        "Los acuerdos de desarme deberían perseguirse incluso cuando impliquen reducir capacidades nacionales.",
+        -1
+      ],
+      [
+        "El entrenamiento y la disponibilidad de las fuerzas armadas deberían recibir más recursos.",
         1
       ]
     ],
@@ -230,6 +430,46 @@ window.AXIS_DATA = {
       [
         "Una política exterior europea común sería preferible a posiciones nacionales separadas.",
         -1
+      ],
+      [
+        "Las crisis sanitarias europeas deberían gestionarse con más mecanismos comunes.",
+        -1
+      ],
+      [
+        "La política energética debería seguir bajo control principal de cada Estado.",
+        1
+      ],
+      [
+        "La Unión Europea debería disponer de más recursos fiscales compartidos.",
+        -1
+      ],
+      [
+        "Los parlamentos nacionales deberían poder frenar más normas europeas.",
+        1
+      ],
+      [
+        "Las compras públicas de tecnología estratégica deberían coordinarse más a escala europea.",
+        -1
+      ],
+      [
+        "España debería negociar por separado cuando una política exterior europea común limite sus opciones.",
+        1
+      ],
+      [
+        "La protección de derechos debería tener garantías europeas más uniformes.",
+        -1
+      ],
+      [
+        "La soberanía presupuestaria nacional debería prevalecer sobre la coordinación europea.",
+        1
+      ],
+      [
+        "Los países europeos deberían compartir más capacidades de protección civil.",
+        -1
+      ],
+      [
+        "La integración europea debería detenerse antes de transferir nuevas competencias estatales.",
+        1
       ]
     ],
     [
@@ -252,6 +492,46 @@ window.AXIS_DATA = {
       [
         "Los servicios esenciales deberían tener más empresas de titularidad pública.",
         -1
+      ],
+      [
+        "El transporte colectivo esencial debería gestionarse principalmente desde entidades públicas.",
+        -1
+      ],
+      [
+        "Las administraciones deberían contratar más servicios a empresas cuando estas ofrezcan mejores condiciones.",
+        1
+      ],
+      [
+        "La atención a la dependencia debería prestarse principalmente con una red pública propia.",
+        -1
+      ],
+      [
+        "La gestión privada debería tener más espacio en instalaciones financiadas con dinero público.",
+        1
+      ],
+      [
+        "La investigación de interés general debería contar con más centros públicos.",
+        -1
+      ],
+      [
+        "Los ciudadanos deberían poder elegir más proveedores privados dentro de servicios financiados públicamente.",
+        1
+      ],
+      [
+        "Las infraestructuras de agua deberían permanecer principalmente en manos públicas.",
+        -1
+      ],
+      [
+        "La competencia entre proveedores puede mejorar la prestación de servicios esenciales.",
+        1
+      ],
+      [
+        "La administración debería ampliar su capacidad directa de atención social.",
+        -1
+      ],
+      [
+        "Los servicios públicos deberían recurrir más a concesiones si se garantiza su calidad.",
+        1
       ]
     ],
     [
@@ -273,6 +553,46 @@ window.AXIS_DATA = {
       ],
       [
         "La competencia suele resolver los problemas de oferta mejor que la planificación pública.",
+        1
+      ],
+      [
+        "La administración debería fijar condiciones más estrictas para operar en sectores esenciales.",
+        -1
+      ],
+      [
+        "Crear una empresa debería exigir menos autorizaciones previas.",
+        1
+      ],
+      [
+        "El Estado debería orientar más inversiones hacia actividades consideradas estratégicas.",
+        -1
+      ],
+      [
+        "Las decisiones de precios deberían quedar principalmente en manos de compradores y vendedores.",
+        1
+      ],
+      [
+        "Los límites a la concentración empresarial deberían aplicarse con mayor rigor.",
+        -1
+      ],
+      [
+        "Las nuevas actividades económicas deberían poder empezar salvo prohibición expresamente justificada.",
+        1
+      ],
+      [
+        "La planificación pública debería tener más peso en la oferta de vivienda.",
+        -1
+      ],
+      [
+        "Los empresarios deberían disponer de más margen para adaptar sus negocios a cambios de demanda.",
+        1
+      ],
+      [
+        "Los poderes públicos deberían intervenir más cuando una actividad genere dependencia económica.",
+        -1
+      ],
+      [
+        "La regulación económica debería reducirse cuando limite la entrada de nuevos competidores.",
         1
       ]
     ],
@@ -296,6 +616,46 @@ window.AXIS_DATA = {
       [
         "Es aceptable elevar la recaudación si se destina a mejorar de forma verificable los servicios públicos.",
         -1
+      ],
+      [
+        "La recaudación debería aumentar para reducir las diferencias de renta.",
+        -1
+      ],
+      [
+        "Los impuestos sobre el ahorro deberían bajar aunque se recaude menos.",
+        1
+      ],
+      [
+        "Las prestaciones universales justifican una mayor contribución fiscal general.",
+        -1
+      ],
+      [
+        "Los impuestos deberían mantenerse bajos aunque algunos servicios dependan de pagos individuales.",
+        1
+      ],
+      [
+        "La fiscalidad debería compensar más las ventajas de los grandes patrimonios heredados.",
+        -1
+      ],
+      [
+        "La prioridad presupuestaria debería ser aliviar la carga tributaria de hogares y empresas.",
+        1
+      ],
+      [
+        "El sistema tributario debería financiar más garantías de ingresos mínimos.",
+        -1
+      ],
+      [
+        "Los beneficios fiscales deberían ampliarse para estimular la inversión privada.",
+        1
+      ],
+      [
+        "Las rentas extraordinarias deberían contribuir más cuando crece la desigualdad.",
+        -1
+      ],
+      [
+        "Reducir la recaudación puede ser preferible a ampliar nuevos programas de gasto.",
+        1
       ]
     ],
     [
@@ -318,6 +678,46 @@ window.AXIS_DATA = {
       [
         "Las políticas públicas deberían justificarse con razones compartibles con independencia de la religión.",
         -1
+      ],
+      [
+        "Los actos oficiales deberían evitar identificarse con una confesión religiosa.",
+        -1
+      ],
+      [
+        "Las confesiones deberían conservar vías estables de colaboración con las instituciones.",
+        1
+      ],
+      [
+        "Los cargos públicos deberían justificar sus decisiones sin recurrir a autoridad religiosa.",
+        -1
+      ],
+      [
+        "La preservación del patrimonio religioso merece cooperación institucional específica.",
+        1
+      ],
+      [
+        "La administración debería ofrecer ceremonias civiles equivalentes a las religiosas.",
+        -1
+      ],
+      [
+        "Las tradiciones religiosas locales deberían poder formar parte de celebraciones institucionales.",
+        1
+      ],
+      [
+        "La financiación pública de actividades confesionales debería limitarse más.",
+        -1
+      ],
+      [
+        "La enseñanza debería dedicar más espacio al legado religioso de la sociedad.",
+        1
+      ],
+      [
+        "Los privilegios institucionales basados exclusivamente en la confesión deberían suprimirse.",
+        -1
+      ],
+      [
+        "Las organizaciones religiosas deberían tener una participación estable en el diálogo institucional.",
+        1
       ]
     ],
     [
@@ -340,6 +740,46 @@ window.AXIS_DATA = {
       [
         "Las personas adultas deberían tener más libertad para decidir sobre su final de vida con garantías.",
         -1
+      ],
+      [
+        "Las normas sociales deberían adaptarse más rápido a nuevas formas de convivencia.",
+        -1
+      ],
+      [
+        "La continuidad de las costumbres compartidas debería pesar más al aprobar reformas.",
+        1
+      ],
+      [
+        "La educación debería cuestionar más los roles sociales heredados.",
+        -1
+      ],
+      [
+        "Las políticas familiares deberían reforzar modelos que han dado estabilidad a las comunidades.",
+        1
+      ],
+      [
+        "Las personas deberían tener mayor libertad para apartarse de expectativas tradicionales.",
+        -1
+      ],
+      [
+        "Los cambios de costumbres deberían avanzar con prudencia para evitar fracturas sociales.",
+        1
+      ],
+      [
+        "La ley debería reconocer nuevas formas de organización familiar con mayor facilidad.",
+        -1
+      ],
+      [
+        "Las tradiciones transmitidas entre generaciones merecen protección activa.",
+        1
+      ],
+      [
+        "Las instituciones deberían promover más cambios cuando detecten desigualdades de trato.",
+        -1
+      ],
+      [
+        "Antes de cambiar una norma social debería exigirse una justificación especialmente sólida.",
+        1
       ]
     ],
     [
@@ -362,6 +802,46 @@ window.AXIS_DATA = {
       [
         "Las nuevas tecnologías deberían someterse a controles ambientales preventivos antes de extenderse.",
         -1
+      ],
+      [
+        "Los proyectos productivos deberían afrontar límites ambientales más exigentes.",
+        -1
+      ],
+      [
+        "Las normas ambientales deberían flexibilizarse si frenan actividades esenciales.",
+        1
+      ],
+      [
+        "La protección de ecosistemas debería prevalecer incluso cuando reduzca oportunidades de inversión.",
+        -1
+      ],
+      [
+        "La transición ambiental debería ralentizarse cuando encarece mucho la vida cotidiana.",
+        1
+      ],
+      [
+        "El transporte debería reorganizarse para reducir más emisiones aunque limite ciertos usos.",
+        -1
+      ],
+      [
+        "La industria debería disponer de más tiempo para adaptarse a nuevas exigencias ambientales.",
+        1
+      ],
+      [
+        "La reparación del daño ecológico debería incorporarse al coste de producir.",
+        -1
+      ],
+      [
+        "La continuidad de la producción local debería pesar más que objetivos ambientales muy ambiciosos.",
+        1
+      ],
+      [
+        "Los riesgos ambientales inciertos pueden justificar medidas preventivas estrictas.",
+        -1
+      ],
+      [
+        "La expansión de infraestructura debería tener prioridad cuando es clave para la actividad económica.",
+        1
       ]
     ],
     [
@@ -383,6 +863,46 @@ window.AXIS_DATA = {
       ],
       [
         "Un partido único puede ser preferible al pluralismo si garantiza estabilidad y desarrollo.",
+        1
+      ],
+      [
+        "El Gobierno debería aceptar límites institucionales aunque ralentizan sus proyectos.",
+        -1
+      ],
+      [
+        "En situaciones graves un ejecutivo fuerte debería poder reducir el papel de la oposición.",
+        1
+      ],
+      [
+        "La crítica pública al poder debería protegerse especialmente.",
+        -1
+      ],
+      [
+        "La estabilidad política puede justificar restringir la competencia entre partidos.",
+        1
+      ],
+      [
+        "Ninguna mayoría debería eliminar la posibilidad de alternancia real.",
+        -1
+      ],
+      [
+        "Las decisiones de un liderazgo eficaz deberían estar por encima de controles que bloqueen su acción.",
+        1
+      ],
+      [
+        "Las elecciones deberían permitir competir a distintas opciones dentro de garantías comunes.",
+        -1
+      ],
+      [
+        "El mando político concentrado puede ser preferible si resuelve problemas con rapidez.",
+        1
+      ],
+      [
+        "Las instituciones independientes deberían poder investigar al poder ejecutivo.",
+        -1
+      ],
+      [
+        "La oposición debería tener menos capacidad de frenar decisiones durante una crisis nacional.",
         1
       ]
     ],
@@ -406,6 +926,46 @@ window.AXIS_DATA = {
       [
         "España debería sustituir la monarquía por una república mediante un procedimiento democrático.",
         -1
+      ],
+      [
+        "La jefatura del Estado debería tener un mandato temporal.",
+        -1
+      ],
+      [
+        "La continuidad hereditaria puede servir como garantía de estabilidad institucional.",
+        1
+      ],
+      [
+        "El Parlamento debería poder elegir al jefe del Estado sin criterios dinásticos.",
+        -1
+      ],
+      [
+        "Una casa real puede representar al país por encima de los ciclos electorales.",
+        1
+      ],
+      [
+        "Todos los cargos institucionales superiores deberían poder renovarse mediante elección.",
+        -1
+      ],
+      [
+        "La permanencia de la Corona ofrece una referencia institucional que conviene conservar.",
+        1
+      ],
+      [
+        "El acceso a la jefatura del Estado debería estar abierto a cualquier ciudadano que cumpla los requisitos.",
+        -1
+      ],
+      [
+        "La tradición monárquica tiene valor político aunque no derive de una elección periódica.",
+        1
+      ],
+      [
+        "La ciudadanía debería poder decidir democráticamente sustituir la Corona por un cargo electivo.",
+        -1
+      ],
+      [
+        "La sucesión dinástica es una forma aceptable de garantizar continuidad en la representación del Estado.",
+        1
       ]
     ],
     [
@@ -428,6 +988,46 @@ window.AXIS_DATA = {
       [
         "La economía debería organizarse principalmente a través de cooperativas y empresas de propiedad compartida.",
         -1
+      ],
+      [
+        "La propiedad colectiva debería extenderse a más actividades productivas.",
+        -1
+      ],
+      [
+        "El derecho a crear y poseer empresas debería ser una base principal de la economía.",
+        1
+      ],
+      [
+        "Las empresas de propiedad compartida deberían sustituir progresivamente a muchas sociedades privadas.",
+        -1
+      ],
+      [
+        "Las participaciones empresariales deberían poder comprarse y venderse con libertad dentro de la ley.",
+        1
+      ],
+      [
+        "La acumulación de grandes medios de producción privados debería limitarse más.",
+        -1
+      ],
+      [
+        "La aportación de capital justifica derechos de propiedad empresarial permanentes.",
+        1
+      ],
+      [
+        "Las comunidades deberían disponer de más empresas de propiedad colectiva.",
+        -1
+      ],
+      [
+        "La propiedad privada facilita asumir riesgos productivos y debería protegerse especialmente.",
+        1
+      ],
+      [
+        "Los bienes productivos estratégicos deberían pertenecer principalmente a la sociedad.",
+        -1
+      ],
+      [
+        "Las empresas privadas deberían seguir siendo el modelo principal incluso en sectores importantes.",
+        1
       ]
     ],
     [
@@ -449,6 +1049,46 @@ window.AXIS_DATA = {
       ],
       [
         "La jerarquía empresarial suele ser preferible a decidir por asamblea las cuestiones de gestión.",
+        1
+      ],
+      [
+        "La plantilla debería votar decisiones relevantes de la organización del trabajo.",
+        -1
+      ],
+      [
+        "La gerencia debería conservar la última palabra en las decisiones productivas.",
+        1
+      ],
+      [
+        "Los trabajadores deberían participar de forma vinculante en planes de inversión que afecten a su empleo.",
+        -1
+      ],
+      [
+        "Una cadena de mando definida facilita la gestión y debería tener prioridad.",
+        1
+      ],
+      [
+        "La elección de responsables de equipo debería depender más de los trabajadores.",
+        -1
+      ],
+      [
+        "Los propietarios deberían poder nombrar libremente a los directivos dentro de la ley.",
+        1
+      ],
+      [
+        "Las empresas deberían utilizar más estructuras de decisión compartida con la plantilla.",
+        -1
+      ],
+      [
+        "La consulta a trabajadores debería ser principalmente asesoramiento y no poder de veto.",
+        1
+      ],
+      [
+        "Los convenios deberían ampliar la participación laboral en la dirección de las empresas.",
+        -1
+      ],
+      [
+        "La responsabilidad de dirigir justifica reservar a la gerencia las decisiones finales.",
         1
       ]
     ]
@@ -518,13 +1158,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Presidente del Gobierno, Pedro Sánchez.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg/500px-Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg",
+        "url": "portraits/sanchez.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno,_Pedro_S%C3%A1nchez.jpg",
         "author": "Pool Moncloa / Borja Puig de la Bellacasa",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg#Licensing",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno,_Pedro_S%C3%A1nchez.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg/500px-Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -716,13 +1360,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Alberto Núñez Feijóo June 2023.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg/500px-Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg",
+        "url": "portraits/feijoo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg",
         "author": "European People's Party",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg/500px-Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -911,13 +1559,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Santiago Abascal portrait.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Santiago_Abascal_portrait.jpg/500px-Santiago_Abascal_portrait.jpg",
+        "url": "portraits/abascal.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_portrait.jpg",
         "author": "Vox España",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_portrait.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Santiago_Abascal_portrait.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Santiago_Abascal_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Santiago_Abascal_portrait.jpg/500px-Santiago_Abascal_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -1117,13 +1769,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "270921-yolanda-diaz-perez cropped.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/270921-yolanda-diaz-perez_cropped.jpg/500px-270921-yolanda-diaz-perez_cropped.jpg",
+        "url": "portraits/diaz.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:270921-yolanda-diaz-perez_cropped.jpg",
         "author": "La Moncloa (pool Moncloa)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:270921-yolanda-diaz-perez_cropped.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/270921-yolanda-diaz-perez_cropped.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/270921-yolanda-diaz-perez_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/270921-yolanda-diaz-perez_cropped.jpg/500px-270921-yolanda-diaz-perez_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -1320,13 +1976,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Gabriel Rufian 2015.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gabriel_Rufian_2015.jpg/500px-Gabriel_Rufian_2015.jpg",
+        "url": "portraits/rufian.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Rufian_2015.jpg",
         "author": "Jove",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Rufian_2015.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gabriel_Rufian_2015.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gabriel_Rufian_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gabriel_Rufian_2015.jpg/500px-Gabriel_Rufian_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -1508,13 +2168,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Aitor Esteban 2025 (cropped).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg/500px-Aitor_Esteban_2025_%28cropped%29.jpg",
+        "url": "portraits/esteban.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Aitor_Esteban_2025_(cropped).jpg",
         "author": "Irekia - Eusko Jaurlaritza",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aitor_Esteban_2025_(cropped).jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/es/deed.en",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0 es",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -1699,13 +2363,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Rallo.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Rallo.jpg/500px-Rallo.jpg",
+        "url": "portraits/rallo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Rallo.jpg",
         "author": "Gusker227",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rallo.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rallo.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -1874,13 +2542,17 @@ window.AXIS_DATA = {
       "core": [],
       "image": {
         "file": "Juan Torres López 2013.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg/500px-Juan_Torres_L%C3%B3pez_2013.jpg",
+        "url": "portraits/torres.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Juan_Torres_L%C3%B3pez_2013.jpg",
         "author": "Fundación Internacional Baltasar Garzón (youtube)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juan_Torres_L%C3%B3pez_2013.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg/500px-Juan_Torres_L%C3%B3pez_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -2040,13 +2712,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Foro España sin Filtros - Daniel Lacalle 01.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg/500px-Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg",
+        "url": "portraits/lacalle.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg",
         "author": "PP Comunidad de Madrid",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg/500px-Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
@@ -2212,13 +2888,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Recaredo I, rey de los Visigodos (Museo del Prado).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg/500px-Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Recaredo_I%2C_rey_de_los_Visigodos_(Museo_del_Prado).jpg",
-        "author": "Dióscoro Puebla (1831–1901)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Recaredo_I%2C_rey_de_los_Visigodos_(Museo_del_Prado).jpg#Licensing",
+        "url": "portraits/recaredo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Recaredo_I,_rey_de_los_Visigodos_(Museo_del_Prado).jpg",
+        "author": "Dióscoro Puebla",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Recaredo_I,_rey_de_los_Visigodos_(Museo_del_Prado).jpg#Licensing",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg/500px-Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -2382,13 +3062,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Don Pelayo, rey de Asturias (Museo del Prado).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg/500px-Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Don_Pelayo%2C_rey_de_Asturias_(Museo_del_Prado).jpg",
-        "author": "Luis de Madrazo (1825–1897)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Don_Pelayo%2C_rey_de_Asturias_(Museo_del_Prado).jpg#Licensing",
+        "url": "portraits/pelayo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Don_Pelayo,_rey_de_Asturias_(Museo_del_Prado).jpg",
+        "author": "Luis de Madrazo",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Don_Pelayo,_rey_de_Asturias_(Museo_del_Prado).jpg#Licensing",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg/500px-Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "asturias",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -2552,13 +3236,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Alfonso X, Joaquín Domínguez Bécquer.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg/500px-Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg",
+        "url": "portraits/alfonso-x.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_X,_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg",
         "author": "Jl FilpoC",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg/500px-Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -2722,13 +3410,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Isabel I de Castilla-1504.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Isabel_I_de_Castilla-1504.jpg/500px-Isabel_I_de_Castilla-1504.jpg",
+        "url": "portraits/isabel-i.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Isabel_I_de_Castilla-1504.jpg",
         "author": "Basilio",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Isabel_I_de_Castilla-1504.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Isabel_I_de_Castilla-1504.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Isabel_I_de_Castilla-1504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Isabel_I_de_Castilla-1504.jpg/500px-Isabel_I_de_Castilla-1504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -2893,13 +3585,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Felipe II, Cornelis van Cleve.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg/500px-Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg",
+        "url": "portraits/felipe-ii.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II,_Cornelis_van_Cleve.jpg",
         "author": "Cornelis van Cleve",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg#Licensing",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II,_Cornelis_van_Cleve.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg/500px-Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3068,13 +3764,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Carlos III de España.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg/500px-Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg",
+        "url": "portraits/carlos-iii.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg",
-        "author": "Anton Raphael Mengs (1728–1779)",
+        "author": "Anton Raphael Mengs",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg/500px-Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3251,13 +3951,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "P. Francisco de Vitoria. Salamanca. España eue.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg/500px-P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg",
+        "url": "portraits/vitoria.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg",
         "author": "Lmbuga (Luis Miguel Bugallo Sánchez)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg/500px-P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3432,13 +4136,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Gaspar Melchor de Jovellanos by Goya (1798).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg/500px-Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg",
+        "url": "portraits/jovellanos.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Gaspar_Melchor_de_Jovellanos_by_Goya_(1798).jpg",
-        "author": "Francisco de Goya; autoría de la reproducción indicada en Commons",
+        "author": "Unknown author Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gaspar_Melchor_de_Jovellanos_by_Goya_(1798).jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg/500px-Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3615,13 +4323,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Fernando VII.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Retrato_de_Fernando_VII.jpg/500px-Retrato_de_Fernando_VII.jpg",
+        "url": "portraits/fernando-vii.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Fernando_VII.jpg",
         "author": "Vicente Capilla (grabado) Luis Marchesi (dibujo)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Fernando_VII.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Retrato_de_Fernando_VII.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Retrato_de_Fernando_VII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Retrato_de_Fernando_VII.jpg/500px-Retrato_de_Fernando_VII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3795,13 +4507,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Agustin Arguelles.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Agustin_Arguelles.jpg/500px-Agustin_Arguelles.jpg",
+        "url": "portraits/arguelles.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Agustin_Arguelles.jpg",
         "author": "Federico Jiménez y Fernández (1841-1910)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Agustin_Arguelles.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Agustin_Arguelles.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Agustin_Arguelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Agustin_Arguelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -3978,13 +4694,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Carlos María Isidro de Borbón, por Vicente López.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg/500px-Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg",
-        "author": "Vicente López Portaña (1772–1850)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg#Licensing",
+        "url": "portraits/carlos-isidro.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n,_por_Vicente_L%C3%B3pez.jpg",
+        "author": "Vicente López Portaña",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n,_por_Vicente_L%C3%B3pez.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg/500px-Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "carlista",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -4160,13 +4880,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Antonio Cánovas del Castillo (Fecha desconocida) - Debas, Fernando, 1842-1914.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Antonio_C%C3%A1novas_del_Castillo_(Fecha_desconocida)_-_Debas%2C_Fernando%2C_1842-1914.jpg",
-        "author": "Fernando Debas / Biblioteca Virtual del Patrimonio Bibliográfico",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Antonio_C%C3%A1novas_del_Castillo_(Fecha_desconocida)_-_Debas%2C_Fernando%2C_1842-1914.jpg#Licensing",
+        "url": "portraits/canovas.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Antonio_C%C3%A1novas_del_Castillo_(Fecha_desconocida)_-_Debas,_Fernando,_1842-1914.jpg",
+        "author": "Biblioteca Virtual del Patrimonio Bibliográfico",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -4346,13 +5070,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Práxedes Mateo Sagasta (ca. 1880-1890) - Debas, Fernando, 1842-1914.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1xedes_Mateo_Sagasta_(ca._1880-1890)_-_Debas%2C_Fernando%2C_1842-1914.jpg",
-        "author": "Fernando Debas / Biblioteca Virtual del Patrimonio Bibliográfico",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1xedes_Mateo_Sagasta_(ca._1880-1890)_-_Debas%2C_Fernando%2C_1842-1914.jpg#Licensing",
+        "url": "portraits/sagasta.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1xedes_Mateo_Sagasta_(ca._1880-1890)_-_Debas,_Fernando,_1842-1914.jpg",
+        "author": "Biblioteca Virtual del Patrimonio Bibliográfico",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -4532,13 +5260,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Emilio Castelar.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Emilio_Castelar.jpg/500px-Emilio_Castelar.jpg",
+        "url": "portraits/castelar.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Emilio_Castelar.jpg",
-        "author": "Bartomeu Maura i Montaner (1844–1926)",
+        "author": "Bartomeu Maura i Montaner",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Emilio_Castelar.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Emilio_Castelar.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Emilio_Castelar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Emilio_Castelar.jpg/500px-Emilio_Castelar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -4719,13 +5451,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "ConcepciónArenalRetrato.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Concepci%C3%B3nArenalRetrato.jpg/500px-Concepci%C3%B3nArenalRetrato.jpg",
+        "url": "portraits/arenal.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Concepci%C3%B3nArenalRetrato.jpg",
-        "author": "Xosé Calvo (gl:User:Xosé)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Concepci%C3%B3nArenalRetrato.jpg#Licensing",
+        "author": "Xosé Calvo ( gl:User:Xosé )",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Concepci%C3%B3nArenalRetrato.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Concepci%C3%B3nArenalRetrato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Concepci%C3%B3nArenalRetrato.jpg/500px-Concepci%C3%B3nArenalRetrato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -4901,13 +5637,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Emilia Pardo Bazán 1894.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg/500px-Emilia_Pardo_Baz%C3%A1n_1894.jpg",
+        "url": "portraits/pardo-bazan.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Emilia_Pardo_Baz%C3%A1n_1894.jpg",
-        "author": "Joaquín Vaamonde Cornide (1872–1900)",
+        "author": "Joaquín Vaamonde Cornide",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Emilia_Pardo_Baz%C3%A1n_1894.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -5077,13 +5817,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Joaquín Costa, de Compañy.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg/500px-Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg",
-        "author": "Manuel Compañy (1858–1909)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg#Licensing",
+        "url": "portraits/costa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa,_de_Compa%C3%B1y.jpg",
+        "author": "Manuel Compañy",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa,_de_Compa%C3%B1y.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg/500px-Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -5259,13 +6003,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Pablo Iglesias photo.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pablo_Iglesias_photo.jpg/500px-Pablo_Iglesias_photo.jpg",
+        "url": "portraits/iglesias-posse.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Pablo_Iglesias_photo.jpg",
-        "author": "Autoría desconocida",
+        "author": "Unknown author Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pablo_Iglesias_photo.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pablo_Iglesias_photo.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pablo_Iglesias_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pablo_Iglesias_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -5452,13 +6200,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Miguel de Unamuno 1912.png",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Miguel_de_Unamuno_1912.png/500px-Miguel_de_Unamuno_1912.png",
+        "url": "portraits/unamuno.png",
         "source": "https://commons.wikimedia.org/wiki/File:Miguel_de_Unamuno_1912.png",
-        "author": "Autoría desconocida",
+        "author": "No consta",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Miguel_de_Unamuno_1912.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Miguel_de_Unamuno_1912.png"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Miguel_de_Unamuno_1912.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Miguel_de_Unamuno_1912.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -5647,13 +6399,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "José Ortega y Gasset, Nuevo Mundo, 06-08-1920 (cropped).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg/500px-Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_(cropped).jpg",
-        "author": "Autoría desconocida",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_(cropped).jpg#Licensing",
+        "url": "portraits/ortega.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset,_Nuevo_Mundo,_06-08-1920_(cropped).jpg",
+        "author": "Not stated. Unknown author Unknown author",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset,_Nuevo_Mundo,_06-08-1920_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg/500px-Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -5849,13 +6605,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Francisco Largo Caballero.png",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Francisco_Largo_Caballero.png/500px-Francisco_Largo_Caballero.png",
+        "url": "portraits/largo.png",
         "source": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero.png",
-        "author": "Autoría desconocida",
+        "author": "Unknown author Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Francisco_Largo_Caballero.png"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Francisco_Largo_Caballero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Francisco_Largo_Caballero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -6045,13 +6805,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Indalecio Prieto (2).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Indalecio_Prieto_%282%29.jpg/500px-Indalecio_Prieto_%282%29.jpg",
+        "url": "portraits/prieto.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto_(2).jpg",
         "author": "Metro Centric",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto_(2).jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indalecio_Prieto_%282%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indalecio_Prieto_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Indalecio_Prieto_%282%29.jpg/500px-Indalecio_Prieto_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -6242,13 +7006,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Dolores Ibárruri 1936.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dolores_Ib%C3%A1rruri_1936.jpg/500px-Dolores_Ib%C3%A1rruri_1936.jpg",
+        "url": "portraits/ibarruri.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Dolores_Ib%C3%A1rruri_1936.jpg",
         "author": "Agence de presse Meurisse",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dolores_Ib%C3%A1rruri_1936.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dolores_Ib%C3%A1rruri_1936.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dolores_Ib%C3%A1rruri_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dolores_Ib%C3%A1rruri_1936.jpg/500px-Dolores_Ib%C3%A1rruri_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -6437,13 +7205,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Santiago Carrillo.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Santiago_Carrillo.jpg/500px-Santiago_Carrillo.jpg",
+        "url": "portraits/carrillo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Santiago_Carrillo.jpg",
-        "author": "Pep Parer / Museu d’Història de Catalunya",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Santiago_Carrillo.jpg#Licensing",
+        "author": "Museu d'Història de Catalunya (fotògraf: Pep Parer)",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Santiago_Carrillo.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Santiago_Carrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Santiago_Carrillo.jpg/500px-Santiago_Carrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -6632,13 +7404,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Durruti-portrait.png",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Durruti-portrait.png/500px-Durruti-portrait.png",
+        "url": "portraits/durruti.png",
         "source": "https://commons.wikimedia.org/wiki/File:Durruti-portrait.png",
-        "author": "Autoría desconocida",
+        "author": "The photographer is not known.",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Durruti-portrait.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Durruti-portrait.png"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Durruti-portrait.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Durruti-portrait.png/500px-Durruti-portrait.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -6825,13 +7601,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Victoria Kent.png",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Victoria_Kent.png/500px-Victoria_Kent.png",
+        "url": "portraits/kent.png",
         "source": "https://commons.wikimedia.org/wiki/File:Victoria_Kent.png",
-        "author": "Autoría desconocida",
+        "author": "No consta",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Kent.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Victoria_Kent.png"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Victoria_Kent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Victoria_Kent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7017,13 +7797,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Jose Antonio Primo de Rivera (1936).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg/500px-Jose_Antonio_Primo_de_Rivera_%281936%29.jpg",
+        "url": "portraits/jose-antonio.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Jose_Antonio_Primo_de_Rivera_(1936).jpg",
-        "author": "Autoría desconocida",
+        "author": "Unknown author Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jose_Antonio_Primo_de_Rivera_(1936).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "falange",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7215,13 +7999,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Francisco Franco 1930 Portrait.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francisco_Franco_1930_Portrait.jpg/500px-Francisco_Franco_1930_Portrait.jpg",
+        "url": "portraits/franco.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_1930_Portrait.jpg",
-        "author": "Jalón Ángel (1898–1976)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_1930_Portrait.jpg#Licensing",
+        "author": "Jalón Ángel",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Francisco_Franco_1930_Portrait.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Francisco_Franco_1930_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francisco_Franco_1930_Portrait.jpg/500px-Francisco_Franco_1930_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7407,13 +8195,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Miguel Primo de Rivera, Kaulak.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg/500px-Miguel_Primo_de_Rivera%2C_Kaulak.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera%2C_Kaulak.jpg",
-        "author": "Kaulak (1862–1933)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera%2C_Kaulak.jpg#Licensing",
+        "url": "portraits/primo-rivera.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera,_Kaulak.jpg",
+        "author": "Kaulak",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg/500px-Miguel_Primo_de_Rivera%2C_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7584,13 +8376,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Sabino Arana in Larrinaga prison, 1895.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg/500px-Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg",
-        "author": "Autoría desconocida",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg#Licensing",
+        "url": "portraits/arana.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison,_1895.jpg",
+        "author": "Unknown author Unknown author",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison,_1895.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg/500px-Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "ikurrina",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7762,13 +8558,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Lluís Companys.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Llu%C3%ADs_Companys.jpg/500px-Llu%C3%ADs_Companys.jpg",
+        "url": "portraits/companys.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Llu%C3%ADs_Companys.jpg",
-        "author": "Autoría desconocida",
+        "author": "Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Llu%C3%ADs_Companys.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Llu%C3%ADs_Companys.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Llu%C3%ADs_Companys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Llu%C3%ADs_Companys.jpg/500px-Llu%C3%ADs_Companys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "senyera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -7951,13 +8751,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Blas Infante.png",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Blas_Infante.png/500px-Blas_Infante.png",
+        "url": "portraits/blas-infante.png",
         "source": "https://commons.wikimedia.org/wiki/File:Blas_Infante.png",
-        "author": "Autoría desconocida",
+        "author": "No consta",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blas_Infante.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Blas_Infante.png"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Blas_Infante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Blas_Infante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "andalucia",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -8141,13 +8945,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Adolfo Suárez 1979c (cropped).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg/500px-Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg",
+        "url": "portraits/suarez.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Adolfo_Su%C3%A1rez_1979c_(cropped).jpg",
         "author": "Ministerio de la Presidencia. Gobierno de España.",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Adolfo_Su%C3%A1rez_1979c_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg/500px-Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -8339,13 +9147,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato Oficial Fraga Iribarne.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Retrato_Oficial_Fraga_Iribarne.jpg/500px-Retrato_Oficial_Fraga_Iribarne.jpg",
+        "url": "portraits/fraga.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Fraga_Iribarne.jpg",
         "author": "Xunta de Galicia",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Fraga_Iribarne.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Retrato_Oficial_Fraga_Iribarne.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Retrato_Oficial_Fraga_Iribarne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Retrato_Oficial_Fraga_Iribarne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -8538,13 +9350,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Felipe González (2012).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg/500px-Felipe_Gonz%C3%A1lez_%282012%29.jpg",
+        "url": "portraits/gonzalez.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Felipe_Gonz%C3%A1lez_(2012).jpg",
-        "author": "Eva Ercolanese / Alfredo Pérez Rubalcaba (Flickr)",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Felipe_Gonz%C3%A1lez_(2012).jpg#Licensing",
+        "author": "Alfredo Pérez Rubalcaba from Madrid- España, España",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg/500px-Felipe_Gonz%C3%A1lez_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -8739,13 +9555,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "José María Aznar 2000 (cropped).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg/500px-Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg",
+        "url": "portraits/aznar.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_2000_(cropped).jpg",
-        "author": "Ministerio de la Presidencia / Pool Moncloa",
+        "author": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_2000_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -8936,13 +9756,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Manuel Azaña Díaz.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/500px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
+        "url": "portraits/azana.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
-        "author": "Autoría desconocida",
+        "author": "Unknown author Unknown author",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/500px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -9134,13 +9958,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Francisco Pi y Margall (1869).jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg/500px-Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg",
+        "url": "portraits/pi.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Francisco_Pi_y_Margall_(1869).jpg",
         "author": "Biblioteca Nacional de España",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Francisco_Pi_y_Margall_(1869).jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg/500px-Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -9324,13 +10152,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Clara Campoamor-2.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Clara_Campoamor-2.jpg/500px-Clara_Campoamor-2.jpg",
+        "url": "portraits/campoamor.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Clara_Campoamor-2.jpg",
         "author": "Virgilio Muro (1891-1967)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Clara_Campoamor-2.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Clara_Campoamor-2.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Clara_Campoamor-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Clara_Campoamor-2.jpg/500px-Clara_Campoamor-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -9505,13 +10337,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Federica Montseny.jpg",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Federica_Montseny.jpg/500px-Federica_Montseny.jpg",
+        "url": "portraits/montseny.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Federica_Montseny.jpg",
         "author": "Manel Armengol",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Federica_Montseny.jpg#Licensing",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
-        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Federica_Montseny.jpg"
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Federica_Montseny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Federica_Montseny.jpg/500px-Federica_Montseny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
@@ -9692,11 +10528,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Abderramán III",
         "url": "portraits/abderraman-iii.jpg",
-        "source": "https://es.wikipedia.org/wiki/Abderram%C3%A1n_III",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Abderram%C3%A1n_III",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Dirham_abd_al_rahman_iii_17494.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Numismática Pliego",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Dirham abd al rahman iii 17494.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dirham_abd_al_rahman_iii_17494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dirham_abd_al_rahman_iii_17494.jpg/500px-Dirham_abd_al_rahman_iii_17494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "andalusi",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -9852,11 +10694,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Averroes",
         "url": "portraits/averroes.jpg",
-        "source": "https://es.wikipedia.org/wiki/Averroes",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Averroes",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Averroes_in_C%C3%B3rdoba,_Spain.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Saleemzohaib",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Statue of Averroes in Córdoba, Spain.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Statue_of_Averroes_in_C%C3%B3rdoba%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Statue_of_Averroes_in_C%C3%B3rdoba%2C_Spain.jpg/500px-Statue_of_Averroes_in_C%C3%B3rdoba%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "andalusi",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10012,11 +10860,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Isidoro de Sevilla",
         "url": "portraits/isidoro.jpg",
-        "source": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Isidor_von_Sevilla.jpeg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Isidor_von_Sevilla.jpeg#Licensing",
+        "author": "Bartolomé Esteban Murillo",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Isidor von Sevilla.jpeg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Isidor_von_Sevilla.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Isidor_von_Sevilla.jpeg/500px-Isidor_von_Sevilla.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10180,11 +11034,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Fernando III de Castilla",
         "url": "portraits/fernando-iii.jpg",
-        "source": "https://es.wikipedia.org/wiki/Fernando_III_de_Castilla",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Fernando_III_de_Castilla",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Fernando_III_de_Castilla_02.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fernando_III_de_Castilla_02.jpg#Licensing",
+        "author": "Anonymous Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Fernando III de Castilla 02.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fernando_III_de_Castilla_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fernando_III_de_Castilla_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10348,11 +11208,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Jaime I de Aragón",
         "url": "portraits/jaime-i.jpg",
-        "source": "https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_rey_Jaime_I_el_Conquistador,_por_Jaume_Mateu.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:El_rey_Jaime_I_el_Conquistador,_por_Jaume_Mateu.jpg#Licensing",
+        "author": "Gonçal Peris Sarrià and Jaume Mateu",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "El rey Jaime I el Conquistador, por Jaume Mateu.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/El_rey_Jaime_I_el_Conquistador%2C_por_Jaume_Mateu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/El_rey_Jaime_I_el_Conquistador%2C_por_Jaume_Mateu.jpg/500px-El_rey_Jaime_I_el_Conquistador%2C_por_Jaume_Mateu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10515,11 +11381,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan de Mariana",
         "url": "portraits/mariana.jpg",
-        "source": "https://es.wikipedia.org/wiki/Juan_de_Mariana",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_de_Mariana",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_padre_Juan_de_Mariana_(Museo_del_Prado).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:El_padre_Juan_de_Mariana_(Museo_del_Prado).jpg#Licensing",
+        "author": "Matías Moreno",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "El padre Juan de Mariana (Museo del Prado).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/El_padre_Juan_de_Mariana_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/El_padre_Juan_de_Mariana_%28Museo_del_Prado%29.jpg/500px-El_padre_Juan_de_Mariana_%28Museo_del_Prado%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "borgona",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10690,11 +11562,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Francisco Suárez",
         "url": "portraits/suarez-filosofo.jpg",
-        "source": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Suarez_LOC_hec.13754_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Suarez_LOC_hec.13754_(cropped).jpg#Licensing",
+        "author": "Harris & Ewing Collection",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Suarez LOC hec.13754 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Suarez_LOC_hec.13754_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Suarez_LOC_hec.13754_%28cropped%29.jpg/500px-Suarez_LOC_hec.13754_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "borgona",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -10854,11 +11732,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Luis Vives",
         "url": "portraits/luis-vives.jpg",
-        "source": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:LuisVives.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:LuisVives.jpg#Licensing",
+        "author": "Unknown artist Unknown artist",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "LuisVives.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LuisVives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/LuisVives.jpg/500px-LuisVives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11022,11 +11906,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan de Padilla",
         "url": "portraits/padilla.jpg",
-        "source": "https://es.wikipedia.org/wiki/Juan_de_Padilla",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_de_Padilla",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:1853,_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola,_vol_I,_Juan_de_Padilla_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1853,_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola,_vol_I,_Juan_de_Padilla_(cropped).jpg#Licensing",
+        "author": "Lit. de J. Donon",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "1853, Los mártires de la libertad española, vol I, Juan de Padilla (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/1853%2C_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola%2C_vol_I%2C_Juan_de_Padilla_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1853%2C_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola%2C_vol_I%2C_Juan_de_Padilla_%28cropped%29.jpg/500px-1853%2C_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola%2C_vol_I%2C_Juan_de_Padilla_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11196,11 +12086,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "María Pacheco",
         "url": "portraits/maria-pacheco.jpg",
-        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pacheco",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pacheco",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Detalle_de_Do%C3%B1a_Mar%C3%ADa_Pacheco_despu%C3%A9s_de_Villalar_(Museo_del_Prado)_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Detalle_de_Do%C3%B1a_Mar%C3%ADa_Pacheco_despu%C3%A9s_de_Villalar_(Museo_del_Prado)_(cropped).jpg#Licensing",
+        "author": "Vicente Borrás y Mompó",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Detalle de Doña María Pacheco después de Villalar (Museo del Prado) (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Detalle_de_Do%C3%B1a_Mar%C3%ADa_Pacheco_despu%C3%A9s_de_Villalar_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Detalle_de_Do%C3%B1a_Mar%C3%ADa_Pacheco_despu%C3%A9s_de_Villalar_%28Museo_del_Prado%29_%28cropped%29.jpg/500px-Detalle_de_Do%C3%B1a_Mar%C3%ADa_Pacheco_despu%C3%A9s_de_Villalar_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11374,11 +12270,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Baldomero Espartero",
         "url": "portraits/espartero.jpg",
-        "source": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Baldomero_Espartero_cropped.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Baldomero_Espartero_cropped.jpg#Licensing",
+        "author": "Jean Laurent (1816–1886)",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Baldomero Espartero cropped.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Baldomero_Espartero_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Baldomero_Espartero_cropped.jpg/500px-Baldomero_Espartero_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11558,11 +12460,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Ramón María Narváez",
         "url": "portraits/narvaez.jpg",
-        "source": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Narv%C3%A1ez",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Narv%C3%A1ez",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:General_Narv%C3%A1ez_1860.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Unknown Person (photographer)",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "General Narváez 1860.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/General_Narv%C3%A1ez_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/General_Narv%C3%A1ez_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11742,11 +12650,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Prim",
         "url": "portraits/prim.jpg",
-        "source": "https://es.wikipedia.org/wiki/Juan_Prim",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Prim",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Juan_Prim_y_Prats.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "Semanario Pintoresco Español",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Retrato de Juan Prim y Prats.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Retrato_de_Juan_Prim_y_Prats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Retrato_de_Juan_Prim_y_Prats.jpg/500px-Retrato_de_Juan_Prim_y_Prats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -11927,11 +12841,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Nicolás Salmerón",
         "url": "portraits/salmeron.jpg",
-        "source": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Salmer%C3%B3n",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Salmer%C3%B3n",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Salmer%C3%B3n,_de_Compa%C3%B1y_1908_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Salmer%C3%B3n,_de_Compa%C3%B1y_1908_(cropped).jpg#Licensing",
+        "author": "Manuel Compañy",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Nicolás Salmerón, de Compañy 1908 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicol%C3%A1s_Salmer%C3%B3n%2C_de_Compa%C3%B1y_1908_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicol%C3%A1s_Salmer%C3%B3n%2C_de_Compa%C3%B1y_1908_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "primera",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12110,11 +13030,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Donoso Cortés",
         "url": "portraits/donoso.jpg",
-        "source": "https://es.wikipedia.org/wiki/Juan_Donoso_Cort%C3%A9s",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Donoso_Cort%C3%A9s",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Juan_Donoso_Cort%C3%A9s,_por_Federico_Madrazo.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juan_Donoso_Cort%C3%A9s,_por_Federico_Madrazo.jpg#Licensing",
+        "author": "Federico de Madrazo y Kuntz",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Juan Donoso Cortés, por Federico Madrazo.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Juan_Donoso_Cort%C3%A9s%2C_por_Federico_Madrazo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Juan_Donoso_Cort%C3%A9s%2C_por_Federico_Madrazo.jpg/500px-Juan_Donoso_Cort%C3%A9s%2C_por_Federico_Madrazo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12294,11 +13220,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Jaime Balmes",
         "url": "portraits/balmes.jpg",
-        "source": "https://es.wikipedia.org/wiki/Jaime_Balmes",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Jaime_Balmes",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaime_Balmes.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jaime_Balmes.jpg#Licensing",
+        "author": "Nicolás González, Madrid.",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Jaime Balmes.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jaime_Balmes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaime_Balmes.jpg/500px-Jaime_Balmes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12480,11 +13412,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Francisco Giner de los Ríos",
         "url": "portraits/giner.jpg",
-        "source": "https://es.wikipedia.org/wiki/Francisco_Giner_de_los_R%C3%ADos",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Giner_de_los_R%C3%ADos",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Francisco_Giner_de_los_R%C3%ADos_(1881).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Giner_de_los_R%C3%ADos_(1881).jpg#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Francisco Giner de los Ríos (1881).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Francisco_Giner_de_los_R%C3%ADos_%281881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Francisco_Giner_de_los_R%C3%ADos_%281881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12652,11 +13590,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Gumersindo de Azcárate",
         "url": "portraits/azcarate.jpg",
-        "source": "https://es.wikipedia.org/wiki/Gumersindo_de_Azc%C3%A1rate",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Gumersindo_de_Azc%C3%A1rate",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:1917-12-22,_La_Esfera,_Azc%C3%A1rate_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1917-12-22,_La_Esfera,_Azc%C3%A1rate_(cropped).jpg#Licensing",
+        "author": "José Demaría López / Isidro Cámara",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "1917-12-22, La Esfera, Azcárate (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1917-12-22%2C_La_Esfera%2C_Azc%C3%A1rate_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1917-12-22%2C_La_Esfera%2C_Azc%C3%A1rate_%28cropped%29.jpg/500px-1917-12-22%2C_La_Esfera%2C_Azc%C3%A1rate_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12822,11 +13766,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Marcelino Menéndez Pelayo",
         "url": "portraits/menendez-pelayo.jpg",
-        "source": "https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Marcelino_Men%C3%A9ndez_Pelayo,_por_Kaulak.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Marcelino_Men%C3%A9ndez_Pelayo,_por_Kaulak.jpg#Licensing",
+        "author": "Kaulak",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Marcelino Menéndez Pelayo, por Kaulak.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcelino_Men%C3%A9ndez_Pelayo%2C_por_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Marcelino_Men%C3%A9ndez_Pelayo%2C_por_Kaulak.jpg/500px-Marcelino_Men%C3%A9ndez_Pelayo%2C_por_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -12998,11 +13948,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Antonio Maura",
         "url": "portraits/maura.jpg",
-        "source": "https://es.wikipedia.org/wiki/Antonio_Maura",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Antonio_Maura",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Antonio_Maura,_de_Kaulak_(cropped)_b.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Maura,_de_Kaulak_(cropped)_b.jpg#Licensing",
+        "author": "Kaulak",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Antonio Maura, de Kaulak (cropped) b.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Antonio_Maura%2C_de_Kaulak_%28cropped%29_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Antonio_Maura%2C_de_Kaulak_%28cropped%29_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -13181,12 +14137,18 @@ window.AXIS_DATA = {
       "wikiTitle": "José Canalejas",
       "image": {
         "wikiTitle": "José Canalejas",
-        "url": "portraits/canalejas.jpg",
-        "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Canalejas",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_Canalejas",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "url": "portraits/canalejas.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Canalejas_(cropped).png",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Canalejas_(cropped).png#Licensing",
+        "author": "Bain News Service, publisher",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "José Canalejas (cropped).png",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jos%C3%A9_Canalejas_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Jos%C3%A9_Canalejas_%28cropped%29.png/500px-Jos%C3%A9_Canalejas_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -13370,11 +14332,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Melquíades Álvarez",
         "url": "portraits/melquiades.jpg",
-        "source": "https://es.wikipedia.org/wiki/Melqu%C3%ADades_%C3%81lvarez",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Melqu%C3%ADades_%C3%81lvarez",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Melqu%C3%ADades_%C3%81lvarez.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Melquíades Álvarez.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Melqu%C3%ADades_%C3%81lvarez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Melqu%C3%ADades_%C3%81lvarez.jpg/500px-Melqu%C3%ADades_%C3%81lvarez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -13565,11 +14533,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Salvador Seguí",
         "url": "portraits/segui.jpg",
-        "source": "https://es.wikipedia.org/wiki/Salvador_Segu%C3%AD",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Salvador_Segu%C3%AD",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Salvador_Segui_(CNT).JPG",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salvador_Segui_(CNT).JPG#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Salvador Segui (CNT).JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Salvador_Segui_%28CNT%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Salvador_Segui_%28CNT%29.JPG/500px-Salvador_Segui_%28CNT%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "negra",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -13750,11 +14724,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Francisco Ferrer Guardia",
         "url": "portraits/ferrer.jpg",
-        "source": "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
+        "source": "https://commons.wikimedia.org/wiki/File:Francisco_Ferrer_Guardia.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Ferrer_Guardia.jpg#Licensing",
         "author": "La atribución se obtiene del archivo original al resolver el retrato.",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Francisco Ferrer Guardia.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Francisco_Ferrer_Guardia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Francisco_Ferrer_Guardia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "negra",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -13929,11 +14909,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Andreu Nin",
         "url": "portraits/nin.jpg",
-        "source": "https://es.wikipedia.org/wiki/Andreu_Nin",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Andreu_Nin",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Andreu_Nin_009.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Andreu_Nin_009.jpg#Licensing",
+        "author": "Anonymous Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Andreu Nin 009.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Andreu_Nin_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Andreu_Nin_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -14120,11 +15106,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Niceto Alcalá-Zamora",
         "url": "portraits/alcala-zamora.jpg",
-        "source": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Niceto_Alcal%C3%A1-Zamora_cropped.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Niceto_Alcal%C3%A1-Zamora_cropped.jpg#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Niceto Alcalá-Zamora cropped.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Niceto_Alcal%C3%A1-Zamora_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Niceto_Alcal%C3%A1-Zamora_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -14308,11 +15300,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Margarita Nelken",
         "url": "portraits/nelken.jpg",
-        "source": "https://es.wikipedia.org/wiki/Margarita_Nelken",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Margarita_Nelken",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:1928-08-04,_Caras_y_Caretas,_Margarita_Nelken_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1928-08-04,_Caras_y_Caretas,_Margarita_Nelken_(cropped).jpg#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "1928-08-04, Caras y Caretas, Margarita Nelken (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1928-08-04%2C_Caras_y_Caretas%2C_Margarita_Nelken_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1928-08-04%2C_Caras_y_Caretas%2C_Margarita_Nelken_%28cropped%29.jpg/500px-1928-08-04%2C_Caras_y_Caretas%2C_Margarita_Nelken_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -14489,11 +15487,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Carmen de Burgos",
         "url": "portraits/carmen-burgos.jpg",
-        "source": "https://es.wikipedia.org/wiki/Carmen_de_Burgos",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Carmen_de_Burgos",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:C%C3%A1rmen_de_Burgos_y_Segu%C3%AD.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Not stated. Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Cármen de Burgos y Seguí.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/C%C3%A1rmen_de_Burgos_y_Segu%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/C%C3%A1rmen_de_Burgos_y_Segu%C3%AD.jpg/500px-C%C3%A1rmen_de_Burgos_y_Segu%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -14665,11 +15669,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "María Lejárraga",
         "url": "portraits/lejarraga.jpg",
-        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Lej%C3%A1rraga",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Lej%C3%A1rraga",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Lej%C3%A1rraga-2.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "María Lejárraga-2.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mar%C3%ADa_Lej%C3%A1rraga-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mar%C3%ADa_Lej%C3%A1rraga-2.jpg/500px-Mar%C3%ADa_Lej%C3%A1rraga-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -14847,12 +15857,18 @@ window.AXIS_DATA = {
       "wikiTitle": "María Zambrano",
       "image": {
         "wikiTitle": "María Zambrano",
-        "url": "portraits/zambrano.jpg",
-        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "url": "portraits/zambrano.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa-Zambrano-1-e1602071174321.png",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa-Zambrano-1-e1602071174321.png#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "María-Zambrano-1-e1602071174321.png",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mar%C3%ADa-Zambrano-1-e1602071174321.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mar%C3%ADa-Zambrano-1-e1602071174321.png/500px-Mar%C3%ADa-Zambrano-1-e1602071174321.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -15026,11 +16042,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Castelao",
         "url": "portraits/castelao.jpg",
-        "source": "https://es.wikipedia.org/wiki/Castelao",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Castelao",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:%C3%81_Irmandade_Galega_Curros_Enr%C3%ADquez_de_Rosario,_no_d%C3%ADa_da_mi%C3%B1a_partida._Castelao,_1946.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:%C3%81_Irmandade_Galega_Curros_Enr%C3%ADquez_de_Rosario,_no_d%C3%ADa_da_mi%C3%B1a_partida._Castelao,_1946.jpg#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Á Irmandade Galega Curros Enríquez de Rosario, no día da miña partida. Castelao, 1946.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/%C3%81_Irmandade_Galega_Curros_Enr%C3%ADquez_de_Rosario%2C_no_d%C3%ADa_da_mi%C3%B1a_partida._Castelao%2C_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%C3%81_Irmandade_Galega_Curros_Enr%C3%ADquez_de_Rosario%2C_no_d%C3%ADa_da_mi%C3%B1a_partida._Castelao%2C_1946.jpg/500px-%C3%81_Irmandade_Galega_Curros_Enr%C3%ADquez_de_Rosario%2C_no_d%C3%ADa_da_mi%C3%B1a_partida._Castelao%2C_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "galicia",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -15221,11 +16243,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Carlos Hugo de Borbón-Parma",
         "url": "portraits/carlos-hugo.jpg",
-        "source": "https://es.wikipedia.org/wiki/Carlos_Hugo_de_Borb%C3%B3n-Parma",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Carlos_Hugo_de_Borb%C3%B3n-Parma",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Carlos_Hugo_1968.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "Eric Koch for Anefo",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Carlos Hugo 1968.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carlos_Hugo_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Carlos_Hugo_1968.jpg/500px-Carlos_Hugo_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "carlista",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -15423,11 +16451,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Enrique Tierno Galván",
         "url": "portraits/tierno.jpg",
-        "source": "https://es.wikipedia.org/wiki/Enrique_Tierno_Galv%C3%A1n",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Enrique_Tierno_Galv%C3%A1n",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Enrique_Tierno_y_Ram%C3%B3n_Tamames_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Pedro M. Martínez Corada",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Enrique Tierno y Ramón Tamames (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Enrique_Tierno_y_Ram%C3%B3n_Tamames_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Enrique_Tierno_y_Ram%C3%B3n_Tamames_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -15619,11 +16653,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Salvador de Madariaga",
         "url": "portraits/madariaga.jpg",
-        "source": "https://es.wikipedia.org/wiki/Salvador_de_Madariaga",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Salvador_de_Madariaga",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Salvador_de_Madariaga.JPG",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salvador_de_Madariaga.JPG#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Salvador de Madariaga.JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Salvador_de_Madariaga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Salvador_de_Madariaga.JPG/500px-Salvador_de_Madariaga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -15818,11 +16858,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "José Luis Rodríguez Zapatero",
         "url": "portraits/zapatero.jpg",
-        "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_en_el_Foro_Econ%C3%B3mico_Mundial_(cropped)_2.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Monika Flueckiger, World Economic Forum from Cologny, Switzerland",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "José Luis Rodríguez Zapatero en el Foro Económico Mundial (cropped) 2.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_en_el_Foro_Econ%C3%B3mico_Mundial_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_en_el_Foro_Econ%C3%B3mico_Mundial_%28cropped%29_2.jpg/500px-Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_en_el_Foro_Econ%C3%B3mico_Mundial_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -16023,11 +17069,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Mariano Rajoy",
         "url": "portraits/rajoy.jpg",
-        "source": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
-        "licenseUrl": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Mariano_Rajoy_in_2018.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mariano_Rajoy_in_2018.jpg#Licensing",
+        "author": "Diego Crespo",
         "label": "Imagen biográfica; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Mariano Rajoy in 2018.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mariano_Rajoy_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mariano_Rajoy_in_2018.jpg/500px-Mariano_Rajoy_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
@@ -16360,11 +17412,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Roig",
         "url": "portraits/juan-roig.jpg",
-        "source": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
-        "licenseUrl": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
-        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "source": "https://commons.wikimedia.org/wiki/File:Juan_Roig_-_13.10.18_Visita_B.L._Mercadona.Guadix_4.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Junta Informa",
+        "label": "Fotografía de Juan Roig · visita a Mercadona en Guadix, 2018",
+        "modifications": "Encuadre de presentación; sin retoques del archivo original.",
+        "file": "Juan Roig - 13.10.18 Visita B.L. Mercadona.Guadix 4.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Juan_Roig_-_13.10.18_Visita_B.L._Mercadona.Guadix_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Juan_Roig_-_13.10.18_Visita_B.L._Mercadona.Guadix_4.jpg/500px-Juan_Roig_-_13.10.18_Visita_B.L._Mercadona.Guadix_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -16512,11 +17570,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Ana Botín",
         "url": "portraits/ana-botin.jpg",
-        "source": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
-        "licenseUrl": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Ana_Patricia_Bot%C3%ADn_2015_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "World Travel & Tourism Council",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Ana Patricia Botín 2015 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ana_Patricia_Bot%C3%ADn_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ana_Patricia_Bot%C3%ADn_2015_%28cropped%29.jpg/500px-Ana_Patricia_Bot%C3%ADn_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -16664,11 +17728,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Pedro Barrié de la Maza",
         "url": "portraits/barrie.jpg",
-        "source": "https://fundacionbarrie.org/fundador-pedro",
-        "licenseUrl": "https://fundacionbarrie.org/fundador-pedro",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Escultura_Pedro_Barrie_de_la_Maza.001_-_A_Coru%C3%B1a.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Fernando Losada Rodríguez",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Escultura Pedro Barrie de la Maza.001 - A Coruña.JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Escultura_Pedro_Barrie_de_la_Maza.001_-_A_Coru%C3%B1a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Escultura_Pedro_Barrie_de_la_Maza.001_-_A_Coru%C3%B1a.JPG/500px-Escultura_Pedro_Barrie_de_la_Maza.001_-_A_Coru%C3%B1a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -16816,11 +17886,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "José Luis Sampedro",
         "url": "portraits/sampedro.jpg",
-        "source": "https://biblioteca.ucm.es/cee/biografia-3",
-        "licenseUrl": "https://biblioteca.ucm.es/cee/biografia-3",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_Sampedro_(2006).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Iñigo González from Guadalajara, Spain",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "José Luis Sampedro (2006).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Luis_Sampedro_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Luis_Sampedro_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -16968,11 +18044,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Jesús Huerta de Soto",
         "url": "portraits/huerta-soto.jpg",
-        "source": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
-        "licenseUrl": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Profesor_Jesus-Huerta-de-Soto.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "DJGM1",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Profesor Jesus-Huerta-de-Soto.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Profesor_Jesus-Huerta-de-Soto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Profesor_Jesus-Huerta-de-Soto.jpg/500px-Profesor_Jesus-Huerta-de-Soto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17120,11 +18202,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Xavier Sala-i-Martin",
         "url": "portraits/sala-martin.jpg",
-        "source": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
-        "licenseUrl": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Economia_en_colors_-_2015_20151001_2038732740.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Gemmaroig97",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Economia en colors - 2015 20151001 2038732740.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Economia_en_colors_-_2015_20151001_2038732740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Economia_en_colors_-_2015_20151001_2038732740.jpg/500px-Economia_en_colors_-_2015_20151001_2038732740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17272,11 +18360,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Margarita Salas",
         "url": "portraits/salas.jpg",
-        "source": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
-        "licenseUrl": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Margarita_Salas_Falgueras.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Margarita_Salas_Falgueras.jpg#Licensing",
+        "author": "Lefty4ever",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Margarita Salas Falgueras.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Margarita_Salas_Falgueras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Margarita_Salas_Falgueras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17424,11 +18518,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Santiago Ramón y Cajal",
         "url": "portraits/cajal.jpg",
-        "source": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
-        "licenseUrl": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Santiago-Ramon-y-Cajal-(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "Original: Kaulak",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Santiago-Ramon-y-Cajal-(cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Santiago-Ramon-y-Cajal-%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Santiago-Ramon-y-Cajal-%28cropped%29.jpg/500px-Santiago-Ramon-y-Cajal-%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17576,11 +18676,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Ignacio Cirac",
         "url": "portraits/cirac.jpg",
-        "source": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
-        "licenseUrl": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Prof_Cirac_office_klein_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Author original propietry",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Prof Cirac office klein (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prof_Cirac_office_klein_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prof_Cirac_office_klein_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17728,11 +18834,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Leonardo Torres Quevedo",
         "url": "portraits/torres-quevedo.jpg",
-        "source": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
-        "licenseUrl": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:1921_Leonardo_Torres_Quevedo.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1921_Leonardo_Torres_Quevedo.jpg#Licensing",
+        "author": "Auguste Léon",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "1921 Leonardo Torres Quevedo.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/1921_Leonardo_Torres_Quevedo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1921_Leonardo_Torres_Quevedo.jpg/500px-1921_Leonardo_Torres_Quevedo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -17880,11 +18992,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Isaac Peral",
         "url": "portraits/peral.jpg",
-        "source": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
-        "licenseUrl": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Isaac_Peral_(Ayuntamiento_de_Cartagena).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Isaac_Peral_(Ayuntamiento_de_Cartagena).jpg#Licensing",
+        "author": "Manuel Ussel de Guimbarda",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Isaac Peral (Ayuntamiento de Cartagena).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Isaac_Peral_%28Ayuntamiento_de_Cartagena%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Isaac_Peral_%28Ayuntamiento_de_Cartagena%29.jpg/500px-Isaac_Peral_%28Ayuntamiento_de_Cartagena%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18032,11 +19150,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Mateo Valero",
         "url": "portraits/valero.jpg",
-        "source": "https://www.bsc.es/mateo-valero",
-        "licenseUrl": "https://www.bsc.es/mateo-valero",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Mateo_Valero.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Gemma ribas maspoch",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Mateo Valero.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mateo_Valero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mateo_Valero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18184,11 +19308,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Pedro Duque",
         "url": "portraits/duque.jpg",
-        "source": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
-        "licenseUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Pedro_Duque_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pedro_Duque_(cropped).jpg#Licensing",
+        "author": "NASA",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Pedro Duque (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pedro_Duque_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Pedro_Duque_%28cropped%29.jpg/500px-Pedro_Duque_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18336,11 +19466,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Eduardo Punset",
         "url": "portraits/punset.jpg",
-        "source": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
-        "licenseUrl": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Eduard_Punset.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Grupo Punset Producciones",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Eduard Punset.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Eduard_Punset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Eduard_Punset.jpg/500px-Eduard_Punset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18487,12 +19623,18 @@ window.AXIS_DATA = {
       "wikiTitle": "Javier Santaolalla",
       "image": {
         "wikiTitle": "Javier Santaolalla",
-        "url": "portraits/santaolalla.jpg",
-        "source": "https://www.rtve.es/play/videos/la-ultima-frontera/",
-        "licenseUrl": "https://www.rtve.es/play/videos/la-ultima-frontera/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "url": "portraits/santaolalla.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Javier_Santaolalla_conferencia_Divulgaci%C3%B3n_cient%C3%ADfica_y_Universidad_p%C3%BAblica5_(cropped).png",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "Artistosteles DESDE LA U - CANAL UCR",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Javier Santaolalla conferencia Divulgación científica y Universidad pública5 (cropped).png",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Javier_Santaolalla_conferencia_Divulgaci%C3%B3n_cient%C3%ADfica_y_Universidad_p%C3%BAblica5_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Javier_Santaolalla_conferencia_Divulgaci%C3%B3n_cient%C3%ADfica_y_Universidad_p%C3%BAblica5_%28cropped%29.png/500px-Javier_Santaolalla_conferencia_Divulgaci%C3%B3n_cient%C3%ADfica_y_Universidad_p%C3%BAblica5_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18792,11 +19934,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "José Miguel Mulet",
         "url": "portraits/mulet.jpg",
-        "source": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
-        "licenseUrl": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:JM_Mulet.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "Benlliure",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "JM Mulet.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/JM_Mulet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/JM_Mulet.jpg/500px-JM_Mulet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -18944,11 +20092,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "José Manuel López Nicolás",
         "url": "portraits/lopez-nicolas.jpg",
-        "source": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
-        "licenseUrl": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
-        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Manuel_L%C3%B3pez_Nicol%C3%A1s_2013.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Victor R. Ruiz",
+        "label": "Fotografía de José Manuel López Nicolás · Naukas 2013",
+        "modifications": "Encuadre de presentación; sin retoques del archivo original.",
+        "file": "José Manuel López Nicolás 2013.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jos%C3%A9_Manuel_L%C3%B3pez_Nicol%C3%A1s_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jos%C3%A9_Manuel_L%C3%B3pez_Nicol%C3%A1s_2013.jpg/500px-Jos%C3%A9_Manuel_L%C3%B3pez_Nicol%C3%A1s_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -19096,11 +20250,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Trajano",
         "url": "portraits/trajano.jpg",
-        "source": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
-        "licenseUrl": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Traianus_Glyptothek_Munich_336.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Traianus_Glyptothek_Munich_336.jpg#Licensing",
+        "author": "Unknown artist Unknown artist",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Traianus Glyptothek Munich 336.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Traianus_Glyptothek_Munich_336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Traianus_Glyptothek_Munich_336.jpg/500px-Traianus_Glyptothek_Munich_336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -19249,11 +20409,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Adriano",
         "url": "portraits/adriano.jpg",
-        "source": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
-        "licenseUrl": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
-        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "source": "https://commons.wikimedia.org/wiki/File:Bust_Hadrian_Musei_Capitolini_MC817.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bust_Hadrian_Musei_Capitolini_MC817.jpg#Licensing",
+        "author": "Marie-Lan Nguyen",
         "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Bust Hadrian Musei Capitolini MC817.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bust_Hadrian_Musei_Capitolini_MC817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bust_Hadrian_Musei_Capitolini_MC817.jpg/500px-Bust_Hadrian_Musei_Capitolini_MC817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
@@ -19402,11 +20568,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Séneca",
         "url": "portraits/seneca.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_2015_10_23_2668_(25945264960)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Harvey Barrison from Massapequa, NY, USA",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Córdoba 2015 10 23 2668 (25945264960) (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/C%C3%B3rdoba_2015_10_23_2668_%2825945264960%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/C%C3%B3rdoba_2015_10_23_2668_%2825945264960%29_%28cropped%29.jpg/500px-C%C3%B3rdoba_2015_10_23_2668_%2825945264960%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -19561,11 +20733,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Lucano",
         "url": "portraits/lucano.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Busto_de_Lucano,_Cordoba.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Cruccone",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Busto de Lucano, Cordoba.JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Busto_de_Lucano%2C_Cordoba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Busto_de_Lucano%2C_Cordoba.JPG/500px-Busto_de_Lucano%2C_Cordoba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -19720,11 +20898,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Marcial",
         "url": "portraits/marcial.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
+        "source": "https://commons.wikimedia.org/wiki/File:Martialis.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Martialis.jpg#Licensing",
         "author": "Pendiente de resolver el archivo original y su atribución.",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Martialis.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Martialis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Martialis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -19879,11 +21063,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Teodosio I",
         "url": "portraits/teodosio.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Bust_of_Theodosius_I.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "www.livius.org",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Bust of Theodosius I.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -20038,11 +21228,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Carlos I de España",
         "url": "portraits/carlos-v.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500%E2%80%931558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500%E2%80%931558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg#Licensing",
+        "author": "Attributed to Titian",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Portrait of Charles V, Holy Roman Emperor, seated (1500–1558), formerly attributed to Titian (Alte Pinakothek, Munich).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/500px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -20196,11 +21392,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Fernando II de Aragón",
         "url": "portraits/fernando-ii.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Michel_Sittow_004.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Michel_Sittow_004.jpg#Licensing",
+        "author": "Michael Sittow",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Michel Sittow 004.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Sittow_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Michel_Sittow_004.jpg/500px-Michel_Sittow_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -20512,11 +21714,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Alfonso XIII",
         "url": "portraits/alfonso-xiii.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Rey_Alfonso_XIII_de_Espa%C3%B1a,_by_Kaulak.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rey_Alfonso_XIII_de_Espa%C3%B1a,_by_Kaulak.jpg#Licensing",
+        "author": "Kaulak",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Rey Alfonso XIII de España, by Kaulak.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg/500px-Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -20670,11 +21878,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan Carlos I",
         "url": "portraits/juan-carlos-i.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Ministru_prezidents_Valdis_Dombrovskis_ofici%C4%81l%C4%81s_pusdien%C4%81s_tiekas_ar_Sp%C4%81nijas_karali_Huanu_Karlosu_I_un_karalieni_Sofiju_(3506936051)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "State Chancellery of Latvia",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Ministru prezidents Valdis Dombrovskis oficiālās pusdienās tiekas ar Spānijas karali Huanu Karlosu I un karalieni Sofiju (3506936051) (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ministru_prezidents_Valdis_Dombrovskis_ofici%C4%81l%C4%81s_pusdien%C4%81s_tiekas_ar_Sp%C4%81nijas_karali_Huanu_Karlosu_I_un_karalieni_Sofiju_%283506936051%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ministru_prezidents_Valdis_Dombrovskis_ofici%C4%81l%C4%81s_pusdien%C4%81s_tiekas_ar_Sp%C4%81nijas_karali_Huanu_Karlosu_I_un_karalieni_Sofiju_%283506936051%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -20986,11 +22200,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Ignacio de Loyola",
         "url": "portraits/ignacio-loyola.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
+        "source": "https://commons.wikimedia.org/wiki/File:St_Ignatius_of_Loyola_(1491-1556)_Founder_of_the_Jesuits.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:St_Ignatius_of_Loyola_(1491-1556)_Founder_of_the_Jesuits.jpg#Licensing",
         "author": "Pendiente de resolver el archivo original y su atribución.",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "St Ignatius of Loyola (1491-1556) Founder of the Jesuits.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg/500px-St_Ignatius_of_Loyola_%281491-1556%29_Founder_of_the_Jesuits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21144,11 +22364,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Teresa de Jesús",
         "url": "portraits/teresa-jesus.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Teresa_de_Jes%C3%BAs_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Teresa_de_Jes%C3%BAs_(cropped).jpg#Licensing",
+        "author": "Juan de la Miseria",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Teresa de Jesús (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Teresa_de_Jes%C3%BAs_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Teresa_de_Jes%C3%BAs_%28cropped%29.jpg/500px-Teresa_de_Jes%C3%BAs_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21302,11 +22528,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Domingo de Soto",
         "url": "portraits/domingo-soto.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:DOMINGO_DE_SOTO016.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Vicente Alcober Bosch, Valencia (España)",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "DOMINGO DE SOTO016.JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/DOMINGO_DE_SOTO016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/DOMINGO_DE_SOTO016.JPG/500px-DOMINGO_DE_SOTO016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21460,11 +22692,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Luis de Molina",
         "url": "portraits/luis-molina.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Molina_-_De_Justitia_et_jure,_1759_-_272.tif",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Molina_-_De_Justitia_et_jure,_1759_-_272.tif#Licensing",
+        "author": "Molina, Luis de",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Molina - De Justitia et jure, 1759 - 272.tif",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Molina_-_De_Justitia_et_jure%2C_1759_-_272.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Molina_-_De_Justitia_et_jure%2C_1759_-_272.tif/lossy-page1-500px-Molina_-_De_Justitia_et_jure%2C_1759_-_272.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21618,11 +22856,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Severo Ochoa",
         "url": "portraits/severo-ochoa.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Severo_Ochoa_1958.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Severo_Ochoa_1958.jpg#Licensing",
+        "author": "Irwin Gooen (NY University)",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Severo Ochoa 1958.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Severo_Ochoa_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Severo_Ochoa_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21776,11 +23020,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Narciso Monturiol",
         "url": "portraits/monturiol.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Monturiol_face.JPG",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Monturiol_face.JPG#Licensing",
+        "author": "Original: owned by Monturiol . Copy: my own photograph of it.",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Monturiol face.JPG",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Monturiol_face.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Monturiol_face.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -21934,11 +23184,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Juan de la Cierva y Codorníu",
         "url": "portraits/cierva-inventor.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Juan_de_la_Cierva,_aer%C3%B3dromo_de_Lasarte,_1930.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juan_de_la_Cierva,_aer%C3%B3dromo_de_Lasarte,_1930.jpg#Licensing",
+        "author": "Pascual Marín",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Juan de la Cierva, aeródromo de Lasarte, 1930.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Juan_de_la_Cierva%2C_aer%C3%B3dromo_de_Lasarte%2C_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Juan_de_la_Cierva%2C_aer%C3%B3dromo_de_Lasarte%2C_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -22092,11 +23348,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Emilio Herrera",
         "url": "portraits/emilio-herrera.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:1914-02-21,_La_Esfera,_Emilio_Herrera_Linares_y_Jos%C3%A9_Ortiz_Echag%C3%BCe,_Gamonal_(cropped)_Herrera_Linares.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1914-02-21,_La_Esfera,_Emilio_Herrera_Linares_y_Jos%C3%A9_Ortiz_Echag%C3%BCe,_Gamonal_(cropped)_Herrera_Linares.jpg#Licensing",
+        "author": "Isidro Fernández Fuertes",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "1914-02-21, La Esfera, Emilio Herrera Linares y José Ortiz Echagüe, Gamonal (cropped) Herrera Linares.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/1914-02-21%2C_La_Esfera%2C_Emilio_Herrera_Linares_y_Jos%C3%A9_Ortiz_Echag%C3%BCe%2C_Gamonal_%28cropped%29_Herrera_Linares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/1914-02-21%2C_La_Esfera%2C_Emilio_Herrera_Linares_y_Jos%C3%A9_Ortiz_Echag%C3%BCe%2C_Gamonal_%28cropped%29_Herrera_Linares.jpg/500px-1914-02-21%2C_La_Esfera%2C_Emilio_Herrera_Linares_y_Jos%C3%A9_Ortiz_Echag%C3%BCe%2C_Gamonal_%28cropped%29_Herrera_Linares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -22250,11 +23512,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Ángela Ruiz Robles",
         "url": "portraits/angela-ruiz.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:%C3%81ngela_Ruiz_Robles_(MUNCYT,_Eulogia_Merle).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Eulogia Merle",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Ángela Ruiz Robles (MUNCYT, Eulogia Merle).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%C3%81ngela_Ruiz_Robles_%28MUNCYT%2C_Eulogia_Merle%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%C3%81ngela_Ruiz_Robles_%28MUNCYT%2C_Eulogia_Merle%29.jpg/500px-%C3%81ngela_Ruiz_Robles_%28MUNCYT%2C_Eulogia_Merle%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -22408,11 +23676,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Elena García Armada",
         "url": "portraits/elena-garcia.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Elena_Garc%C3%ADa_Armada_en_los_Reconocimientos_8_de_Marzo._D%C3%ADa_de_la_Mujer_(2018).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "Cristina Cifuentes",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Elena García Armada en los Reconocimientos 8 de Marzo. Día de la Mujer (2018).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Elena_Garc%C3%ADa_Armada_en_los_Reconocimientos_8_de_Marzo._D%C3%ADa_de_la_Mujer_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Elena_Garc%C3%ADa_Armada_en_los_Reconocimientos_8_de_Marzo._D%C3%ADa_de_la_Mujer_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -22566,11 +23840,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Pedro Schwartz",
         "url": "portraits/pedro-schwartz.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:(Pedro_Schwartz)_2019_Reuni%C3%B3n_de_Ayuso_en_la_Sede_del_Partido_Popular_(32929511947)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "PP Comunidad de Madrid",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "(Pedro Schwartz) 2019 Reunión de Ayuso en la Sede del Partido Popular (32929511947) (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/%28Pedro_Schwartz%29_2019_Reuni%C3%B3n_de_Ayuso_en_la_Sede_del_Partido_Popular_%2832929511947%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%28Pedro_Schwartz%29_2019_Reuni%C3%B3n_de_Ayuso_en_la_Sede_del_Partido_Popular_%2832929511947%29_%28cropped%29.jpg/500px-%28Pedro_Schwartz%29_2019_Reuni%C3%B3n_de_Ayuso_en_la_Sede_del_Partido_Popular_%2832929511947%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -23198,11 +24478,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Ramón Tamames",
         "url": "portraits/tamames.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Ram%C3%B3n_Tamames_2023_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "VOX Congreso",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Ramón Tamames 2023 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ram%C3%B3n_Tamames_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ram%C3%B3n_Tamames_2023_%28cropped%29.jpg/500px-Ram%C3%B3n_Tamames_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -23514,11 +24800,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Florentino Pérez",
         "url": "portraits/florentino-perez.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Florentino_P%C3%A9rez_-_240422_194826_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Barcex",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "25th Laureus World Sports Awards - Red Carpet - Florentino Pérez - 240422 194826 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Florentino_P%C3%A9rez_-_240422_194826_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Florentino_P%C3%A9rez_-_240422_194826_%28cropped%29.jpg/500px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Florentino_P%C3%A9rez_-_240422_194826_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -23672,11 +24964,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Isak Andic",
         "url": "portraits/isak-andic.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Isak_Andic_i_Ermay_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "Convergència Democràtica de Catalunya",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Isak Andic i Ermay (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Isak_Andic_i_Ermay_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Isak_Andic_i_Ermay_%28cropped%29.jpg/500px-Isak_Andic_i_Ermay_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -23988,11 +25286,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Esther Koplowitz",
         "url": "portraits/esther-koplowitz.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Esther-koplowitz_(2008)_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Esther-koplowitz_(2008)_(cropped).jpg#Licensing",
+        "author": "Premi Blanquerna Guanyadors anteriors",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Esther-koplowitz (2008) (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Esther-koplowitz_%282008%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Esther-koplowitz_%282008%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24146,11 +25450,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Alicia Koplowitz",
         "url": "portraits/alicia-koplowitz.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Alicia_Koplowitz_2018_(cropped).jpeg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Junta de Castilla y León (youtube)",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Alicia Koplowitz 2018 (cropped).jpeg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alicia_Koplowitz_2018_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alicia_Koplowitz_2018_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24304,11 +25614,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Emilio Botín",
         "url": "portraits/emilio-botin.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Emilio_Bot%C3%ADn_14.01.15.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "author": "Junta Informa",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Emilio Botín 14.01.15.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Emilio_Bot%C3%ADn_14.01.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Emilio_Bot%C3%ADn_14.01.15.jpg/500px-Emilio_Bot%C3%ADn_14.01.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24462,11 +25778,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Antonio Machado",
         "url": "portraits/antonio-machado.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Antonio_Machado_-_Poes%C3%ADas_completas_-_bdh0000252161_(page_8_crop).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Machado_-_Poes%C3%ADas_completas_-_bdh0000252161_(page_8_crop).jpg#Licensing",
+        "author": "Antonio Machado",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Antonio Machado - Poesías completas - bdh0000252161 (page 8 crop).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Antonio_Machado_-_Poes%C3%ADas_completas_-_bdh0000252161_%28page_8_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Antonio_Machado_-_Poes%C3%ADas_completas_-_bdh0000252161_%28page_8_crop%29.jpg/500px-Antonio_Machado_-_Poes%C3%ADas_completas_-_bdh0000252161_%28page_8_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24620,11 +25942,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Miguel Hernández",
         "url": "portraits/miguel-hernandez.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Miguel_hernandez.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Miguel_hernandez.jpg#Licensing",
+        "author": "UNED Universidad Nacional de Educación a Distancia from Madrid, Spain",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Miguel hernandez.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Miguel_hernandez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Miguel_hernandez.jpg/500px-Miguel_hernandez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24778,11 +26106,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Rosalía de Castro",
         "url": "portraits/rosalia-castro.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Rosal%C3%ADa_Castro_de_Murgu%C3%ADa_por_Luis_Sellier.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rosal%C3%ADa_Castro_de_Murgu%C3%ADa_por_Luis_Sellier.jpg#Licensing",
+        "author": "Luis Sellier",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Rosalía Castro de Murguía por Luis Sellier.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rosal%C3%ADa_Castro_de_Murgu%C3%ADa_por_Luis_Sellier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rosal%C3%ADa_Castro_de_Murgu%C3%ADa_por_Luis_Sellier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -24936,11 +26270,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Miguel de Cervantes",
         "url": "portraits/cervantes.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg#Licensing",
+        "author": "Attributed to Juan de Jáuregui",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Cervantes Jáuregui.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cervantes_J%C3%A1uregui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/500px-Cervantes_J%C3%A1uregui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25094,11 +26434,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Pablo Iglesias Turrión",
         "url": "portraits/iglesias-turrion.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Pablo_Iglesias_en_agosto_2025_4_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "author": "EneasMx",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Pablo Iglesias en agosto 2025 4 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pablo_Iglesias_en_agosto_2025_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Pablo_Iglesias_en_agosto_2025_4_%28cropped%29.jpg/500px-Pablo_Iglesias_en_agosto_2025_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25253,11 +26599,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Albert Rivera",
         "url": "portraits/albert-rivera.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Albert_Rivera_in_2019_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Thomas Holbach",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Albert Rivera in 2019 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Albert_Rivera_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Albert_Rivera_in_2019_%28cropped%29.jpg/500px-Albert_Rivera_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25412,11 +26764,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Alberto Garzón",
         "url": "portraits/alberto-garzon.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Alberto_Garz%C3%B3n_2020_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alberto_Garz%C3%B3n_2020_(cropped).jpg#Licensing",
+        "author": "La Moncloa - Gobierno de España",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Alberto Garzón 2020 (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Alberto_Garz%C3%B3n_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Attribution",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Alberto_Garz%C3%B3n_2020_%28cropped%29.jpg/500px-Alberto_Garz%C3%B3n_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25570,12 +26928,18 @@ window.AXIS_DATA = {
       "wikiTitle": "Pablo Casado",
       "image": {
         "wikiTitle": "Pablo Casado",
-        "url": "portraits/pablo-casado.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "url": "portraits/pablo-casado.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Pablo_Casado.png",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "Kioto445",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Pablo Casado.png",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pablo_Casado.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pablo_Casado.png/500px-Pablo_Casado.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25730,11 +27094,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Inés Arrimadas",
         "url": "portraits/ines-arrimadas.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:In%C3%A9s_Arrimadas_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "CARLOS TEIXIDOR CADENAS",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Inés Arrimadas (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/In%C3%A9s_Arrimadas_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/In%C3%A9s_Arrimadas_%28cropped%29.jpg/500px-In%C3%A9s_Arrimadas_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -25889,11 +27259,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Alejandro Lerroux",
         "url": "portraits/lerroux.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Alejandro_Lerroux_Garc%C3%ADa.jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alejandro_Lerroux_Garc%C3%ADa.jpg#Licensing",
+        "author": "Unknown author Unknown author",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Alejandro Lerroux García.jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Alejandro_Lerroux_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Alejandro_Lerroux_Garc%C3%ADa.jpg/500px-Alejandro_Lerroux_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -26047,12 +27423,18 @@ window.AXIS_DATA = {
       "wikiTitle": "Fermín Salvochea",
       "image": {
         "wikiTitle": "Fermín Salvochea",
-        "url": "portraits/salvochea.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "url": "portraits/salvochea.png",
+        "source": "https://commons.wikimedia.org/wiki/File:Salvochea.png",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salvochea.png#Licensing",
+        "author": "Federico Godoy y Castro",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Salvochea.png",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Salvochea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Salvochea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "bundled": true,
+        "contentType": "image/png"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -26207,11 +27589,17 @@ window.AXIS_DATA = {
       "image": {
         "wikiTitle": "Julián Besteiro",
         "url": "portraits/besteiro.jpg",
-        "source": "https://commons.wikimedia.org/",
-        "licenseUrl": "https://commons.wikimedia.org/",
-        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "source": "https://commons.wikimedia.org/wiki/File:Juli%C3%A1n_Besteiro_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juli%C3%A1n_Besteiro_(cropped).jpg#Licensing",
+        "author": "Agence de presse Meurisse",
         "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
-        "modifications": "Encuadre de presentación, sin retoques del original."
+        "modifications": "Encuadre de presentación, sin retoques del original.",
+        "file": "Julián Besteiro (cropped).jpg",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juli%C3%A1n_Besteiro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Juli%C3%A1n_Besteiro_%28cropped%29.jpg/500px-Juli%C3%A1n_Besteiro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "bundled": true,
+        "contentType": "image/jpeg"
       },
       "flag": null,
       "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
@@ -32643,5 +34031,81 @@ window.AXIS_DATA = {
     "Política",
     "Religión y pensamiento",
     "Tecnología"
-  ]
+  ],
+  "questionVersion": "es-propio-7",
+  "glossary": [
+    [
+      "Federalismo",
+      "Organización política en la que distintos niveles de gobierno disponen de competencias propias."
+    ],
+    [
+      "Autogobierno",
+      "Capacidad de un territorio para gestionar sus instituciones y competencias."
+    ],
+    [
+      "Cogestión",
+      "Participación de trabajadores y dirección en determinadas decisiones empresariales."
+    ],
+    [
+      "Autogestión",
+      "Organización de una actividad mediante las decisiones de quienes trabajan en ella."
+    ],
+    [
+      "Redistribución",
+      "Transferencia de recursos mediante impuestos, servicios y prestaciones."
+    ],
+    [
+      "Pluralismo",
+      "Existencia y competencia de distintas opciones políticas con garantías para la oposición."
+    ],
+    [
+      "Monarquía parlamentaria",
+      "Jefatura del Estado hereditaria integrada en un sistema de gobierno parlamentario."
+    ],
+    [
+      "República",
+      "Sistema en el que la jefatura del Estado no se transmite por herencia dinástica."
+    ],
+    [
+      "Estado confesional",
+      "Estado que reconoce institucionalmente una religión como propia."
+    ],
+    [
+      "Laicidad",
+      "Independencia de las instituciones públicas respecto de la autoridad religiosa."
+    ],
+    [
+      "Cooperativa",
+      "Empresa participada por sus socios conforme a reglas de propiedad y decisión compartidas."
+    ],
+    [
+      "Cantonalismo",
+      "Movimiento que buscó organizar el poder mediante cantones autónomos, especialmente en 1873."
+    ]
+  ],
+  "confessionalIdeologies": [
+    "monarquia-sacral",
+    "salamanca",
+    "humanismo-cristiano",
+    "erasmismo",
+    "integralismo-catolico",
+    "catolicismo-social",
+    "nacionalcatolicismo",
+    "conservadurismo-catolico"
+  ],
+  "bundledPortraits": {
+    "count": 141,
+    "generated": "2026-10-09T21:54:45.348Z",
+    "unresolved": [
+      "amancio-ortega",
+      "crespo",
+      "isabel-ii",
+      "felipe-vi",
+      "bastos",
+      "juan-velarde",
+      "julio-segura",
+      "trias-bes",
+      "rosalia-mera"
+    ]
+  }
 };

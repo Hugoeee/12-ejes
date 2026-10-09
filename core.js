@@ -13,6 +13,6 @@ function match(scores,profile,weights=scores.map(()=>1)){
  return {similarity:Math.round(similarity),ranking,coverage:axes.length,available:answered.length,axes,conflicts};
 }
 function rank(scores,profiles,weights){return profiles.map(profile=>{const m=match(scores,profile,weights);return m?{profile,...m}:null;}).filter(Boolean).sort((a,b)=>b.ranking-a.ranking||b.coverage-a.coverage||a.profile.name.localeCompare(b.profile.name,'es'));}
-function questions(bank,mode){const n=mode==='full'?5:3;return Array.from({length:n},(_,j)=>bank.map((b,axis)=>({id:`${axis}-${j}`,axis,text:b[j][0],direction:b[j][1]}))).flat();}
+function questions(bank,mode){const n=mode==='extreme'?15:mode==='full'?5:3;return Array.from({length:n},(_,j)=>bank.map((b,axis)=>({id:`${axis}-${j}`,axis,text:b[j][0],direction:b[j][1]}))).flat();}
 const api={score,match,rank,questions};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.AxisCore=api;
 })(typeof window!=='undefined'?window:globalThis);
