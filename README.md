@@ -1,3 +1,11 @@
+# España en 12 ejes · versión 10.0
+
+Catálogo de Ideologías rediseñado: selección de 30 perfiles en cinco categorías, atlas anterior de 61 fichas, búsqueda y filtros, indicadores de ejes y páginas individuales.
+
+Para actualizar desde V9, sube a la raíz del repositorio todos los archivos del ZIP de actualización. No contiene retratos ni fuentes repetidas. Conserva portraits, fonts y los archivos anteriores.
+
+La selección de 30 es consultable; el test y sus afinidades conservan el modelo de 16 dimensiones del atlas anterior. No se han transformado automáticamente las coordenadas de 12 ejes.
+
 # España en 12 ejes · versión 9.0
 
 Revisión de banderas: [BANDERAS.md](BANDERAS.md). Modelos completos con fuentes y licencias, variantes por fechas y retirada de atribuciones no verificadas.
@@ -17,7 +25,7 @@ Versión independiente centrada en España: 150 personalidades, 61 corrientes, 4
 3. Abre la carpeta **`subida-1`** del paquete. En GitHub pulsa **Add file → Upload files** y arrastra **su contenido**: 15 archivos y las carpetas `fonts` y `portraits`. No arrastres la carpeta `subida-1` ni el ZIP.
 4. Pulsa **Commit changes**. Después repite **Add file → Upload files** desde la raíz del repositorio y arrastra **la carpeta `portraits` que está dentro de `subida-2`**. Confirma de nuevo. Se incorporan los retratos restantes a la misma carpeta, sin eliminar los anteriores.
 5. En Vercel usa Framework **Other**, Build Command **npm run build**, Output Directory **dist** y Root Directory vacío. No se necesitan claves ni un servidor adicional.
-6. Espera al estado **Ready**, abre la web y pulsa **Ctrl+F5**. El pie debe mostrar **V9.0**.
+6. Espera al estado **Ready**, abre la web y pulsa **Ctrl+F5**. El pie debe mostrar **V10.0**.
 
 El paquete está dividido en dos tandas porque GitHub permite subir un máximo de 100 archivos a la vez mediante el navegador (https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository). `subida-1` contiene 93 archivos y `subida-2`, 70. Son carpetas de entrega: **no deben aparecer como carpetas del repositorio**. Si utilizas Git en tu ordenador, combina el contenido de ambas en la raíz del proyecto.
 
