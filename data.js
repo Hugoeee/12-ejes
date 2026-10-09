@@ -1,5 +1,5 @@
 window.AXIS_DATA = {
-  "version": "3.0.0",
+  "version": "4.0.0",
   "reviewed": "9 de octubre de 2026",
   "axes": [
     [
@@ -526,7 +526,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Pedro Sánchez"
+      "wikiTitle": "Pedro Sánchez",
+      "sector": "Política"
     },
     {
       "id": "feijoo",
@@ -596,7 +597,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Alberto Núñez Feijóo"
+      "wikiTitle": "Alberto Núñez Feijóo",
+      "sector": "Política"
     },
     {
       "id": "abascal",
@@ -671,7 +673,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Santiago Abascal"
+      "wikiTitle": "Santiago Abascal",
+      "sector": "Política"
     },
     {
       "id": "diaz",
@@ -747,7 +750,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Yolanda Díaz"
+      "wikiTitle": "Yolanda Díaz",
+      "sector": "Política"
     },
     {
       "id": "rufian",
@@ -818,7 +822,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Gabriel Rufián"
+      "wikiTitle": "Gabriel Rufián",
+      "sector": "Política"
     },
     {
       "id": "esteban",
@@ -884,7 +889,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Aitor Esteban"
+      "wikiTitle": "Aitor Esteban",
+      "sector": "Política"
     },
     {
       "id": "rallo",
@@ -959,7 +965,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Juan Ramón Rallo"
+      "wikiTitle": "Juan Ramón Rallo",
+      "sector": "Pensamiento y sociedad"
     },
     {
       "id": "torres",
@@ -1017,7 +1024,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Juan Torres López"
+      "wikiTitle": "Juan Torres López",
+      "sector": "Pensamiento y sociedad"
     },
     {
       "id": "lacalle",
@@ -1080,7 +1088,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
-      "wikiTitle": "Daniel Lacalle"
+      "wikiTitle": "Daniel Lacalle",
+      "sector": "Pensamiento y sociedad"
     },
     {
       "id": "recaredo",
@@ -1143,7 +1152,8 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Recaredo I"
+      "wikiTitle": "Recaredo I",
+      "sector": "Historia y política"
     },
     {
       "id": "pelayo",
@@ -1206,7 +1216,8 @@ window.AXIS_DATA = {
       },
       "flag": "asturias",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Pelayo"
+      "wikiTitle": "Pelayo",
+      "sector": "Historia y política"
     },
     {
       "id": "alfonso-x",
@@ -1269,7 +1280,8 @@ window.AXIS_DATA = {
       },
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Alfonso X de Castilla"
+      "wikiTitle": "Alfonso X de Castilla",
+      "sector": "Historia y política"
     },
     {
       "id": "isabel-i",
@@ -1332,7 +1344,8 @@ window.AXIS_DATA = {
       },
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Isabel I de Castilla"
+      "wikiTitle": "Isabel I de Castilla",
+      "sector": "Historia y política"
     },
     {
       "id": "felipe-ii",
@@ -1396,7 +1409,8 @@ window.AXIS_DATA = {
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Felipe II de España"
+      "wikiTitle": "Felipe II de España",
+      "sector": "Historia y política"
     },
     {
       "id": "carlos-iii",
@@ -1462,7 +1476,8 @@ window.AXIS_DATA = {
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Carlos III de España"
+      "wikiTitle": "Carlos III de España",
+      "sector": "Historia y política"
     },
     {
       "id": "vitoria",
@@ -1524,7 +1539,8 @@ window.AXIS_DATA = {
       },
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Francisco de Vitoria"
+      "wikiTitle": "Francisco de Vitoria",
+      "sector": "Historia y política"
     },
     {
       "id": "jovellanos",
@@ -1590,7 +1606,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Gaspar Melchor de Jovellanos"
+      "wikiTitle": "Gaspar Melchor de Jovellanos",
+      "sector": "Historia y política"
     },
     {
       "id": "fernando-vii",
@@ -1655,7 +1672,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Fernando VII de España"
+      "wikiTitle": "Fernando VII de España",
+      "sector": "Historia y política"
     },
     {
       "id": "arguelles",
@@ -1724,7 +1742,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Agustín Argüelles"
+      "wikiTitle": "Agustín Argüelles",
+      "sector": "Historia y política"
     },
     {
       "id": "carlos-isidro",
@@ -1790,7 +1809,8 @@ window.AXIS_DATA = {
       },
       "flag": "carlista",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Carlos María Isidro de Borbón"
+      "wikiTitle": "Carlos María Isidro de Borbón",
+      "sector": "Historia y política"
     },
     {
       "id": "canovas",
@@ -1859,7 +1879,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Antonio Cánovas del Castillo"
+      "wikiTitle": "Antonio Cánovas del Castillo",
+      "sector": "Historia y política"
     },
     {
       "id": "sagasta",
@@ -1928,7 +1949,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Práxedes Mateo Sagasta"
+      "wikiTitle": "Práxedes Mateo Sagasta",
+      "sector": "Historia y política"
     },
     {
       "id": "castelar",
@@ -1997,7 +2019,8 @@ window.AXIS_DATA = {
       },
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Emilio Castelar"
+      "wikiTitle": "Emilio Castelar",
+      "sector": "Historia y política"
     },
     {
       "id": "arenal",
@@ -2059,7 +2082,8 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Concepción Arenal"
+      "wikiTitle": "Concepción Arenal",
+      "sector": "Historia y política"
     },
     {
       "id": "pardo-bazan",
@@ -2121,7 +2145,8 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Emilia Pardo Bazán"
+      "wikiTitle": "Emilia Pardo Bazán",
+      "sector": "Historia y política"
     },
     {
       "id": "costa",
@@ -2185,7 +2210,8 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Joaquín Costa"
+      "wikiTitle": "Joaquín Costa",
+      "sector": "Historia y política"
     },
     {
       "id": "iglesias-posse",
@@ -2256,7 +2282,8 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Pablo Iglesias Posse"
+      "wikiTitle": "Pablo Iglesias Posse",
+      "sector": "Historia y política"
     },
     {
       "id": "unamuno",
@@ -2320,7 +2347,8 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Miguel de Unamuno"
+      "wikiTitle": "Miguel de Unamuno",
+      "sector": "Historia y política"
     },
     {
       "id": "ortega",
@@ -2393,7 +2421,8 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "José Ortega y Gasset"
+      "wikiTitle": "José Ortega y Gasset",
+      "sector": "Historia y política"
     },
     {
       "id": "largo",
@@ -2465,7 +2494,8 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Francisco Largo Caballero"
+      "wikiTitle": "Francisco Largo Caballero",
+      "sector": "Historia y política"
     },
     {
       "id": "prieto",
@@ -2538,7 +2568,8 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Indalecio Prieto"
+      "wikiTitle": "Indalecio Prieto",
+      "sector": "Historia y política"
     },
     {
       "id": "ibarruri",
@@ -2610,7 +2641,8 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Dolores Ibárruri"
+      "wikiTitle": "Dolores Ibárruri",
+      "sector": "Historia y política"
     },
     {
       "id": "carrillo",
@@ -2682,7 +2714,8 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Eurocomunismo"
+      "wikiTitle": "Eurocomunismo",
+      "sector": "Historia y política"
     },
     {
       "id": "durruti",
@@ -2754,7 +2787,8 @@ window.AXIS_DATA = {
       },
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Buenaventura Durruti"
+      "wikiTitle": "Buenaventura Durruti",
+      "sector": "Historia y política"
     },
     {
       "id": "kent",
@@ -2824,7 +2858,8 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Victoria Kent"
+      "wikiTitle": "Victoria Kent",
+      "sector": "Historia y política"
     },
     {
       "id": "jose-antonio",
@@ -2897,7 +2932,8 @@ window.AXIS_DATA = {
       },
       "flag": "falange",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "José Antonio Primo de Rivera"
+      "wikiTitle": "José Antonio Primo de Rivera",
+      "sector": "Historia y política"
     },
     {
       "id": "franco",
@@ -2970,7 +3006,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Francisco Franco"
+      "wikiTitle": "Francisco Franco",
+      "sector": "Historia y política"
     },
     {
       "id": "primo-rivera",
@@ -3037,7 +3074,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Miguel Primo de Rivera"
+      "wikiTitle": "Miguel Primo de Rivera",
+      "sector": "Historia y política"
     },
     {
       "id": "arana",
@@ -3099,7 +3137,8 @@ window.AXIS_DATA = {
       },
       "flag": "ikurrina",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Sabino Arana"
+      "wikiTitle": "Sabino Arana",
+      "sector": "Historia y política"
     },
     {
       "id": "companys",
@@ -3170,7 +3209,8 @@ window.AXIS_DATA = {
       },
       "flag": "senyera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Lluís Companys"
+      "wikiTitle": "Lluís Companys",
+      "sector": "Historia y política"
     },
     {
       "id": "blas-infante",
@@ -3238,7 +3278,8 @@ window.AXIS_DATA = {
       },
       "flag": "andalucia",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Blas Infante"
+      "wikiTitle": "Blas Infante",
+      "sector": "Historia y política"
     },
     {
       "id": "suarez",
@@ -3311,7 +3352,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Adolfo Suárez"
+      "wikiTitle": "Adolfo Suárez",
+      "sector": "Historia y política"
     },
     {
       "id": "fraga",
@@ -3384,7 +3426,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Manuel Fraga"
+      "wikiTitle": "Manuel Fraga",
+      "sector": "Historia y política"
     },
     {
       "id": "gonzalez",
@@ -3458,7 +3501,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Felipe González"
+      "wikiTitle": "Felipe González",
+      "sector": "Historia y política"
     },
     {
       "id": "aznar",
@@ -3532,7 +3576,8 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "José María Aznar"
+      "wikiTitle": "José María Aznar",
+      "sector": "Historia y política"
     },
     {
       "id": "azana",
@@ -3602,7 +3647,8 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Manuel Azaña"
+      "wikiTitle": "Manuel Azaña",
+      "sector": "Historia y política"
     },
     {
       "id": "pi",
@@ -3673,7 +3719,8 @@ window.AXIS_DATA = {
       },
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Francisco Pi y Margall"
+      "wikiTitle": "Francisco Pi y Margall",
+      "sector": "Historia y política"
     },
     {
       "id": "campoamor",
@@ -3737,7 +3784,8 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Clara Campoamor"
+      "wikiTitle": "Clara Campoamor",
+      "sector": "Historia y política"
     },
     {
       "id": "montseny",
@@ -3809,7 +3857,8 @@ window.AXIS_DATA = {
       },
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
-      "wikiTitle": "Federica Montseny"
+      "wikiTitle": "Federica Montseny",
+      "sector": "Historia y política"
     },
     {
       "id": "abderraman-iii",
@@ -3870,7 +3919,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "andalusi",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "averroes",
@@ -3923,7 +3973,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "andalusi",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "isidoro",
@@ -3984,7 +4035,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "fernando-iii",
@@ -4045,7 +4097,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "castilla",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "jaime-i",
@@ -4106,7 +4159,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "mariana",
@@ -4166,7 +4220,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "borgona",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "suarez-filosofo",
@@ -4226,7 +4281,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "borgona",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "luis-vives",
@@ -4283,7 +4339,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "cruz",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "padilla",
@@ -4346,7 +4403,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "castilla",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "maria-pacheco",
@@ -4409,7 +4467,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "castilla",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "espartero",
@@ -4476,7 +4535,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "narvaez",
@@ -4543,7 +4603,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "prim",
@@ -4610,7 +4671,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "salmeron",
@@ -4678,7 +4740,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "primera",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "donoso",
@@ -4742,7 +4805,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "cruz",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "balmes",
@@ -4813,7 +4877,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "cruz",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "giner",
@@ -4874,7 +4939,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "azcarate",
@@ -4937,7 +5003,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "menendez-pelayo",
@@ -4996,7 +5063,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "cruz",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "maura",
@@ -5063,7 +5131,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "canalejas",
@@ -5130,7 +5199,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "melquiades",
@@ -5201,7 +5271,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "espana",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "segui",
@@ -5271,7 +5342,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "negra",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "ferrer",
@@ -5333,7 +5405,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "negra",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "nin",
@@ -5403,7 +5476,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "roja",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "alcala-zamora",
@@ -5471,7 +5545,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "republica",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "nelken",
@@ -5540,7 +5615,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "roja",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "carmen-burgos",
@@ -5600,7 +5676,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "republica",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "lejarraga",
@@ -5669,7 +5746,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "roja",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "zambrano",
@@ -5731,7 +5809,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "republica",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "castelao",
@@ -5800,7 +5879,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "galicia",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "carlos-hugo",
@@ -5874,7 +5954,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "carlista",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "tierno",
@@ -5945,7 +6026,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": "roja",
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "madariaga",
@@ -6016,7 +6098,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "zapatero",
@@ -6090,7 +6173,8 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
     },
     {
       "id": "rajoy",
@@ -6164,7 +6248,1142 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
+      "sector": "Historia y política"
+    },
+    {
+      "id": "amancio-ortega",
+      "name": "Amancio Ortega",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Actividad empresarial desde 1963",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Fundador de Inditex, vinculado al desarrollo de Zara y a la industria textil.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Inditex · Historia del grupo",
+          "url": "https://www.inditex.com/itxcomweb/ba/en/group/history",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Amancio Ortega",
+      "image": {
+        "wikiTitle": "Amancio Ortega",
+        "url": "portraits/amancio-ortega.jpg",
+        "source": "https://www.inditex.com/itxcomweb/ba/en/group/history",
+        "licenseUrl": "https://www.inditex.com/itxcomweb/ba/en/group/history",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "juan-roig",
+      "name": "Juan Roig",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Actividad empresarial desde 1981",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresario asociado a Mercadona y a iniciativas de emprendimiento.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Universitat Politècnica de València · Biografía",
+          "url": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan Roig",
+      "image": {
+        "wikiTitle": "Juan Roig",
+        "url": "portraits/juan-roig.jpg",
+        "source": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
+        "licenseUrl": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "ana-botin",
+      "name": "Ana Botín",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Banca y dirección empresarial",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Banquera con trayectoria en la dirección del Grupo Santander.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Banco Santander · Perfil biográfico",
+          "url": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Ana Botín",
+      "image": {
+        "wikiTitle": "Ana Botín",
+        "url": "portraits/ana-botin.jpg",
+        "source": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
+        "licenseUrl": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "barrie",
+      "name": "Pedro Barrié de la Maza",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "1888–1971",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresario y financiero gallego; fundador de la Fundación Barrié.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Fundación Barrié · El fundador",
+          "url": "https://fundacionbarrie.org/fundador-pedro",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Pedro Barrié de la Maza",
+      "image": {
+        "wikiTitle": "Pedro Barrié de la Maza",
+        "url": "portraits/barrie.jpg",
+        "source": "https://fundacionbarrie.org/fundador-pedro",
+        "licenseUrl": "https://fundacionbarrie.org/fundador-pedro",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "sampedro",
+      "name": "José Luis Sampedro",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "1917–2013",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista, docente y escritor, con una obra dedicada también a la sociedad y al pensamiento económico.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Universidad Complutense · Biografía",
+          "url": "https://biblioteca.ucm.es/cee/biografia-3",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "José Luis Sampedro",
+      "image": {
+        "wikiTitle": "José Luis Sampedro",
+        "url": "portraits/sampedro.jpg",
+        "source": "https://biblioteca.ucm.es/cee/biografia-3",
+        "licenseUrl": "https://biblioteca.ucm.es/cee/biografia-3",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "huerta-soto",
+      "name": "Jesús Huerta de Soto",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Pensamiento económico contemporáneo",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y profesor vinculado a la escuela austriaca. Su perfil biográfico no se convierte automáticamente en un programa político completo.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Jesús Huerta de Soto · Currículum académico",
+          "url": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Jesús Huerta de Soto",
+      "image": {
+        "wikiTitle": "Jesús Huerta de Soto",
+        "url": "portraits/huerta-soto.jpg",
+        "source": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
+        "licenseUrl": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "sala-martin",
+      "name": "Xavier Sala-i-Martin",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Investigación económica contemporánea",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista e investigador del crecimiento económico, con trayectoria académica en Columbia.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Columbia University · Perfil académico",
+          "url": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Xavier Sala-i-Martin",
+      "image": {
+        "wikiTitle": "Xavier Sala-i-Martin",
+        "url": "portraits/sala-martin.jpg",
+        "source": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
+        "licenseUrl": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "salas",
+      "name": "Margarita Salas",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "1938–2019",
+      "family": "Ciencia",
+      "sector": "Ciencia",
+      "ideology": null,
+      "description": "Bioquímica y referente de la investigación española en biología molecular.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "CSIC · Margarita Salas",
+          "url": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Margarita Salas",
+      "image": {
+        "wikiTitle": "Margarita Salas",
+        "url": "portraits/salas.jpg",
+        "source": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
+        "licenseUrl": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "cajal",
+      "name": "Santiago Ramón y Cajal",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "siglo-xix",
+      "period": "1852–1934",
+      "family": "Ciencia",
+      "sector": "Ciencia",
+      "ideology": null,
+      "description": "Investigador del sistema nervioso y premio Nobel de Fisiología o Medicina de 1906.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Fundación Nobel · Biografía",
+          "url": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Santiago Ramón y Cajal",
+      "image": {
+        "wikiTitle": "Santiago Ramón y Cajal",
+        "url": "portraits/cajal.jpg",
+        "source": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
+        "licenseUrl": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "cirac",
+      "name": "Juan Ignacio Cirac",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Física e información cuántica",
+      "family": "Ciencia",
+      "sector": "Ciencia",
+      "ideology": null,
+      "description": "Físico con aportaciones a la información cuántica, la óptica cuántica y la física atómica.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Fundación Princesa de Asturias · Acta de 2006",
+          "url": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan Ignacio Cirac",
+      "image": {
+        "wikiTitle": "Juan Ignacio Cirac",
+        "url": "portraits/cirac.jpg",
+        "source": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
+        "licenseUrl": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "torres-quevedo",
+      "name": "Leonardo Torres Quevedo",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "siglo-xix",
+      "period": "1852–1936",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Ingeniero e inventor; figura de la automática, las máquinas de cálculo y el desarrollo de instrumentos científicos.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Residencia de Estudiantes / CSIC · Protagonistas de la JAE",
+          "url": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Leonardo Torres Quevedo",
+      "image": {
+        "wikiTitle": "Leonardo Torres Quevedo",
+        "url": "portraits/torres-quevedo.jpg",
+        "source": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
+        "licenseUrl": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "peral",
+      "name": "Isaac Peral",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "siglo-xix",
+      "period": "1851–1895",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Marino e inventor, conocido por su proyecto de submarino de propulsión eléctrica.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Ministerio de Defensa · Isaac Peral",
+          "url": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Isaac Peral",
+      "image": {
+        "wikiTitle": "Isaac Peral",
+        "url": "portraits/peral.jpg",
+        "source": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
+        "licenseUrl": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "valero",
+      "name": "Mateo Valero",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Supercomputación contemporánea",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Ingeniero e investigador en arquitectura de computadores y supercomputación.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Barcelona Supercomputing Center · Biografía",
+          "url": "https://www.bsc.es/mateo-valero",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Mateo Valero",
+      "image": {
+        "wikiTitle": "Mateo Valero",
+        "url": "portraits/valero.jpg",
+        "source": "https://www.bsc.es/mateo-valero",
+        "licenseUrl": "https://www.bsc.es/mateo-valero",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "duque",
+      "name": "Pedro Duque",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Astronáutica y actividad pública",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Ingeniero aeronáutico y astronauta de la ESA; su biografía científica se presenta sin inferir preferencias políticas personales.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#386559",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Agencia Espacial Europea · Biografía",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Pedro Duque",
+      "image": {
+        "wikiTitle": "Pedro Duque",
+        "url": "portraits/duque.jpg",
+        "source": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
+        "licenseUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "punset",
+      "name": "Eduard Punset",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "1936–2019 · Redes",
+      "family": "Divulgación",
+      "sector": "Divulgación",
+      "ideology": null,
+      "description": "Divulgador conocido por el programa Redes. Esta ficha se centra en su actividad de comunicación científica.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "RTVE · Redes",
+          "url": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Eduardo Punset",
+      "image": {
+        "wikiTitle": "Eduardo Punset",
+        "url": "portraits/punset.jpg",
+        "source": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
+        "licenseUrl": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "santaolalla",
+      "name": "Javier Santaolalla",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Divulgación científica contemporánea",
+      "family": "Divulgación",
+      "sector": "Divulgación",
+      "ideology": null,
+      "description": "Físico y comunicador científico, presentador de La última frontera.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "RTVE · La última frontera",
+          "url": "https://www.rtve.es/play/videos/la-ultima-frontera/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Javier Santaolalla",
+      "image": {
+        "wikiTitle": "Javier Santaolalla",
+        "url": "portraits/santaolalla.jpg",
+        "source": "https://www.rtve.es/play/videos/la-ultima-frontera/",
+        "licenseUrl": "https://www.rtve.es/play/videos/la-ultima-frontera/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "crespo",
+      "name": "José Luis Crespo · QuantumFracture",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Divulgación digital contemporánea",
+      "family": "Divulgación",
+      "sector": "Divulgación",
+      "ideology": null,
+      "description": "Creador del canal de divulgación científica QuantumFracture.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Instituto de Astrofísica de Canarias · QuantumFracture",
+          "url": "https://www.iac.es/en/outreach/news/el-iac-lleva-el-trio-de-eclipses-al-escenario-principal-de-tlp-tenerife-el-mayor-encuentro-de-ocio-tecnologico",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "QuantumFracture",
+      "image": {
+        "wikiTitle": "QuantumFracture",
+        "url": "portraits/crespo.jpg",
+        "source": "https://www.youtube.com/user/QuantumFracture",
+        "licenseUrl": "https://www.youtube.com/user/QuantumFracture",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "mulet",
+      "name": "José Miguel Mulet",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Biotecnología y comunicación científica",
+      "family": "Divulgación",
+      "sector": "Divulgación",
+      "ideology": null,
+      "description": "Investigador y divulgador de biotecnología, alimentación y pensamiento crítico.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Universitat Politècnica de València · Entrevista",
+          "url": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "José Miguel Mulet",
+      "image": {
+        "wikiTitle": "José Miguel Mulet",
+        "url": "portraits/mulet.jpg",
+        "source": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
+        "licenseUrl": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "lopez-nicolas",
+      "name": "José Manuel López Nicolás",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Bioquímica y comunicación científica",
+      "family": "Divulgación",
+      "sector": "Divulgación",
+      "ideology": null,
+      "description": "Bioquímico y divulgador que acerca la ciencia a la vida cotidiana.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Universidad de Murcia · Divulgar ciencia",
+          "url": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "José Manuel López Nicolás",
+      "image": {
+        "wikiTitle": "José Manuel López Nicolás",
+        "url": "portraits/lopez-nicolas.jpg",
+        "source": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
+        "licenseUrl": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "trajano",
+      "name": "Trajano",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Emperador de Roma · 98–117",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Emperador romano nacido en Itálica. Se incluye por su relación con Hispania, anterior a la España contemporánea.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Ministerio de Cultura · Trajano",
+          "url": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Trajano",
+      "image": {
+        "wikiTitle": "Trajano",
+        "url": "portraits/trajano.jpg",
+        "source": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
+        "licenseUrl": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+    },
+    {
+      "id": "adriano",
+      "name": "Adriano",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Emperador de Roma · 117–138",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Emperador romano vinculado familiarmente a Hispania; sus retratos históricos son esculturas, no fotografías.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica con fuente institucional o del propio autor. Ámbito profesional, no clasificación ideológica.",
+      "limits": "Sin afinidad numérica: estas fuentes no documentan suficientes posiciones en los ejes del test. La profesión, el patrimonio o el prestigio científico no permiten deducir una ideología.",
+      "sources": [
+        {
+          "title": "Museo Nacional del Prado · Adriano",
+          "url": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
+          "axes": [],
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Adriano",
+      "image": {
+        "wikiTitle": "Adriano",
+        "url": "portraits/adriano.jpg",
+        "source": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
+        "licenseUrl": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Retrato histórico o biográfico; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
     }
   ],
   "ideologies": [
@@ -12318,6 +13537,10 @@ window.AXIS_DATA = {
   ],
   "eras": [
     [
+      "antigua",
+      "Antigüedad · Hispania romana"
+    ],
+    [
       "medieval",
       "Alta y Baja Edad Media"
     ],
@@ -12473,5 +13696,16 @@ window.AXIS_DATA = {
       "source": "https://es.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS",
       "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
     }
-  }
+  },
+  "sectors": [
+    "Ciencia",
+    "Divulgación",
+    "Economía",
+    "Empresa",
+    "Hispania romana",
+    "Historia y política",
+    "Pensamiento y sociedad",
+    "Política",
+    "Tecnología"
+  ]
 };
