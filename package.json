@@ -1,8 +1,1 @@
-{
-  "name": "espana-en-12-ejes",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Test político exploratorio sobre España, preparado para Vercel",
-  "scripts": {"build": "node scripts/build.cjs", "test": "node tests/verify.cjs"},
-  "engines": {"node": ">=20"}
-}
+{"name":"espana-en-12-ejes","version":"2.0.0","private":true,"description":"Atlas exploratorio de ideas e historia española","scripts":{"build":"node build.cjs","test":"node verify.cjs"},"engines":{"node":">=20"}}

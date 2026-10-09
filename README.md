@@ -1,30 +1,20 @@
-# España en 12 ejes
+# España en 12 ejes · V2.0
 
-Aplicación estática original, en español, inspirada en el concepto de 12 Axes. Preparada para Vercel, sin dependencias de producción ni backend.
+Atlas exploratorio de ideas en España, preparado para GitHub y Vercel. Incluye 49 personalidades (40 históricas y 9 contemporáneas), 39 modelos ideológicos, 24 contextos históricos y un cuestionario de 16 dimensiones: los 12 ejes originales y 4 claves históricas. Versiones de 48 y 80 preguntas.
 
-## Qué incluye
+## Actualizar tu web en GitHub
 
-- Tests de 36 y 60 preguntas originales, repartidas entre 12 dimensiones.
-- Seis figuras políticas: Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal, Yolanda Díaz, Gabriel Rufián y Aitor Esteban.
-- Tres economistas: Juan Ramón Rallo, Juan Torres López y Daniel Lacalle.
-- Catálogo con búsqueda, filtros, posiciones editoriales, cobertura y enlaces a fuentes.
-- Comparación por ejes, ajuste de prioridades, guardado local y borrado de datos.
-- Descarga de tarjeta SVG y exportación JSON. No se comparten automáticamente.
-- Diseño adaptable a móvil, navegación por teclado y respeto a movimiento reducido.
+1. Descomprime `espana-en-12-ejes-v2.zip` en tu ordenador.
+2. Entra en tu repositorio `Hugoeee/12-ejes`. En la pantalla principal de archivos, pulsa **Add file → Upload files**.
+3. Arrastra **los archivos de dentro de la carpeta**, directamente a la raíz del repositorio. No subas el ZIP ni una carpeta que los envuelva. Deben verse `package.json`, `build.cjs`, `data.js`, `app.js`, etc., en la misma pantalla.
+4. GitHub actualizará los archivos que ya existían. Pon como mensaje `Actualizar atlas a versión 2.0` y pulsa **Commit changes**.
+5. Vercel volverá a desplegar la rama conectada. Comprueba que el despliegue nuevo esté en **Ready** y abre tu dominio. Recarga la página si seguías viendo la versión anterior.
 
-## Desplegar en Vercel
+Los antiguos `scripts/build.cjs`, `tests/verify.cjs` y `vista-previa.html`, si siguen en tu repositorio, ya no son necesarios. No impiden la compilación de V2. El nuevo `package.json` utiliza `node build.cjs` y `node verify.cjs`, ambos en la raíz. Conserva los demás archivos propios de tu repositorio que no pertenezcan a esta app.
 
-1. Descomprime el proyecto y sube el contenido de esta carpeta a un repositorio de GitHub.
-2. En Vercel, crea un proyecto e importa ese repositorio.
-3. Si el repositorio contiene otras carpetas, selecciona `espana-en-12-ejes` como Root Directory.
-4. Vercel lee `vercel.json`: Framework **Other**, Build Command **npm run build**, Output Directory **dist**. No necesita variables de entorno.
-5. Pulsa Deploy. La aplicación usa rutas con hash, así que no requiere redirecciones SPA.
+En Vercel: Framework **Other**, Build Command **npm run build**, Output Directory **dist** y Root Directory vacío. `vercel.json` declara estos valores. No necesita variables de entorno, base de datos ni claves API.
 
-También puedes desplegar con la CLI oficial de Vercel desde esta carpeta, en un entorno donde ya tengas sesión iniciada: `vercel --prod`.
-
-## Abrir y comprobar
-
-Abre `index.html` directamente para una prueba local, o usa cualquier servidor estático. El almacenamiento local puede comportarse de forma distinta con `file://`; para producción utiliza HTTPS.
+## Comprobar localmente
 
 Con Node 20 o superior:
 
@@ -33,38 +23,31 @@ npm test
 npm run build
 ```
 
-El build copia seis archivos a `dist/`. No necesita descargar paquetes. Las comprobaciones cubren los cálculos, integridad de datos y flujos del test mediante un DOM simulado; no sustituyen las pruebas visuales y de accesibilidad en un navegador real.
+No hay dependencias que instalar. Sirve la carpeta `dist` con un servidor estático de tu elección. Abrir el archivo HTML directamente permite consultar la web, pero el almacenamiento y las restricciones pueden variar según el navegador.
 
-## Archivos que editar
+## Qué cambia
 
-| Archivo | Contenido |
-| --- | --- |
-| `data.js` | Ejes, preguntas, perfiles y fuentes |
-| `core.js` | Fórmula de puntuación y afinidad |
-| `app.js` | Pantallas, interacciones y exportaciones |
-| `styles.css` | Diseño y adaptación a móvil |
-| `vercel.json` | Build, carpeta publicada y cabeceras |
+- Retratos de las 49 personalidades, con créditos, licencia, descripción del tipo de imagen y alternativas si no carga.
+- Catálogos con búsqueda, filtros de época y familia, y páginas de 12 fichas.
+- Resultados separados por corrientes, figuras históricas, contextos, política contemporánea y pensamiento económico.
+- Fichas con diferencias por eje, datos ausentes, límites y fuentes.
+- Cuatro dimensiones nuevas: pluralismo/autoritarismo, república/monarquía, propiedad colectiva/privada y gestión del trabajo.
+- Ranking que tiene en cuenta la cobertura y los desacuerdos centrales, con fórmula publicada.
+- Progreso local, pesos ajustables, revisión de respuestas y exportación SVG/JSON.
+- Opción de desactivar imágenes externas y borrar los datos del navegador.
 
-## Estado editorial: prototipo, no comparador electoral validado
+## Límites y fuentes
 
-Fecha de revisión: 9 de octubre de 2026. La fecha electoral del 29 de noviembre de 2026 se enlaza a la nota del INE. El catálogo no es una lista oficial de candidaturas.
+No es una enciclopedia completa ni un test validado. Los números son hipótesis editoriales aproximadas: las fuentes documentan contextos e ideas, pero no publican esas puntuaciones. Se muestran comparaciones exploratorias, no recomendaciones de voto ni respaldo a trayectorias políticas. Los perfiles actuales siguen basándose en documentos seleccionados, incluidos programas de 2023; no deben presentarse como datos actualizados de campaña de 2026.
 
-Los programas políticos usados son de **2023**, y varios textos sociales son anteriores. Cada puntuación es una interpretación editorial, no un dato numérico publicado por la fuente. Los programas de partido se usan como aproximación a una figura individual: no implican que esa persona haya respondido el test. No hay aprobación o colaboración de las figuras citadas.
+Cada registro de `data.js` incluye un periodo, fuentes y límites. Las dimensiones actuales que no tienen una analogía histórica razonable quedan como `null`. El Reino de Asturias y el Toledo visigodo se tratan por separado. No se atribuyen ideas a los habitantes actuales de los lugares.
 
-Los ejes sin evidencia seleccionada se dejan en `null`, nunca en 50. Se requieren tres ejes comunes para calcular afinidad. Juan Torres López tiene solo dos y por eso no obtiene porcentaje, aunque aparece en el catálogo. Los perfiles sociales y políticos se muestran en grupos distintos; el número de dimensiones comparadas siempre se muestra.
+Los retratos se solicitan a Wikimedia Commons al abrir la página. No están empaquetados dentro del ZIP: necesitan conexión y pueden depender de la disponibilidad del proveedor. La app puede funcionar sin ellos. Cada ficha enlaza el archivo original y las condiciones de reutilización; las imágenes tienen sus propias licencias. Los retratos antiguos pueden ser representaciones posteriores o esculturas, y así se indica.
 
-**Antes de promocionarlo como guía para noviembre:** incorporar los programas nuevos, ampliar la pluralidad de figuras y territorios, revisar las preguntas y justificar por eje cada puntuación con pasajes y fechas concretos. Someter el sistema a revisión independiente y realizar QA visual en móvil y escritorio. El prototipo ya funciona; la validación editorial electoral sigue pendiente.
+El progreso V1 no se migra: cambiar el cuestionario hace que las comparaciones antiguas no sean equivalentes. V2 guarda su propio progreso; el botón de borrado elimina ambas versiones del navegador.
 
-## Método
+## Ampliar el atlas
 
-Las respuestas valen −2, −1, 0, +1 o +2. Cada pregunta tiene dirección +1 o −1. Posición del eje = 50 + 25 × media(respuesta × dirección). Las omisiones no cuentan; un eje entero omitido queda sin datos.
+Añade registros en `data.js`: ID único, nombre, periodo, familia, descripción, 16 valores o `null`, fuentes con sus ejes, y limitaciones. No rellenes una postura desconocida con 50: 50 significa una posición intermedia; `null` significa falta de datos comparables. Para imágenes añade URL, autoría, fuente, licencia y el tipo de representación.
 
-Afinidad = 100 − media ponderada de diferencias absolutas entre posiciones. Solo compara dimensiones documentadas en ambos perfiles con peso positivo. Todos los ejes empiezan con peso 1; los ajustes de prioridades son temporales y se reinician al recargar. Una afinidad de 80 no significa coincidir en el 80% de las propuestas ni tener un 80% de probabilidad de votar a alguien.
-
-## Privacidad
-
-No hay analítica, peticiones de API, píxeles ni fuentes externas. Las respuestas se almacenan en localStorage del navegador. El alojamiento puede generar registros técnicos de acceso. El JSON descargado incluye las respuestas; la tarjeta SVG contiene solo el perfil y la afinidad. Los usuarios deciden si los comparten. La CSP bloquea conexiones desde la aplicación a servicios externos.
-
-## Atribución
-
-Referencia conceptual: https://12axes.vercel.app/ . Implementación, preguntas y textos originales. No se ha copiado el código, catálogo, identidad visual ni recursos gráficos del proyecto de referencia. Las fuentes enlazadas pertenecen a sus autores.
+Pasa `npm test` y revisa la app antes de publicar. Para una publicación con pretensión académica o electoral, conviene revisar cada codificación con especialistas y documentos del periodo correspondiente.
