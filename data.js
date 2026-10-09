@@ -1,5 +1,5 @@
 window.AXIS_DATA = {
-  "version": "5.0.0",
+  "version": "6.0.0",
   "reviewed": "9 de octubre de 2026",
   "axes": [
     [
@@ -499,7 +499,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Economía, cohesión territorial, libertades, política europea y transición ecológica. Los números son una codificación editorial del programa."
+          "note": "Economía, cohesión territorial, libertades, política europea y transición ecológica. Los números son una codificación editorial del programa.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -527,7 +529,132 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Pedro Sánchez",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 14,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "feijoo",
@@ -570,7 +697,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Medidas fiscales, colaboración público-privada, desregulación y política energética. Se dejan sin puntuar los ejes no cubiertos en esta selección."
+          "note": "Medidas fiscales, colaboración público-privada, desregulación y política energética. Se dejan sin puntuar los ejes no cubiertos en esta selección.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -598,7 +727,124 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Alberto Núñez Feijóo",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 10,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "abascal",
@@ -646,7 +892,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Programa electoral: organización del Estado, inmigración, seguridad, economía, valores y medioambiente. Codificación editorial."
+          "note": "Programa electoral: organización del Estado, inmigración, seguridad, economía, valores y medioambiente. Codificación editorial.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -674,7 +922,134 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Santiago Abascal",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 15,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "diaz",
@@ -723,7 +1098,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Democracia económica, políticas sociales y transición ecológica. Las posiciones se estiman a partir del programa completo enlazado en la página."
+          "note": "Democracia económica, políticas sociales y transición ecológica. Las posiciones se estiman a partir del programa completo enlazado en la página.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -751,7 +1128,136 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Yolanda Díaz",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 16,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "rufian",
@@ -795,7 +1301,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referéndum acordado, servicios públicos, fiscalidad, inmigración y derechos sociales. No se puntúan dimensiones sin evidencia suficiente en la selección."
+          "note": "Referéndum acordado, servicios públicos, fiscalidad, inmigración y derechos sociales. No se puntúan dimensiones sin evidencia suficiente en la selección.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -823,7 +1331,126 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Gabriel Rufián",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "esteban",
@@ -863,7 +1490,9 @@ window.AXIS_DATA = {
             12,
             14
           ],
-          "note": "Autogobierno, desarrollo sostenible, actividad económica y bienestar. Perfil parcial con cobertura limitada."
+          "note": "Autogobierno, desarrollo sostenible, actividad económica y bienestar. Perfil parcial con cobertura limitada.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -890,7 +1519,118 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Aitor Esteban",
-      "sector": "Política"
+      "sector": "Política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 7,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     },
     {
       "id": "rallo",
@@ -929,7 +1669,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Defensa de reducir el tamaño del Estado. La traducción a números es editorial."
+          "note": "Defensa de reducir el tamaño del Estado. La traducción a números es editorial.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         },
         {
           "title": "Lo que el liberalismo también es · 2015",
@@ -939,7 +1681,9 @@ window.AXIS_DATA = {
             3,
             10
           ],
-          "note": "Libertad individual, movilidad y decisiones personales sobre el final de vida."
+          "note": "Libertad individual, movilidad y decisiones personales sobre el final de vida.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -966,7 +1710,121 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Juan Ramón Rallo",
-      "sector": "Pensamiento y sociedad"
+      "sector": "Pensamiento y sociedad",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            1
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "torres",
@@ -1001,7 +1859,9 @@ window.AXIS_DATA = {
             6,
             7
           ],
-          "note": "Defensa de la provisión pública de vivienda y matices sobre la intervención en precios."
+          "note": "Defensa de la provisión pública de vivienda y matices sobre la intervención en precios.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -1025,7 +1885,107 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Juan Torres López",
-      "sector": "Pensamiento y sociedad"
+      "sector": "Pensamiento y sociedad",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 2,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "lacalle",
@@ -1063,7 +2023,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Defensa de menor carga tributaria y menor gasto improductivo. La extensión a provisión y mercado es una inferencia editorial."
+          "note": "Defensa de menor carga tributaria y menor gasto improductivo. La extensión a provisión y mercado es una inferencia editorial.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "kind": "persona",
@@ -1089,7 +2051,113 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Contexto territorial contemporáneo",
       "wikiTitle": "Daniel Lacalle",
-      "sector": "Pensamiento y sociedad"
+      "sector": "Pensamiento y sociedad",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate contemporáneo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "recaredo",
@@ -1133,7 +2201,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1153,7 +2223,111 @@ window.AXIS_DATA = {
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Recaredo I",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reinado 586–601 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "pelayo",
@@ -1197,7 +2371,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1217,7 +2393,111 @@ window.AXIS_DATA = {
       "flag": "asturias",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Pelayo",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primer tercio del siglo VIII que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "alfonso-x",
@@ -1261,7 +2541,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1281,7 +2563,111 @@ window.AXIS_DATA = {
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Alfonso X de Castilla",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reinado 1252–1284 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "isabel-i",
@@ -1325,7 +2711,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1345,7 +2733,111 @@ window.AXIS_DATA = {
       "flag": "castilla",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Isabel I de Castilla",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reinado 1474–1504 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "felipe-ii",
@@ -1390,7 +2882,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1410,7 +2904,113 @@ window.AXIS_DATA = {
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Felipe II de España",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reinado 1556–1598 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "carlos-iii",
@@ -1457,7 +3057,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1477,7 +3079,117 @@ window.AXIS_DATA = {
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Carlos III de España",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 7,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reinado en España 1759–1788 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "vitoria",
@@ -1521,7 +3233,17 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
+        },
+        {
+          "title": "Universidad de Salamanca · Escuela de Salamanca",
+          "url": "https://escueladesalamanca.usal.es/",
+          "axes": [],
+          "note": "Contexto académico de la tradición escolástica; no valida una equivalencia con doctrinas contemporáneas.",
+          "role": "Contexto histórico",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1540,7 +3262,111 @@ window.AXIS_DATA = {
       "flag": "borgona",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Francisco de Vitoria",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Obra del siglo XVI que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "jovellanos",
@@ -1587,7 +3413,17 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
+        },
+        {
+          "title": "Bibliografía · Informe sobre la Ley Agraria",
+          "url": "https://cervantesvirtual.com/obra/informe-sobre-la-ley-agraria--0/",
+          "axes": [],
+          "note": "Texto del autor sobre la reforma agraria. La referencia abre una lectura; no certifica la puntuación editorial.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1607,7 +3443,122 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Gaspar Melchor de Jovellanos",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "Informe sobre la Ley Agraria",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 7,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reformismo ilustrado, 1780–1808 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "fernando-vii",
@@ -1653,7 +3604,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -1673,7 +3626,115 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Fernando VII de España",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 6,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Restauraciones absolutistas, 1814–1820 y 1823–1833 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "arguelles",
@@ -1722,7 +3783,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1743,7 +3806,121 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Agustín Argüelles",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Cortes de Cádiz y liberalismo del XIX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "carlos-isidro",
@@ -1790,7 +3967,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1810,7 +3989,117 @@ window.AXIS_DATA = {
       "flag": "carlista",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Carlos María Isidro de Borbón",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 7,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Pretendiente carlista, 1833–1845 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "canovas",
@@ -1859,7 +4148,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1880,7 +4171,121 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Antonio Cánovas del Castillo",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Restauración, 1874–1897 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "sagasta",
@@ -1929,7 +4334,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -1950,7 +4357,121 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Práxedes Mateo Sagasta",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Liberalismo fusionista, 1880–1902 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "castelar",
@@ -1999,7 +4520,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2020,7 +4543,121 @@ window.AXIS_DATA = {
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Emilio Castelar",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primera República y posibilismo que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "arenal",
@@ -2064,7 +4701,17 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
+        },
+        {
+          "title": "Bibliografía · La beneficencia, la filantropía y la caridad",
+          "url": "https://www.cervantesvirtual.com/obra/la-beneficencia-la-filantropia-y-la-caridad--0/",
+          "axes": [],
+          "note": "Texto de la autora para estudiar asistencia, caridad y organización social.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2083,7 +4730,116 @@ window.AXIS_DATA = {
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Concepción Arenal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "La beneficencia, la filantropía y la caridad",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Obra reformadora, 1860–1893 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "pardo-bazan",
@@ -2127,7 +4883,17 @@ window.AXIS_DATA = {
             10,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
+        },
+        {
+          "title": "Bibliografía · La Tribuna",
+          "url": "https://www.cervantesvirtual.com/obra/la-tribuna--0/",
+          "axes": [],
+          "note": "Obra literaria. Las opiniones de personajes ficticios no son una declaración automática de la autora.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2146,7 +4912,116 @@ window.AXIS_DATA = {
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Emilia Pardo Bazán",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "La Tribuna",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Obra y debate público, 1880–1921 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "costa",
@@ -2192,7 +5067,9 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2211,7 +5088,115 @@ window.AXIS_DATA = {
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Joaquín Costa",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 6,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Regeneracionismo, 1890–1911 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "iglesias-posse",
@@ -2262,7 +5247,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2283,7 +5270,125 @@ window.AXIS_DATA = {
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Pablo Iglesias Posse",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Organización obrera, 1879–1925 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "unamuno",
@@ -2328,7 +5433,17 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
+        },
+        {
+          "title": "Bibliografía · Estudio de Del sentimiento trágico de la vida · Stephen Roberts",
+          "url": "https://www.cervantesvirtual.com/obra/del-sentimiento-tragico-de-la-vida-1913-1047769/",
+          "axes": [],
+          "note": "Estudio crítico de una obra filosófica; no es una declaración política directa de Unamuno.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2348,7 +5463,118 @@ window.AXIS_DATA = {
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Miguel de Unamuno",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "Estudio de Del sentimiento trágico de la vida · Stephen Roberts",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Etapa republicana, 1931–1935 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "ortega",
@@ -2401,7 +5627,17 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
+        },
+        {
+          "title": "Bibliografía · Textos sobre el pensamiento europeo de Ortega y Gasset",
+          "url": "https://cervantesvirtual.com/portales/europeistas_espanoles/textos_de_jose_ortega_y_gasset/",
+          "axes": [],
+          "note": "Fragmentos de textos del autor; el europeísmo de su época no equivale al debate actual sobre la Unión Europea.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2422,7 +5658,134 @@ window.AXIS_DATA = {
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "José Ortega y Gasset",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "Textos sobre el pensamiento europeo de Ortega y Gasset",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Debate liberal y republicano, 1920–1932 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "largo",
@@ -2474,7 +5837,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2495,7 +5860,127 @@ window.AXIS_DATA = {
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Francisco Largo Caballero",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Radicalización socialista, 1933–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "prieto",
@@ -2548,7 +6033,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2569,7 +6056,129 @@ window.AXIS_DATA = {
       "flag": null,
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Indalecio Prieto",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Socialismo republicano, 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "ibarruri",
@@ -2621,7 +6230,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2642,7 +6253,127 @@ window.AXIS_DATA = {
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Dolores Ibárruri",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Militancia comunista del siglo XX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "carrillo",
@@ -2694,7 +6425,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2715,7 +6448,127 @@ window.AXIS_DATA = {
       "flag": "roja",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Eurocomunismo",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Eurocomunismo y Transición, 1970–1982 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "durruti",
@@ -2767,7 +6620,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2788,7 +6643,127 @@ window.AXIS_DATA = {
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Buenaventura Durruti",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Anarquismo, 1920–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "kent",
@@ -2838,7 +6813,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -2859,7 +6836,123 @@ window.AXIS_DATA = {
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Victoria Kent",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 10,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reformismo republicano, 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "jose-antonio",
@@ -2912,7 +7005,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -2933,7 +7028,129 @@ window.AXIS_DATA = {
       "flag": "falange",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "José Antonio Primo de Rivera",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Falange, 1933–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "franco",
@@ -2986,7 +7203,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3007,7 +7226,129 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Francisco Franco",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primera dictadura, 1939–1959 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "primo-rivera",
@@ -3055,7 +7396,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3075,7 +7418,119 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Miguel Primo de Rivera",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 8,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Dictadura, 1923–1930 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "arana",
@@ -3119,7 +7574,9 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3138,7 +7595,111 @@ window.AXIS_DATA = {
       "flag": "ikurrina",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Sabino Arana",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Nacionalismo vasco fundacional, 1890–1903 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "companys",
@@ -3189,7 +7750,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3210,7 +7773,125 @@ window.AXIS_DATA = {
       "flag": "senyera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Lluís Companys",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Republicanismo catalán, 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "blas-infante",
@@ -3259,7 +7940,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3279,7 +7962,121 @@ window.AXIS_DATA = {
       "flag": "andalucia",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Blas Infante",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Andalucismo, 1915–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "suarez",
@@ -3332,7 +8129,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3353,7 +8152,129 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Adolfo Suárez",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reforma democrática, 1976–1981 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "fraga",
@@ -3406,7 +8327,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3427,7 +8350,129 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Manuel Fraga",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Alianza Popular y etapa constitucional que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "gonzalez",
@@ -3481,7 +8526,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3502,7 +8549,131 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Felipe González",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 14,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Gobiernos, 1982–1996 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "aznar",
@@ -3556,7 +8727,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3577,7 +8750,131 @@ window.AXIS_DATA = {
       "flag": "espana",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "José María Aznar",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 14,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Gobiernos, 1996–2004 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "azana",
@@ -3627,7 +8924,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3648,7 +8947,123 @@ window.AXIS_DATA = {
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Manuel Azaña",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 10,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Reformismo republicano, 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "pi",
@@ -3699,7 +9114,17 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
+        },
+        {
+          "title": "Bibliografía · Las nacionalidades · edición de 1877",
+          "url": "https://bvpb.mcu.es/es/consulta/registro.do?id=454946",
+          "axes": [],
+          "note": "Edición histórica del texto federalista conservada por el Ministerio de Cultura.",
+          "role": "Lectura complementaria",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3720,7 +9145,130 @@ window.AXIS_DATA = {
       "flag": "primera",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Francisco Pi y Margall",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [
+        {
+          "title": "Las nacionalidades · edición de 1877",
+          "source": 1
+        }
+      ],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Pensamiento federal, 1868–1901 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "campoamor",
@@ -3765,7 +9313,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3785,7 +9335,113 @@ window.AXIS_DATA = {
       "flag": "republica",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Clara Campoamor",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Sufragismo y República, 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "montseny",
@@ -3837,7 +9493,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -3858,7 +9516,127 @@ window.AXIS_DATA = {
       "flag": "rojinegra",
       "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
       "wikiTitle": "Federica Montseny",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Movimiento libertario, 1930–1937 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "abderraman-iii",
@@ -3901,7 +9679,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -3920,7 +9700,111 @@ window.AXIS_DATA = {
       },
       "flag": "andalusi",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 912–961 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "averroes",
@@ -3958,7 +9842,9 @@ window.AXIS_DATA = {
           "title": "Averroes",
           "url": "https://es.wikipedia.org/wiki/Averroes",
           "axes": [],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Información biográfica o profesional",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [],
@@ -3974,7 +9860,103 @@ window.AXIS_DATA = {
       },
       "flag": "andalusi",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Averroes antes de calcular afinidades.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "isidoro",
@@ -4017,7 +9999,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4036,7 +10020,111 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Siglos VI–VII que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "fernando-iii",
@@ -4079,7 +10167,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4098,7 +10188,111 @@ window.AXIS_DATA = {
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1217–1252 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "jaime-i",
@@ -4141,7 +10335,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4160,7 +10356,111 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1213–1276 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "mariana",
@@ -4203,7 +10503,9 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4221,7 +10523,111 @@ window.AXIS_DATA = {
       },
       "flag": "borgona",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Finales XVI–principios XVII que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "suarez-filosofo",
@@ -4264,7 +10670,17 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
+        },
+        {
+          "title": "Universidad de Salamanca · Escuela de Salamanca",
+          "url": "https://escueladesalamanca.usal.es/",
+          "axes": [],
+          "note": "Contexto académico de la tradición escolástica; no valida una equivalencia con doctrinas contemporáneas.",
+          "role": "Contexto histórico",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4282,7 +10698,111 @@ window.AXIS_DATA = {
       },
       "flag": "borgona",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 2,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Siglos XVI–XVII que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "luis-vives",
@@ -4324,7 +10844,9 @@ window.AXIS_DATA = {
             9,
             10
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [],
@@ -4340,7 +10862,109 @@ window.AXIS_DATA = {
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 3,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primera mitad del siglo XVI que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "padilla",
@@ -4385,7 +11009,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4404,7 +11030,115 @@ window.AXIS_DATA = {
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 6,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1520–1521 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "maria-pacheco",
@@ -4449,7 +11183,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4468,7 +11204,115 @@ window.AXIS_DATA = {
       },
       "flag": "castilla",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 6,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1520–1522 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "espartero",
@@ -4516,7 +11360,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4536,7 +11382,121 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Décadas de 1830–1850 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "narvaez",
@@ -4584,7 +11544,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4604,7 +11566,121 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Décadas de 1840–1860 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "prim",
@@ -4652,7 +11728,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4672,7 +11750,121 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1868–1870 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "salmeron",
@@ -4721,7 +11913,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4741,7 +11935,123 @@ window.AXIS_DATA = {
       },
       "flag": "primera",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 10,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Segunda mitad del siglo XIX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "donoso",
@@ -4787,7 +12097,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4806,7 +12118,117 @@ window.AXIS_DATA = {
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 7,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Etapa conservadora, 1848–1853 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "balmes",
@@ -4858,7 +12280,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -4878,7 +12302,129 @@ window.AXIS_DATA = {
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Década de 1840 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "giner",
@@ -4922,7 +12468,9 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -4940,7 +12488,113 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1876–1915 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "azcarate",
@@ -4985,7 +12639,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5004,7 +12660,115 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 6,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Finales XIX–principios XX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "menendez-pelayo",
@@ -5048,7 +12812,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -5064,7 +12830,113 @@ window.AXIS_DATA = {
       },
       "flag": "cruz",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 2,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Finales XIX–principios XX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "maura",
@@ -5112,7 +12984,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5132,7 +13006,121 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1903–1923 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "canalejas",
@@ -5180,7 +13168,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5200,7 +13190,121 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 9,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1910–1912 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "melquiades",
@@ -5252,7 +13356,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5272,7 +13378,129 @@ window.AXIS_DATA = {
       },
       "flag": "espana",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1912–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "segui",
@@ -5323,7 +13551,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5343,7 +13573,127 @@ window.AXIS_DATA = {
       },
       "flag": "negra",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1910–1923 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "ferrer",
@@ -5387,7 +13737,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5406,7 +13758,113 @@ window.AXIS_DATA = {
       },
       "flag": "negra",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1901–1909 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "nin",
@@ -5457,7 +13915,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -5477,7 +13937,127 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 12,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1935–1937 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "alcala-zamora",
@@ -5526,7 +14106,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5546,7 +14128,123 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 10,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1931–1936 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "nelken",
@@ -5596,7 +14294,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5616,7 +14316,125 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Década de 1930 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "carmen-burgos",
@@ -5659,7 +14477,9 @@ window.AXIS_DATA = {
             10,
             12
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [
@@ -5677,7 +14497,111 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 4,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primer tercio del siglo XX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "lejarraga",
@@ -5727,7 +14651,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5747,7 +14673,125 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Primer tercio del siglo XX que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "zambrano",
@@ -5791,7 +14835,9 @@ window.AXIS_DATA = {
             12,
             13
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5810,7 +14856,113 @@ window.AXIS_DATA = {
       },
       "flag": "republica",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 5,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Década de 1930 y exilio que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "castelao",
@@ -5860,7 +15012,9 @@ window.AXIS_DATA = {
             13,
             14
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5880,7 +15034,125 @@ window.AXIS_DATA = {
       },
       "flag": "galicia",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 11,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de 1931–1950 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "carlos-hugo",
@@ -5935,7 +15207,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -5955,7 +15229,135 @@ window.AXIS_DATA = {
       },
       "flag": "carlista",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 16,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Décadas de 1960–1980 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "tierno",
@@ -6007,7 +15409,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -6027,7 +15431,129 @@ window.AXIS_DATA = {
       },
       "flag": "roja",
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Décadas de 1960–1980 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "madariaga",
@@ -6079,7 +15605,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -6099,7 +15627,129 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 13,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Exilio y etapa europeísta que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "zapatero",
@@ -6154,7 +15804,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -6174,7 +15826,135 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 16,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Gobiernos de 2004–2011 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "rajoy",
@@ -6229,7 +16009,9 @@ window.AXIS_DATA = {
             14,
             15
           ],
-          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente.",
+          "role": "Referencia para interpretación editorial",
+          "origin": "Enciclopedia colaborativa"
         }
       ],
       "core": [
@@ -6249,7 +16031,135 @@ window.AXIS_DATA = {
       },
       "flag": null,
       "flagContext": "Símbolo de referencia del contexto, no una declaración personal",
-      "sector": "Historia y política"
+      "sector": "Historia y política",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Interpretación numérica provisional",
+        "numericAxes": 16,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 1,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 2,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 3,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 4,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 5,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 6,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 7,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 8,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 9,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 10,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 11,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 12,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 13,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 14,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "axis": 15,
+          "status": "Estimación editorial · revisar pasaje concreto",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "researchPriorities": [
+        "Localizar pasajes de Gobiernos de 2011–2018 que justifiquen cada eje puntuado y conservar la página o fecha.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes."
+      ]
     },
     {
       "id": "amancio-ortega",
@@ -6288,7 +16198,9 @@ window.AXIS_DATA = {
           "title": "Inditex · Historia del grupo",
           "url": "https://www.inditex.com/itxcomweb/ba/en/group/history",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6303,7 +16215,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Amancio Ortega antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "juan-roig",
@@ -6342,7 +16350,9 @@ window.AXIS_DATA = {
           "title": "Universitat Politècnica de València · Biografía",
           "url": "https://www.upv.es/organizacion/la-institucion/honoris-causa/2007-juan-roig/biografia-es.html",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6357,7 +16367,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Juan Roig antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "ana-botin",
@@ -6396,7 +16502,9 @@ window.AXIS_DATA = {
           "title": "Banco Santander · Perfil biográfico",
           "url": "https://www.santander.com/es/accionistas-e-inversores/gobierno-corporativo/consejo-de-administracion/d---ana-botin-sanz-de-sautuola-y-o-shea",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6411,7 +16519,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Ana Botín antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "barrie",
@@ -6450,7 +16654,9 @@ window.AXIS_DATA = {
           "title": "Fundación Barrié · El fundador",
           "url": "https://fundacionbarrie.org/fundador-pedro",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6465,7 +16671,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Pedro Barrié de la Maza antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "sampedro",
@@ -6504,7 +16806,9 @@ window.AXIS_DATA = {
           "title": "Universidad Complutense · Biografía",
           "url": "https://biblioteca.ucm.es/cee/biografia-3",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6519,7 +16823,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de José Luis Sampedro antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "huerta-soto",
@@ -6558,7 +16958,9 @@ window.AXIS_DATA = {
           "title": "Jesús Huerta de Soto · Currículum académico",
           "url": "https://www.jesushuertadesoto.com/curriculum-vitae-es/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6573,7 +16975,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Jesús Huerta de Soto antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "sala-martin",
@@ -6612,7 +17110,9 @@ window.AXIS_DATA = {
           "title": "Columbia University · Perfil académico",
           "url": "https://econ.columbia.edu/econpeople/xavier-sala-i-martin/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6627,7 +17127,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Xavier Sala-i-Martin antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "salas",
@@ -6666,7 +17262,9 @@ window.AXIS_DATA = {
           "title": "CSIC · Margarita Salas",
           "url": "https://www.cib.csic.es/es/news/otros/fallece-margarita-salas-referente-de-la-ciencia-y-de-las-cientificas-espanolas",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6681,7 +17279,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Margarita Salas antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "cajal",
@@ -6720,7 +17414,9 @@ window.AXIS_DATA = {
           "title": "Fundación Nobel · Biografía",
           "url": "https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6735,7 +17431,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Santiago Ramón y Cajal antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "cirac",
@@ -6774,7 +17566,9 @@ window.AXIS_DATA = {
           "title": "Fundación Princesa de Asturias · Acta de 2006",
           "url": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2006-juan-ignacio-cirac/?texto=acta",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6789,7 +17583,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Juan Ignacio Cirac antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "torres-quevedo",
@@ -6828,7 +17718,9 @@ window.AXIS_DATA = {
           "title": "Residencia de Estudiantes / CSIC · Protagonistas de la JAE",
           "url": "https://exposiciones.residencia.csic.es/jae/en/protagonistas/50_c.htm",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6843,7 +17735,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Leonardo Torres Quevedo antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "peral",
@@ -6882,7 +17870,9 @@ window.AXIS_DATA = {
           "title": "Ministerio de Defensa · Isaac Peral",
           "url": "https://www.defensa.gob.es/Galerias/gabinete/red/2026/03/p-48-53-red-436-peral.pdf",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6897,7 +17887,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Isaac Peral antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "valero",
@@ -6936,7 +18022,9 @@ window.AXIS_DATA = {
           "title": "Barcelona Supercomputing Center · Biografía",
           "url": "https://www.bsc.es/mateo-valero",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -6951,7 +18039,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Mateo Valero antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "duque",
@@ -6990,7 +18174,9 @@ window.AXIS_DATA = {
           "title": "Agencia Espacial Europea · Biografía",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Cervantes_Mission_Spanish/Pedro_Duque",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7005,7 +18191,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Pedro Duque antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "punset",
@@ -7044,7 +18326,9 @@ window.AXIS_DATA = {
           "title": "RTVE · Redes",
           "url": "https://www.rtve.es/play/videos/redes/redes-ordenador-del-futuro/1892311/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7059,7 +18343,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Eduard Punset antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "santaolalla",
@@ -7098,7 +18478,9 @@ window.AXIS_DATA = {
           "title": "RTVE · La última frontera",
           "url": "https://www.rtve.es/play/videos/la-ultima-frontera/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7113,7 +18495,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Javier Santaolalla antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "crespo",
@@ -7152,7 +18630,9 @@ window.AXIS_DATA = {
           "title": "Instituto de Astrofísica de Canarias · QuantumFracture",
           "url": "https://www.iac.es/en/outreach/news/el-iac-lleva-el-trio-de-eclipses-al-escenario-principal-de-tlp-tenerife-el-mayor-encuentro-de-ocio-tecnologico",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7167,7 +18647,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de José Luis Crespo · QuantumFracture antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "mulet",
@@ -7206,7 +18782,9 @@ window.AXIS_DATA = {
           "title": "Universitat Politècnica de València · Entrevista",
           "url": "https://www.upv.es/entidades/etsiamn/2023/05/19/un-cafe-con-jose-miguel-mulet/",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7221,7 +18799,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de José Miguel Mulet antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "lopez-nicolas",
@@ -7260,7 +18934,9 @@ window.AXIS_DATA = {
           "title": "Universidad de Murcia · Divulgar ciencia",
           "url": "https://www.um.es/web/podcast/-/jos%C3%A9-manuel-l%C3%B3pez-nicol%C3%A1s-%7C-divulgar-ciencia-con-excelencia-para-ser-m%C3%A1s-libres",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7275,7 +18951,103 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de José Manuel López Nicolás antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
     },
     {
       "id": "trajano",
@@ -7314,7 +19086,9 @@ window.AXIS_DATA = {
           "title": "Ministerio de Cultura · Trajano",
           "url": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005116.html",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7329,7 +19103,104 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Trajano antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
     },
     {
       "id": "adriano",
@@ -7368,7 +19239,9 @@ window.AXIS_DATA = {
           "title": "Museo Nacional del Prado · Adriano",
           "url": "https://www.museodelprado.es/coleccion/obra-de-arte/adriano/95b391d4-2a24-4e85-bf67-3c38fc1ae483",
           "axes": [],
-          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas."
+          "note": "Fuente de trayectoria biográfica o profesional; no respalda puntuaciones políticas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
         }
       ],
       "core": [],
@@ -7383,7 +19256,7068 @@ window.AXIS_DATA = {
         "modifications": "Encuadre de presentación, sin retoques del original."
       },
       "flag": null,
-      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento."
+      "flagContext": "No se asigna una bandera a partir de la profesión o el lugar de nacimiento.",
+      "reading": [],
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Adriano antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
+    },
+    {
+      "id": "seneca",
+      "name": "Séneca",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Siglo I · filosofía romana",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Filósofo romano relacionado con Corduba, representante del estoicismo y autor de tratados morales.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Tratados morales",
+          "url": "https://www.cervantesvirtual.com/obra/tratados-morales--0/",
+          "axes": [],
+          "note": "Tratados morales: ética, conducta y reflexión filosófica.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Séneca",
+      "image": {
+        "wikiTitle": "Séneca",
+        "url": "portraits/seneca.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Tratados morales: ética, conducta y reflexión filosófica.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Séneca antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
+    },
+    {
+      "id": "lucano",
+      "name": "Lucano",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Siglo I · poesía latina",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Poeta latino vinculado a Corduba. Su escritura pertenece al mundo romano, anterior a la España contemporánea.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Lucano",
+          "url": "https://www.cervantesvirtual.com/portales/luis_de_gongora/obras/autor/lucano-marco-anneo-90012",
+          "axes": [],
+          "note": "Poesía épica latina y su transmisión bibliográfica.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Lucano",
+      "image": {
+        "wikiTitle": "Lucano",
+        "url": "portraits/lucano.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Poesía épica latina y su transmisión bibliográfica.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Lucano antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
+    },
+    {
+      "id": "marcial",
+      "name": "Marcial",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Siglos I–II · literatura romana",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Autor latino de epigramas. Su sátira literaria no constituye por sí sola un programa político comparable al actual.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Epigramas",
+          "url": "https://www.cervantesvirtual.com/obra/epigramas/",
+          "axes": [],
+          "note": "Epigramas: lectura de la sociedad romana a través de la literatura.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Marcial",
+      "image": {
+        "wikiTitle": "Marcial",
+        "url": "portraits/marcial.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Epigramas: lectura de la sociedad romana a través de la literatura.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Marcial antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
+    },
+    {
+      "id": "teodosio",
+      "name": "Teodosio I",
+      "kind": "persona",
+      "group": "historia",
+      "era": "antigua",
+      "period": "Imperio romano tardío · siglo IV",
+      "family": "Hispania romana",
+      "sector": "Hispania romana",
+      "ideology": null,
+      "description": "Emperador romano de origen hispano. Su gobierno se sitúa en el contexto institucional y religioso del Imperio tardío.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Ministerio de Cultura · Contexto de Teodosio",
+          "url": "https://tesauros.cultura.gob.es/tesauros/contextosculturales/1005889.html",
+          "axes": [],
+          "note": "Poder imperial y contexto cultural del siglo IV.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Teodosio I",
+      "image": {
+        "wikiTitle": "Teodosio I",
+        "url": "portraits/teodosio.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Poder imperial y contexto cultural del siglo IV.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Teodosio I antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "Evitar atribuir nacionalidad española moderna o posturas sobre instituciones actuales a figuras de la Antigüedad."
+      ]
+    },
+    {
+      "id": "carlos-v",
+      "name": "Carlos I de España y V del Imperio",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Monarquía de los Habsburgo · siglo XVI",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Monarca nacido en Gante cuyo gobierno reunió territorios europeos y americanos con instituciones diferentes.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Museo del Ejército · Carlos V",
+          "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/02.24_febrero_NACIMIENTO_EMPERADOR_CARLOS_V.html",
+          "axes": [],
+          "note": "Monarquía compuesta y representación del poder imperial.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Carlos I de España",
+      "image": {
+        "wikiTitle": "Carlos I de España",
+        "url": "portraits/carlos-v.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Monarquía compuesta y representación del poder imperial.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Carlos I de España y V del Imperio antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "fernando-ii",
+      "name": "Fernando II de Aragón",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Reyes Católicos · siglos XV–XVI",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Monarca aragonés de la etapa de los Reyes Católicos. La unión dinástica debe distinguirse de un Estado nacional contemporáneo.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Ministerio de Cultura · Registro de autoridad",
+          "url": "https://bvpb.mcu.es/en/consulta_aut/registro.do?control=BVPB20120000407",
+          "axes": [],
+          "note": "Documentación bibliográfica del reinado y de sus territorios.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Fernando II de Aragón",
+      "image": {
+        "wikiTitle": "Fernando II de Aragón",
+        "url": "portraits/fernando-ii.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Documentación bibliográfica del reinado y de sus territorios.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Fernando II de Aragón antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "isabel-ii",
+      "name": "Isabel II",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Monarquía liberal · siglo XIX",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Reina vinculada al establecimiento de la monarquía liberal española. Su reinado requiere distinguir gobiernos y etapas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Patrimonio Nacional · Historia institucional",
+          "url": "https://www.patrimonionacional.es/sobre-patrimonio/conoce-nuestra-historia",
+          "axes": [],
+          "note": "Patrimonio de la Corona y transformación institucional del siglo XIX.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Isabel II",
+      "image": {
+        "wikiTitle": "Isabel II",
+        "url": "portraits/isabel-ii.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Patrimonio de la Corona y transformación institucional del siglo XIX.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Isabel II antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "alfonso-xiii",
+      "name": "Alfonso XIII",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Reinado y Gran Guerra · primeras décadas del siglo XX",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Monarca de la última etapa de la Restauración. La fuente seleccionada documenta su mediación humanitaria durante la Gran Guerra.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Patrimonio Nacional · Cartas al rey",
+          "url": "https://www.patrimonionacional.es/actualidad/exposiciones/cartas-al-rey-la-mediacion-humanitaria-de-alfonso-xiii-en-la-gran-guerra",
+          "axes": [],
+          "note": "Oficina humanitaria durante la Primera Guerra Mundial; no resume toda su actuación política.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Alfonso XIII",
+      "image": {
+        "wikiTitle": "Alfonso XIII",
+        "url": "portraits/alfonso-xiii.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Oficina humanitaria durante la Primera Guerra Mundial; no resume toda su actuación política.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Alfonso XIII antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "juan-carlos-i",
+      "name": "Juan Carlos I",
+      "kind": "persona",
+      "group": "historia",
+      "era": "transicion",
+      "period": "Reinado · 1975–2014",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Rey durante la Transición y las primeras décadas de la monarquía parlamentaria. Se utiliza una biografía de la propia institución.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Casa de S. M. el Rey · Biografía",
+          "url": "https://www.casareal.es/ES/FamiliaReal/rey/Paginas/rey_biografia.aspx",
+          "axes": [],
+          "note": "Trayectoria institucional: debe complementarse con investigación histórica independiente.",
+          "role": "Información biográfica o profesional",
+          "origin": "Institucional · perspectiva propia"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan Carlos I",
+      "image": {
+        "wikiTitle": "Juan Carlos I",
+        "url": "portraits/juan-carlos-i.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Trayectoria institucional: debe complementarse con investigación histórica independiente.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Juan Carlos I antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "felipe-vi",
+      "name": "Felipe VI",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Monarquía parlamentaria · desde 2014",
+      "family": "Historia y política",
+      "sector": "Historia y política",
+      "ideology": null,
+      "description": "Rey proclamado en junio de 2014. La función constitucional de la Corona no equivale a una afiliación partidista.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Casa de S. M. el Rey · Biografía",
+          "url": "https://www.casareal.es/ES/FamiliaReal/ReyFelipe/Paginas/biografia.aspx/",
+          "axes": [],
+          "note": "Biografía institucional y jefatura del Estado.",
+          "role": "Información biográfica o profesional",
+          "origin": "Institucional · perspectiva propia"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Felipe VI",
+      "image": {
+        "wikiTitle": "Felipe VI",
+        "url": "portraits/felipe-vi.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Biografía institucional y jefatura del Estado.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Felipe VI antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "ignacio-loyola",
+      "name": "Ignacio de Loyola",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Reforma católica · siglo XVI",
+      "family": "Religión y pensamiento",
+      "sector": "Religión y pensamiento",
+      "ideology": null,
+      "description": "Fundador de la Compañía de Jesús, perteneciente al contexto religioso del siglo XVI.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Estado de la Ciudad del Vaticano · Ignacio de Loyola",
+          "url": "https://www.vaticanstate.va/es/estado-y-gobierno/notas-generales/santo-del-dia/2346-31-de-julio-san-ignacio-de-loyola-fundador-de-la-compania-de-jesus.html",
+          "axes": [],
+          "note": "Fundación de la Compañía de Jesús y tradición espiritual; fuente confesional.",
+          "role": "Información biográfica o profesional",
+          "origin": "Institucional · perspectiva propia"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Ignacio de Loyola",
+      "image": {
+        "wikiTitle": "Ignacio de Loyola",
+        "url": "portraits/ignacio-loyola.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Fundación de la Compañía de Jesús y tradición espiritual; fuente confesional.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Ignacio de Loyola antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "teresa-jesus",
+      "name": "Teresa de Jesús",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Literatura y reforma religiosa · siglo XVI",
+      "family": "Religión y pensamiento",
+      "sector": "Religión y pensamiento",
+      "ideology": null,
+      "description": "Escritora y reformadora religiosa. Su obra combina experiencia espiritual, literatura y organización de comunidades.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Teresa de Jesús",
+          "url": "https://www.cervantesvirtual.com/portales/santa_teresa_de_jesus/",
+          "axes": [],
+          "note": "Libro de la vida, Camino de perfección, Moradas y Fundaciones.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Teresa de Jesús",
+      "image": {
+        "wikiTitle": "Teresa de Jesús",
+        "url": "portraits/teresa-jesus.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Libro de la vida, Camino de perfección, Moradas y Fundaciones.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Teresa de Jesús antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "domingo-soto",
+      "name": "Domingo de Soto",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Escuela de Salamanca · siglo XVI",
+      "family": "Religión y pensamiento",
+      "sector": "Religión y pensamiento",
+      "ideology": null,
+      "description": "Teólogo vinculado a Salamanca que abordó cuestiones de propiedad, justicia y conocimiento natural.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Universidad de Salamanca · Domingo de Soto",
+          "url": "https://comunicacion.usal.es/universidad-salamanca-homenajea-domingo-soto-con-vitor-en-facultad-ciencias",
+          "axes": [],
+          "note": "Debates sobre propiedad y bienestar humano en su contexto escolástico.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Domingo de Soto",
+      "image": {
+        "wikiTitle": "Domingo de Soto",
+        "url": "portraits/domingo-soto.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Debates sobre propiedad y bienestar humano en su contexto escolástico.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Domingo de Soto antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "luis-molina",
+      "name": "Luis de Molina",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Pensamiento escolástico · siglo XVI",
+      "family": "Religión y pensamiento",
+      "sector": "Religión y pensamiento",
+      "ideology": null,
+      "description": "Teólogo y autor de la tradición escolástica. Sus conceptos requieren lectura en el marco religioso y jurídico de su época.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Luis de Molina",
+          "url": "https://data.cervantesvirtual.com/person/109",
+          "axes": [],
+          "note": "Cartas y obras catalogadas: itinerario inicial de documentación.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Luis de Molina",
+      "image": {
+        "wikiTitle": "Luis de Molina",
+        "url": "portraits/luis-molina.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Cartas y obras catalogadas: itinerario inicial de documentación.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Luis de Molina antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "severo-ochoa",
+      "name": "Severo Ochoa",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Bioquímica del siglo XX",
+      "family": "Ciencia",
+      "sector": "Ciencia",
+      "ideology": null,
+      "description": "Investigador de bioquímica, reconocido con el Nobel de Medicina de 1959 junto con Arthur Kornberg.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#17675b",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Universidad Complutense de Madrid · Severo Ochoa",
+          "url": "https://www.ucm.es/severo_ochoa",
+          "axes": [],
+          "note": "Investigación sobre la biosíntesis de ácidos nucleicos.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Severo Ochoa",
+      "image": {
+        "wikiTitle": "Severo Ochoa",
+        "url": "portraits/severo-ochoa.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Investigación sobre la biosíntesis de ácidos nucleicos.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Severo Ochoa antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "monturiol",
+      "name": "Narciso Monturiol",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Navegación submarina · siglo XIX",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Inventor vinculado a los primeros proyectos de navegación submarina. La documentación técnica no basta para reconstruir sus ideas sociales.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#355c83",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Armada Española · Historia de la navegación submarina",
+          "url": "https://armada.defensa.gob.es/archivo/mardigitalrevistas/cuadernosihcn/71cuaderno/cap02.pdf",
+          "axes": [],
+          "note": "Historia del submarino y proyectos de innovación naval.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Narciso Monturiol",
+      "image": {
+        "wikiTitle": "Narciso Monturiol",
+        "url": "portraits/monturiol.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Historia del submarino y proyectos de innovación naval.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Narciso Monturiol antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "cierva-inventor",
+      "name": "Juan de la Cierva y Codorníu",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Innovación aeronáutica · primeras décadas del siglo XX",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Ingeniero e inventor del autogiro. Se distingue expresamente de su padre, el político Juan de la Cierva y Peñafiel.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#355c83",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Ministerio de Defensa · Colección aeronáutica",
+          "url": "https://patrimoniocultural.defensa.gob.es/sites/default/files/2024-05/Pdf%40MUSEO%20AERON%C3%81UTICA%20Y%20ASTRON%C3%81UTICA%20triptico.pdf",
+          "axes": [],
+          "note": "Autogiros, incluido el C-19 conservado en el Museo de Aeronáutica y Astronáutica.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan de la Cierva y Codorníu",
+      "image": {
+        "wikiTitle": "Juan de la Cierva y Codorníu",
+        "url": "portraits/cierva-inventor.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Autogiros, incluido el C-19 conservado en el Museo de Aeronáutica y Astronáutica.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Juan de la Cierva y Codorníu antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "emilio-herrera",
+      "name": "Emilio Herrera",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Ingeniería aeronáutica y exilio · siglo XX",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Ingeniero aeronáutico cuya trayectoria científica, personal y política se conserva en un archivo histórico en proceso de difusión.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#355c83",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Fundación ENAIRE · Archivo Emilio Herrera",
+          "url": "https://fundacionenaire.es/biblioteca-virtual-espacio-emilio-herrera/",
+          "axes": [],
+          "note": "Escafandra estratonáutica y archivo documental: separar invención científica y trayectoria política.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Emilio Herrera",
+      "image": {
+        "wikiTitle": "Emilio Herrera",
+        "url": "portraits/emilio-herrera.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Escafandra estratonáutica y archivo documental: separar invención científica y trayectoria política.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Emilio Herrera antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "angela-ruiz",
+      "name": "Ángela Ruiz Robles",
+      "kind": "persona",
+      "group": "historia",
+      "era": "dictadura",
+      "period": "Innovación educativa · siglo XX",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Maestra e inventora vinculada al desarrollo de la enciclopedia mecánica.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#355c83",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Museo Nacional de Ciencia y Tecnología · Ángela Ruiz Robles",
+          "url": "https://muncyt.es/media/angela-ruiz-robles-y-la-enciclopedia-mecanica",
+          "axes": [],
+          "note": "Enciclopedia mecánica y materiales para la enseñanza.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Ángela Ruiz Robles",
+      "image": {
+        "wikiTitle": "Ángela Ruiz Robles",
+        "url": "portraits/angela-ruiz.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Enciclopedia mecánica y materiales para la enseñanza.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Ángela Ruiz Robles antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "elena-garcia",
+      "name": "Elena García Armada",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Robótica y exoesqueletos contemporáneos",
+      "family": "Tecnología",
+      "sector": "Tecnología",
+      "ideology": null,
+      "description": "Investigadora e ingeniera vinculada a la robótica y al desarrollo de exoesqueletos en Marsi Bionics.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#355c83",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "CDTI · Entrevista a Elena García Armada",
+          "url": "https://www.cdti.es/noticias/elena-garcia-armada-presidenta-y-fundadora-de-marsi-bionics-el-cdti-innovacion-ha",
+          "axes": [],
+          "note": "Transferencia de investigación robótica a aplicaciones de asistencia.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Elena García Armada",
+      "image": {
+        "wikiTitle": "Elena García Armada",
+        "url": "portraits/elena-garcia.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Transferencia de investigación robótica a aplicaciones de asistencia.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Elena García Armada antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "pedro-schwartz",
+      "name": "Pedro Schwartz",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Economía y pensamiento liberal · siglo XX–XXI",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y académico con una trayectoria pública vinculada al pensamiento liberal.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Real Academia de Ciencias Morales y Políticas · Pedro Schwartz",
+          "url": "https://racmyp.es/academicos/pedro-schwartz-giron/",
+          "axes": [],
+          "note": "Empresa y libertad y Nuevos ensayos liberales: referencias bibliográficas para ampliar el estudio doctrinal.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Pedro Schwartz",
+      "image": {
+        "wikiTitle": "Pedro Schwartz",
+        "url": "portraits/pedro-schwartz.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Empresa y libertad y Nuevos ensayos liberales: referencias bibliográficas para ampliar el estudio doctrinal.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Pedro Schwartz antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "bastos",
+      "name": "Miguel Anxo Bastos",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Ciencia política y pensamiento económico contemporáneo",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Politólogo y profesor de la Universidade de Santiago de Compostela. El ámbito económico no implica atribuirle una titulación de economista.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Universidade de Santiago de Compostela · Perfil investigador",
+          "url": "https://investigacion.usc.gal/investigadores/58360/detalle?lang=es",
+          "axes": [],
+          "note": "Registro de investigación y trayectoria académica; posiciones concretas pendientes de documentar.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Miguel Anxo Bastos Boubeta",
+      "image": {
+        "wikiTitle": "Miguel Anxo Bastos Boubeta",
+        "url": "portraits/bastos.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Registro de investigación y trayectoria académica; posiciones concretas pendientes de documentar.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Miguel Anxo Bastos antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "juan-velarde",
+      "name": "Juan Velarde Fuertes",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Historia y estructura económica · siglo XX–XXI",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y académico vinculado al estudio de la estructura económica española.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Real Academia de Ciencias Morales y Políticas · Juan Velarde",
+          "url": "https://racmyp.es/academicos/juan-velarde-fuertes/",
+          "axes": [],
+          "note": "Docencia e investigación económica; distinguir las diferentes etapas de su trayectoria.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan Velarde Fuertes",
+      "image": {
+        "wikiTitle": "Juan Velarde Fuertes",
+        "url": "portraits/juan-velarde.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Docencia e investigación económica; distinguir las diferentes etapas de su trayectoria.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Juan Velarde Fuertes antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "julio-segura",
+      "name": "Julio Segura",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Economía e instituciones · siglo XX–XXI",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y académico con trayectoria en la investigación y en instituciones económicas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Real Academia de Ciencias Morales y Políticas · Julio Segura",
+          "url": "https://racmyp.es/academicos/julio-segura-sanchez/",
+          "axes": [],
+          "note": "Investigación económica y actividad institucional, sin inferir una doctrina de los cargos desempeñados.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Julio Segura",
+      "image": {
+        "wikiTitle": "Julio Segura",
+        "url": "portraits/julio-segura.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Investigación económica y actividad institucional, sin inferir una doctrina de los cargos desempeñados.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Julio Segura antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "tamames",
+      "name": "Ramón Tamames",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Economía y trayectoria pública · siglo XX–XXI",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y académico cuya trayectoria política pasó por distintas etapas y alianzas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Real Academia de Ciencias Morales y Políticas · Ramón Tamames",
+          "url": "https://racmyp.es/academicos/ramon-tamames-gomez/",
+          "axes": [],
+          "note": "Investigación y consultoría económica: evitar una única etiqueta para toda su vida pública.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Ramón Tamames",
+      "image": {
+        "wikiTitle": "Ramón Tamames",
+        "url": "portraits/tamames.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Investigación y consultoría económica: evitar una única etiqueta para toda su vida pública.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Ramón Tamames antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "trias-bes",
+      "name": "Fernando Trías de Bes",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Economía, empresa y escritura contemporáneas",
+      "family": "Economía",
+      "sector": "Economía",
+      "ideology": null,
+      "description": "Economista y escritor que ha publicado sobre emprendimiento y creación empresarial.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Fernando Trías de Bes · Biografía del autor",
+          "url": "https://triasdebes.net/bio/",
+          "axes": [],
+          "note": "La buena suerte y El libro negro del emprendedor: divulgación de empresa, no un programa político.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Fernando Trías de Bes",
+      "image": {
+        "wikiTitle": "Fernando Trías de Bes",
+        "url": "portraits/trias-bes.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "La buena suerte y El libro negro del emprendedor: divulgación de empresa, no un programa político.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Fernando Trías de Bes antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "florentino-perez",
+      "name": "Florentino Pérez",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Dirección empresarial · siglo XX–XXI",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresario e ingeniero con trayectoria en ACS y anteriores responsabilidades públicas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Grupo ACS · Biografía de Florentino Pérez",
+          "url": "https://www.grupoacs.com/ficheros_editor/File/01_conozca_acs/03_organizacion/CONSEJO/Espa%C3%B1ol/1_FPR.pdf",
+          "axes": [],
+          "note": "Trayectoria profesional documentada por la propia empresa; fuente de parte.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Florentino Pérez",
+      "image": {
+        "wikiTitle": "Florentino Pérez",
+        "url": "portraits/florentino-perez.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Trayectoria profesional documentada por la propia empresa; fuente de parte.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Florentino Pérez antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "isak-andic",
+      "name": "Isak Andic",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Empresa de moda · siglo XX–2024",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Fundador de Mango, nacido en Estambul y vinculado al tejido empresarial de Barcelona.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Mango Fashion Group · Nuestro fundador",
+          "url": "https://mangofashiongroup.com/nuestro-fundador/isak-andic",
+          "axes": [],
+          "note": "Creación y desarrollo de Mango; perfil elaborado por la empresa.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Isak Andic",
+      "image": {
+        "wikiTitle": "Isak Andic",
+        "url": "portraits/isak-andic.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Creación y desarrollo de Mango; perfil elaborado por la empresa.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Isak Andic antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "rosalia-mera",
+      "name": "Rosalía Mera",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Empresa y proyectos sociales · siglo XX–XXI",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresaria vinculada a Inditex y al impulso de la Fundación Paideia Galiza.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Consello da Cultura Galega · Rosalía Mera",
+          "url": "https://consellodacultura.gal/album-de-galicia/detalle.php?persoa=27127",
+          "axes": [],
+          "note": "Proyectos de integración social, formación y empleo en Galicia.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Rosalía Mera",
+      "image": {
+        "wikiTitle": "Rosalía Mera",
+        "url": "portraits/rosalia-mera.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Proyectos de integración social, formación y empleo en Galicia.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Rosalía Mera antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "esther-koplowitz",
+      "name": "Esther Koplowitz",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Empresa y mecenazgo contemporáneos",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresaria que desarrolla actividad filantrópica mediante una fundación con su nombre.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Fundación Esther Koplowitz · Quiénes somos",
+          "url": "https://fundacionestherkoplowitz.org/fundacion/",
+          "axes": [],
+          "note": "Asistencia social e investigación biomédica: estos ámbitos no determinan una posición política completa.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Esther Koplowitz",
+      "image": {
+        "wikiTitle": "Esther Koplowitz",
+        "url": "portraits/esther-koplowitz.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Asistencia social e investigación biomédica: estos ámbitos no determinan una posición política completa.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Esther Koplowitz antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "alicia-koplowitz",
+      "name": "Alicia Koplowitz",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Empresa y filantropía contemporáneas",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Empresaria cuya fundación impulsa formación e investigación en salud mental de niños y adolescentes.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Fundación Alicia Koplowitz · Historia",
+          "url": "https://fundacionaliciakoplowitz.org/fundacion/historia/",
+          "axes": [],
+          "note": "Actividad de la fundación y evolución de sus programas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Alicia Koplowitz",
+      "image": {
+        "wikiTitle": "Alicia Koplowitz",
+        "url": "portraits/alicia-koplowitz.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Actividad de la fundación y evolución de sus programas.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Alicia Koplowitz antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "emilio-botin",
+      "name": "Emilio Botín García de los Ríos",
+      "kind": "persona",
+      "group": "sociedad",
+      "era": "democracia",
+      "period": "Banca y mecenazgo · hasta 2014",
+      "family": "Empresa",
+      "sector": "Empresa",
+      "ideology": null,
+      "description": "Banquero vinculado a Santander y presidente de la Fundación Botín hasta su fallecimiento en 2014.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#a36837",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Fundación Botín · Historia y fundadores",
+          "url": "https://fundacionbotin.org/fundadores/",
+          "axes": [],
+          "note": "Distinguirlo de otros miembros de la familia con el mismo nombre. La fuente documenta la presidencia de la fundación.",
+          "role": "Información biográfica o profesional",
+          "origin": "Autor, empresa o fundación vinculada"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Emilio Botín",
+      "image": {
+        "wikiTitle": "Emilio Botín",
+        "url": "portraits/emilio-botin.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Distinguirlo de otros miembros de la familia con el mismo nombre. La fuente documenta la presidencia de la fundación.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Emilio Botín García de los Ríos antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "antonio-machado",
+      "name": "Antonio Machado",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Literatura, República y exilio · 1875–1939",
+      "family": "Literatura",
+      "sector": "Literatura",
+      "ideology": null,
+      "description": "Poeta cuya trayectoria incluye la defensa de la legalidad republicana y el exilio al final de la Guerra Civil.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#70456f",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Antonio Machado",
+          "url": "https://cervantesvirtual.com/portales/antonio_machado/biografia/",
+          "axes": [],
+          "note": "Producción poética y evolución biográfica; la afinidad política requiere documentación específica por eje.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Antonio Machado",
+      "image": {
+        "wikiTitle": "Antonio Machado",
+        "url": "portraits/antonio-machado.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Producción poética y evolución biográfica; la afinidad política requiere documentación específica por eje.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Antonio Machado antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "miguel-hernandez",
+      "name": "Miguel Hernández",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Poesía y Guerra Civil · 1910–1942",
+      "family": "Literatura",
+      "sector": "Literatura",
+      "ideology": null,
+      "description": "Poeta de una trayectoria literaria breve e intensa, vinculada a la memoria de la Guerra Civil.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#70456f",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Miguel Hernández",
+          "url": "https://cervantesvirtual.com/portales/miguel_hernandez/",
+          "axes": [],
+          "note": "Perito en lunas y el desarrollo de su obra poética.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Miguel Hernández",
+      "image": {
+        "wikiTitle": "Miguel Hernández",
+        "url": "portraits/miguel-hernandez.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Perito en lunas y el desarrollo de su obra poética.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Miguel Hernández antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "rosalia-castro",
+      "name": "Rosalía de Castro",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Literatura gallega y castellana · siglo XIX",
+      "family": "Literatura",
+      "sector": "Literatura",
+      "ideology": null,
+      "description": "Escritora de referencia del Rexurdimento gallego y de la literatura del siglo XIX.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#70456f",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Rosalía de Castro",
+          "url": "https://cervantesvirtual.com/portales/rosalia_de_castro/autora_biografia/",
+          "axes": [],
+          "note": "Producción en gallego y castellano, historia literaria y problemas de documentación biográfica.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Rosalía de Castro",
+      "image": {
+        "wikiTitle": "Rosalía de Castro",
+        "url": "portraits/rosalia-castro.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Producción en gallego y castellano, historia literaria y problemas de documentación biográfica.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Rosalía de Castro antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "cervantes",
+      "name": "Miguel de Cervantes",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Literatura del Siglo de Oro",
+      "family": "Literatura",
+      "sector": "Literatura",
+      "ideology": null,
+      "description": "Escritor cuya vida reúne experiencia militar, cautiverio y actividad literaria. Sus personajes no deben confundirse con sus opiniones personales.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#70456f",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Biblioteca Virtual Miguel de Cervantes · Miguel de Cervantes",
+          "url": "https://cervantesvirtual.com/portales/miguel_de_cervantes/autor_biografia/",
+          "axes": [],
+          "note": "Biografía y producción literaria en su contexto histórico.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Miguel de Cervantes",
+      "image": {
+        "wikiTitle": "Miguel de Cervantes",
+        "url": "portraits/cervantes.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Biografía y producción literaria en su contexto histórico.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Miguel de Cervantes antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina."
+      ]
+    },
+    {
+      "id": "iglesias-turrion",
+      "name": "Pablo Iglesias Turrión",
+      "kind": "persona",
+      "group": "politica",
+      "era": "democracia",
+      "period": "Actividad parlamentaria · XIII–XIV legislaturas",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Politólogo y diputado vinculado al grupo parlamentario de Unidas Podemos. Se distingue de Pablo Iglesias Posse.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · XIV Legislatura",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_codParlamentario=319&_diputadomodule_idLegislatura=XIV&_diputadomodule_mostrarFicha=true&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+          "axes": [],
+          "note": "Ficha parlamentaria y formación académica; no extrapolar sus posiciones a toda su trayectoria posterior.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Pablo Iglesias Turrión",
+      "image": {
+        "wikiTitle": "Pablo Iglesias Turrión",
+        "url": "portraits/iglesias-turrion.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Ficha parlamentaria y formación académica; no extrapolar sus posiciones a toda su trayectoria posterior.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Pablo Iglesias Turrión antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "albert-rivera",
+      "name": "Albert Rivera",
+      "kind": "persona",
+      "group": "politica",
+      "era": "democracia",
+      "period": "Actividad parlamentaria · legislaturas XII–XIII",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Diputado y dirigente de Ciudadanos durante la etapa parlamentaria documentada.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · Sesión del 11 de septiembre de 2019",
+          "url": "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=7&fechaSesion=11%2F09%2F2019&i=643177&idLegislaturaElegida=13&mp4=mp4",
+          "axes": [],
+          "note": "Intervenciones parlamentarias: son el punto de partida, no una codificación automática de todo el programa.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Albert Rivera",
+      "image": {
+        "wikiTitle": "Albert Rivera",
+        "url": "portraits/albert-rivera.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Intervenciones parlamentarias: son el punto de partida, no una codificación automática de todo el programa.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Albert Rivera antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "alberto-garzon",
+      "name": "Alberto Garzón",
+      "kind": "persona",
+      "group": "politica",
+      "era": "democracia",
+      "period": "Actividad parlamentaria · XII Legislatura",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Diputado vinculado al grupo de Unidos Podemos durante la legislatura documentada.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · Sesión del 12 de diciembre de 2018",
+          "url": "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=163&fechaSesion=12%2F12%2F2018&i=636415&idLegislaturaElegida=12&mp4=mp4",
+          "axes": [],
+          "note": "Intervenciones en el Congreso; comparar una etapa concreta, sin deducir puntuaciones de la pertenencia al grupo.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Alberto Garzón",
+      "image": {
+        "wikiTitle": "Alberto Garzón",
+        "url": "portraits/alberto-garzon.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Intervenciones en el Congreso; comparar una etapa concreta, sin deducir puntuaciones de la pertenencia al grupo.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Alberto Garzón antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "pablo-casado",
+      "name": "Pablo Casado",
+      "kind": "persona",
+      "group": "politica",
+      "era": "democracia",
+      "period": "Actividad parlamentaria · legislaturas XII–XIII",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Diputado del Grupo Popular durante las sesiones parlamentarias seleccionadas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · Sesión del 11 de septiembre de 2019",
+          "url": "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=7&fechaSesion=11%2F09%2F2019&i=643177&idLegislaturaElegida=13&mp4=mp4",
+          "axes": [],
+          "note": "Actividad de control al Gobierno en el Congreso; fuente primaria de intervenciones.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Pablo Casado",
+      "image": {
+        "wikiTitle": "Pablo Casado",
+        "url": "portraits/pablo-casado.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Actividad de control al Gobierno en el Congreso; fuente primaria de intervenciones.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Pablo Casado antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "ines-arrimadas",
+      "name": "Inés Arrimadas",
+      "kind": "persona",
+      "group": "politica",
+      "era": "democracia",
+      "period": "Actividad parlamentaria · XIV Legislatura",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Diputada con trayectoria previa en el Parlament de Cataluña. La ficha delimita su etapa parlamentaria.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · XIV Legislatura",
+          "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=331&idLegislatura=XIV&mostrarAgenda=false",
+          "axes": [],
+          "note": "Registro institucional de formación y trayectoria parlamentaria.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Inés Arrimadas",
+      "image": {
+        "wikiTitle": "Inés Arrimadas",
+        "url": "portraits/ines-arrimadas.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Registro institucional de formación y trayectoria parlamentaria.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Inés Arrimadas antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "lerroux",
+      "name": "Alejandro Lerroux",
+      "kind": "persona",
+      "group": "politica",
+      "era": "republica",
+      "period": "Republicanismo y gobiernos · primeras décadas del siglo XX",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Político republicano cuya evolución exige distinguir el radicalismo inicial de las etapas posteriores de gobierno.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Wikipedia · Referencia biográfica inicial",
+          "url": "https://es.wikipedia.org/wiki/Alejandro_Lerroux",
+          "axes": [],
+          "note": "Ficha pendiente de ampliar con documentos primarios y estudios históricos independientes.",
+          "role": "Información biográfica o profesional",
+          "origin": "Enciclopedia colaborativa"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Alejandro Lerroux",
+      "image": {
+        "wikiTitle": "Alejandro Lerroux",
+        "url": "portraits/lerroux.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Ficha pendiente de ampliar con documentos primarios y estudios históricos independientes.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Alejandro Lerroux antes de calcular afinidades.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "salvochea",
+      "name": "Fermín Salvochea",
+      "kind": "persona",
+      "group": "politica",
+      "era": "siglo-xix",
+      "period": "Republicanismo y anarquismo · siglo XIX",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Figura gaditana vinculada al republicanismo cantonal y, posteriormente, al anarquismo.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Wikipedia · Referencia biográfica inicial",
+          "url": "https://es.wikipedia.org/wiki/Ferm%C3%ADn_Salvochea",
+          "axes": [],
+          "note": "Distinguir el episodio cantonal de la evolución posterior de sus ideas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Enciclopedia colaborativa"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Fermín Salvochea",
+      "image": {
+        "wikiTitle": "Fermín Salvochea",
+        "url": "portraits/salvochea.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Distinguir el episodio cantonal de la evolución posterior de sus ideas.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": true,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Fermín Salvochea antes de calcular afinidades.",
+        "Contrastar las referencias colaborativas con documentos y estudios independientes.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
+    },
+    {
+      "id": "besteiro",
+      "name": "Julián Besteiro",
+      "kind": "persona",
+      "group": "politica",
+      "era": "republica",
+      "period": "Socialismo y Segunda República",
+      "family": "Política",
+      "sector": "Política",
+      "ideology": null,
+      "description": "Dirigente del PSOE y de la UGT y presidente del Congreso durante la Segunda República.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#702a40",
+      "basis": "Ficha biográfica documentada. La fuente enlazada no publica una escala política de 0 a 100.",
+      "limits": "Sin afinidad numérica: falta documentar y justificar al menos tres dimensiones comparables. La actividad profesional o la pertenencia institucional no sustituyen esa documentación.",
+      "sources": [
+        {
+          "title": "Congreso de los Diputados · Presidencia de Julián Besteiro",
+          "url": "https://www.congreso.es/es/presidentes-del-congreso-de-los-diputados?codigo=15170&tipoHistorico=1",
+          "axes": [],
+          "note": "Trayectoria sindical y parlamentaria; diferenciar sus posiciones de las de otros dirigentes socialistas.",
+          "role": "Información biográfica o profesional",
+          "origin": "Referencia publicada · consultar autoría"
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Julián Besteiro",
+      "image": {
+        "wikiTitle": "Julián Besteiro",
+        "url": "portraits/besteiro.jpg",
+        "source": "https://commons.wikimedia.org/",
+        "licenseUrl": "https://commons.wikimedia.org/",
+        "author": "Pendiente de resolver el archivo original y su atribución.",
+        "label": "Representación histórica o retrato; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "No se asigna una bandera a partir de la profesión, el nombre o el lugar de nacimiento.",
+      "reading": [
+        {
+          "title": "Trayectoria sindical y parlamentaria; diferenciar sus posiciones de las de otros dirigentes socialistas.",
+          "source": 0
+        }
+      ],
+      "addedVersion": "6.0.0",
+      "documentation": {
+        "updated": "2026-10-09",
+        "status": "Biografía · codificación pendiente",
+        "numericAxes": 0,
+        "totalAxes": 16,
+        "sourceCount": 1,
+        "hasCollaborativeSource": false,
+        "notice": "Los números son estimaciones del proyecto. Una referencia enlazada no equivale a una revisión independiente ni respalda automáticamente todos los ejes."
+      },
+      "evidence": [
+        {
+          "axis": 0,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 1,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 2,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 3,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 4,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 5,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 6,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 7,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 8,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 9,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 10,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 11,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 12,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 13,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 14,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        },
+        {
+          "axis": 15,
+          "status": "Sin puntuación",
+          "sourceIndexes": []
+        }
+      ],
+      "researchPriorities": [
+        "Documentar posiciones explícitas de Julián Besteiro antes de calcular afinidades.",
+        "Contrastar la fuente seleccionada con perspectivas independientes y separar biografía de doctrina.",
+        "No presentar el periodo seleccionado como un programa vigente de la campaña de 2026."
+      ]
     }
   ],
   "ideologies": [
@@ -13704,8 +32638,10 @@ window.AXIS_DATA = {
     "Empresa",
     "Hispania romana",
     "Historia y política",
+    "Literatura",
     "Pensamiento y sociedad",
     "Política",
+    "Religión y pensamiento",
     "Tecnología"
   ]
 };

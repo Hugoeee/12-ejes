@@ -1,6 +1,6 @@
-# España en 12 ejes · Atlas 5.0
+# España en 12 ejes · Atlas 6.0
 
-106 personalidades, 61 modelos de corrientes y 42 contextos históricos. Test de 48 u 80 preguntas en 16 dimensiones. 18 representaciones de banderas y símbolos, con fuentes y advertencias de alcance.
+150 personalidades, 61 modelos de corrientes y 42 contextos históricos. Test de 48 u 80 preguntas en 16 dimensiones. 18 representaciones de banderas y símbolos, con fuentes y advertencias de alcance.
 
 ## Actualizar GitHub y Vercel
 
@@ -9,7 +9,7 @@
 3. Pulsa **Add file → Upload files** y arrastra **los 13 archivos y la carpeta `fonts` de dentro**, directamente a la raíz del repositorio. No arrastres el ZIP ni una carpeta que envuelva los archivos.
 4. Reemplaza los archivos existentes, incluido `vercel.json`, y confirma con **Commit changes** en la rama conectada a Vercel.
 5. Espera a que el despliegue nuevo muestre **Ready**. La descarga de retratos puede prolongar el build. Después abre tu web y pulsa **Ctrl+F5**.
-6. Comprueba que abajo aparezca **V5.0**. En **Diagnóstico de imágenes** verás la cobertura de retratos del despliegue. En **Banderas** verás las 18 representaciones integradas.
+6. Comprueba que abajo aparezca **V6.0**. En **Diagnóstico de imágenes** verás la cobertura de retratos del despliegue. En **Banderas** verás las 18 representaciones integradas.
 
 La carpeta `fonts` es obligatoria: contiene cuatro fuentes WOFF2 y sus dos licencias SIL Open Font License. El build la copia a `dist/fonts`; no se solicitan fuentes a servicios externos. El archivo `poster.js` es obligatorio para mostrar y descargar las cartas. `media.js` también es obligatorio. Si no se sube, el respaldo que resuelve retratos no estará disponible. Los archivos `build.cjs`, `package.json`, `app.js`, `media.js`, `poster.js`, `data.js` y `vercel.json` deben quedar al mismo nivel.
 
@@ -25,9 +25,9 @@ Las barras expresan posición hacia el polo escrito, no confianza: 50% es equili
 
 **Descargar carta SVG** genera un archivo vectorial; **Descargar carta PNG** genera una imagen de 1080 píxeles de ancho. La altura puede aumentar para incluir los créditos de los retratos. Las imágenes se incorporan al archivo cuando el navegador puede obtenerlas; si fallan, se utilizan iniciales y se muestra un aviso. Si las imágenes están desactivadas en Privacidad, ambas descargas respetan esa preferencia. El JSON sigue disponible y los tests guardados de V2/V3/V4 se conservan.
 
-## Nuevas personalidades
+## Incorporaciones anteriores
 
-21 incorporaciones: Amancio Ortega, Juan Roig, Ana Botín, Pedro Barrié de la Maza, José Luis Sampedro, Jesús Huerta de Soto, Xavier Sala-i-Martin, Margarita Salas, Santiago Ramón y Cajal, Juan Ignacio Cirac, Leonardo Torres Quevedo, Isaac Peral, Mateo Valero, Pedro Duque, Eduard Punset, Javier Santaolalla, José Luis Crespo (QuantumFracture), José Miguel Mulet, José Manuel López Nicolás, Trajano y Adriano.
+En la versión 4 se incorporaron 21 personalidades: Amancio Ortega, Juan Roig, Ana Botín, Pedro Barrié de la Maza, José Luis Sampedro, Jesús Huerta de Soto, Xavier Sala-i-Martin, Margarita Salas, Santiago Ramón y Cajal, Juan Ignacio Cirac, Leonardo Torres Quevedo, Isaac Peral, Mateo Valero, Pedro Duque, Eduard Punset, Javier Santaolalla, José Luis Crespo (QuantumFracture), José Miguel Mulet, José Manuel López Nicolás, Trajano y Adriano.
 
 Estas nuevas fichas son biográficas y no tienen afinidad calculada todavía: las fuentes reunidas no documentan suficientes posturas sobre las dimensiones del test. El ámbito profesional no se presenta como ideología. Trajano y Adriano aparecen en **Antigüedad · Hispania romana**, sin trasladarles categorías nacionales contemporáneas. No se asignan banderas por profesión o lugar de nacimiento.
 
@@ -37,7 +37,7 @@ Antes se calculaban rutas directas a miniaturas y el navegador dependía de ella
 
 Si una descarga falla, se conserva una ruta externa o se deja para resolución en el navegador. El navegador prueba el respaldo y, si hace falta, consulta metadatos públicos para recuperar la ruta. Si todo falla, se muestran iniciales y un aviso. No se inventan retratos ni se sustituyen por imágenes generadas.
 
-**No se garantiza que todas las imágenes se puedan obtener.** La disponibilidad, los límites de Wikimedia y las restricciones de conexión pueden impedirlo. En esta preparación no ha sido posible verificar descargas reales de los 106 retratos. Las pruebas de descarga y caché utilizan respuestas simuladas; la disponibilidad real deberá comprobarse en el despliegue de Vercel.
+**No se garantiza que todas las imágenes se puedan obtener.** La disponibilidad, los límites de Wikimedia y las restricciones de conexión pueden impedirlo. En esta preparación no ha sido posible verificar descargas reales de los 150 retratos. Las pruebas de descarga y caché utilizan respuestas simuladas; la disponibilidad real deberá comprobarse en el despliegue de Vercel.
 
 El informe se publica en `/media-status.json` y se resume en **Diagnóstico de imágenes**. No contiene respuestas de visitantes. El número de archivos descargados no certifica que todas las imágenes se hayan cargado en cada navegador.
 
@@ -63,7 +63,7 @@ Las comparaciones no recomiendan voto ni respaldan actuaciones. Los documentos c
 
 Los estilos de la cabecera, el pie y la navegación están aislados de las cartas. Se evita el marcado de figuras dentro de elementos de texto en las miniaturas de banderas. El menú móvil indica su estado con `aria-expanded`; la navegación marca `aria-current`; la ficha tiene título accesible y el enlace «Saltar al contenido» conserva la página actual. La exportación se desactiva cuando no hay suficientes ejes comparables activos.
 
-Hay adaptaciones a 1050, 780, 540 y 360 píxeles. Las fuentes y banderas son locales. Las comprobaciones verifican el HTML generado de todas las rutas y las 209 fichas, la navegación y las descargas. No se ha realizado una revisión visual de la interfaz en un navegador real en este entorno.
+Hay adaptaciones a 1050, 780, 540 y 360 píxeles. Las fuentes y banderas son locales. Las comprobaciones verifican el HTML generado de todas las rutas y las 253 fichas, la navegación y las descargas. No se ha realizado una revisión visual de la interfaz en un navegador real en este entorno.
 
 ## Verificar localmente
 
@@ -81,3 +81,15 @@ Las pruebas verifican el cálculo, los dos flujos del test, filtros, borrado, ex
 ## Ampliar
 
 Edita `data.js` manteniendo IDs únicos, 16 valores o `null`, periodos, fuentes y límites. 50 significa posición intermedia; `null` significa falta de datos. Para un nuevo retrato aporta un `wikiTitle` correcto o un archivo de Commons identificado. Las licencias de las imágenes son independientes de la aplicación.
+
+## Cambios de la versión 6.0
+
+- Se añaden 44 personalidades, hasta 150: Hispania romana, monarquía, religión y pensamiento, literatura, ciencia, tecnología, economía, empresa y política.
+- Todas las fichas personales incorporan cobertura, referencias por dimensión, propósito de las fuentes y tareas pendientes de investigación. Se distinguen las biografías de las comparaciones provisionales.
+- Ocho referencias bibliográficas o académicas nuevas amplían fichas anteriores. Una lectura complementaria no convierte automáticamente las puntuaciones en datos verificados.
+- Filtros por tipo de documentación, búsqueda en aportaciones y descarga del catálogo completo como `personalidades-espana-v6.json`.
+- Las 44 nuevas fichas son biográficas y no reciben puntuaciones políticas sin documentación suficiente. Dos utilizan una referencia colaborativa inicial y están identificadas como pendientes de ampliar.
+
+### Cómo continuar la investigación
+
+En `data.js`, cada persona contiene `reading`, `documentation`, `evidence` y `researchPriorities`. Cada lectura enlaza el índice de su fuente. `evidence.sourceIndexes` identifica las referencias editoriales por eje, **no** una prueba de que un pasaje respalda un número exacto. Antes de añadir puntuaciones se debe localizar la declaración o pasaje, delimitar su fecha y contexto, contrastar fuentes y justificar la codificación. `documentation.updated` fecha la organización de metadatos, no una certificación de revisión biográfica completa.
