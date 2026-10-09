@@ -1,5 +1,5 @@
 window.AXIS_DATA = {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "reviewed": "9 de octubre de 2026",
   "axes": [
     [
@@ -516,13 +516,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Presidente del Gobierno, Pedro Sánchez.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20del%20Gobierno%2C%20Pedro%20S%C3%A1nchez.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg/500px-Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg",
         "author": "Pool Moncloa / Borja Puig de la Bellacasa",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Presidente_del_Gobierno%2C_Pedro_S%C3%A1nchez.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Pedro Sánchez"
     },
     {
       "id": "feijoo",
@@ -582,13 +586,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Alberto Núñez Feijóo June 2023.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alberto%20N%C3%BA%C3%B1ez%20Feij%C3%B3o%20June%202023.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg/500px-Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg",
         "author": "European People's Party",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_June_2023.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Alberto Núñez Feijóo"
     },
     {
       "id": "abascal",
@@ -653,13 +661,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Santiago Abascal portrait.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Abascal%20portrait.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Santiago_Abascal_portrait.jpg/500px-Santiago_Abascal_portrait.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_portrait.jpg",
         "author": "Vox España",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_portrait.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Santiago_Abascal_portrait.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Santiago Abascal"
     },
     {
       "id": "diaz",
@@ -725,13 +737,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "270921-yolanda-diaz-perez cropped.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/270921-yolanda-diaz-perez%20cropped.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/270921-yolanda-diaz-perez_cropped.jpg/500px-270921-yolanda-diaz-perez_cropped.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:270921-yolanda-diaz-perez_cropped.jpg",
         "author": "La Moncloa (pool Moncloa)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:270921-yolanda-diaz-perez_cropped.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/270921-yolanda-diaz-perez_cropped.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Yolanda Díaz"
     },
     {
       "id": "rufian",
@@ -792,13 +808,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Gabriel Rufian 2015.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Rufian%202015.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gabriel_Rufian_2015.jpg/500px-Gabriel_Rufian_2015.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Rufian_2015.jpg",
         "author": "Jove",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Rufian_2015.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gabriel_Rufian_2015.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Gabriel Rufián"
     },
     {
       "id": "esteban",
@@ -854,13 +874,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Aitor Esteban 2025 (cropped).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aitor%20Esteban%202025%20%28cropped%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg/500px-Aitor_Esteban_2025_%28cropped%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Aitor_Esteban_2025_(cropped).jpg",
         "author": "Irekia - Eusko Jaurlaritza",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aitor_Esteban_2025_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aitor_Esteban_2025_%28cropped%29.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Aitor Esteban"
     },
     {
       "id": "rallo",
@@ -925,13 +949,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Rallo.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rallo.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Rallo.jpg/500px-Rallo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Rallo.jpg",
         "author": "Gusker227",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rallo.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rallo.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Juan Ramón Rallo"
     },
     {
       "id": "torres",
@@ -979,13 +1007,17 @@ window.AXIS_DATA = {
       "core": [],
       "image": {
         "file": "Juan Torres López 2013.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Torres%20L%C3%B3pez%202013.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg/500px-Juan_Torres_L%C3%B3pez_2013.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Juan_Torres_L%C3%B3pez_2013.jpg",
         "author": "Fundación Internacional Baltasar Garzón (youtube)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Juan_Torres_L%C3%B3pez_2013.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Juan_Torres_L%C3%B3pez_2013.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Juan Torres López"
     },
     {
       "id": "lacalle",
@@ -1038,13 +1070,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Foro España sin Filtros - Daniel Lacalle 01.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foro%20Espa%C3%B1a%20sin%20Filtros%20-%20Daniel%20Lacalle%2001.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg/500px-Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg",
         "author": "PP Comunidad de Madrid",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Foro_Espa%C3%B1a_sin_Filtros_-_Daniel_Lacalle_01.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Contexto territorial contemporáneo",
+      "wikiTitle": "Daniel Lacalle"
     },
     {
       "id": "recaredo",
@@ -1097,13 +1133,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Recaredo I, rey de los Visigodos (Museo del Prado).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Recaredo%20I%2C%20rey%20de%20los%20Visigodos%20%28Museo%20del%20Prado%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg/500px-Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Recaredo_I%2C_rey_de_los_Visigodos_(Museo_del_Prado).jpg",
         "author": "Dióscoro Puebla (1831–1901)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Recaredo_I%2C_rey_de_los_Visigodos_(Museo_del_Prado).jpg#Licensing",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Recaredo_I%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg"
+      },
+      "flag": null,
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Recaredo I"
     },
     {
       "id": "pelayo",
@@ -1156,13 +1196,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Don Pelayo, rey de Asturias (Museo del Prado).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don%20Pelayo%2C%20rey%20de%20Asturias%20%28Museo%20del%20Prado%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg/500px-Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Don_Pelayo%2C_rey_de_Asturias_(Museo_del_Prado).jpg",
         "author": "Luis de Madrazo (1825–1897)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Don_Pelayo%2C_rey_de_Asturias_(Museo_del_Prado).jpg#Licensing",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Don_Pelayo%2C_rey_de_Asturias_%28Museo_del_Prado%29.jpg"
+      },
+      "flag": "asturias",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Pelayo"
     },
     {
       "id": "alfonso-x",
@@ -1215,13 +1259,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Alfonso X, Joaquín Domínguez Bécquer.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Alfonso%20X%2C%20Joaqu%C3%ADn%20Dom%C3%ADnguez%20B%C3%A9cquer.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg/500px-Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg",
         "author": "Jl FilpoC",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg#Licensing",
         "label": "Representación pictórica posterior; no es un retrato del natural",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Retrato_de_Alfonso_X%2C_Joaqu%C3%ADn_Dom%C3%ADnguez_B%C3%A9cquer.jpg"
+      },
+      "flag": "castilla",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Alfonso X de Castilla"
     },
     {
       "id": "isabel-i",
@@ -1274,13 +1322,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Isabel I de Castilla-1504.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20I%20de%20Castilla-1504.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Isabel_I_de_Castilla-1504.jpg/500px-Isabel_I_de_Castilla-1504.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Isabel_I_de_Castilla-1504.jpg",
         "author": "Basilio",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Isabel_I_de_Castilla-1504.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Isabel_I_de_Castilla-1504.jpg"
+      },
+      "flag": "castilla",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Isabel I de Castilla"
     },
     {
       "id": "felipe-ii",
@@ -1334,13 +1386,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Felipe II, Cornelis van Cleve.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Felipe%20II%2C%20Cornelis%20van%20Cleve.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg/500px-Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg",
         "author": "Cornelis van Cleve",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Retrato_de_Felipe_II%2C_Cornelis_van_Cleve.jpg"
+      },
+      "flag": "borgona",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Felipe II de España"
     },
     {
       "id": "carlos-iii",
@@ -1396,13 +1452,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Carlos III de España.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Carlos%20III%20de%20Espa%C3%B1a.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg/500px-Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg",
         "author": "Anton Raphael Mengs (1728–1779)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg"
+      },
+      "flag": "borgona",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Carlos III de España"
     },
     {
       "id": "vitoria",
@@ -1454,13 +1514,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "P. Francisco de Vitoria. Salamanca. España eue.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/P.%20Francisco%20de%20Vitoria.%20Salamanca.%20Espa%C3%B1a%20eue.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg/500px-P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg",
         "author": "Lmbuga (Luis Miguel Bugallo Sánchez)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg#Licensing",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/P._Francisco_de_Vitoria._Salamanca._Espa%C3%B1a_eue.jpg"
+      },
+      "flag": "borgona",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Francisco de Vitoria"
     },
     {
       "id": "jovellanos",
@@ -1516,13 +1580,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Gaspar Melchor de Jovellanos by Goya (1798).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspar%20Melchor%20de%20Jovellanos%20by%20Goya%20%281798%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg/500px-Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Gaspar_Melchor_de_Jovellanos_by_Goya_(1798).jpg",
         "author": "Francisco de Goya; autoría de la reproducción indicada en Commons",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gaspar_Melchor_de_Jovellanos_by_Goya_(1798).jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gaspar_Melchor_de_Jovellanos_by_Goya_%281798%29.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Gaspar Melchor de Jovellanos"
     },
     {
       "id": "fernando-vii",
@@ -1577,13 +1645,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Fernando VII.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Fernando%20VII.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Retrato_de_Fernando_VII.jpg/500px-Retrato_de_Fernando_VII.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Fernando_VII.jpg",
         "author": "Vicente Capilla (grabado) Luis Marchesi (dibujo)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Fernando_VII.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Retrato_de_Fernando_VII.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Fernando VII de España"
     },
     {
       "id": "arguelles",
@@ -1642,13 +1714,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Agustin Arguelles.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agustin%20Arguelles.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Agustin_Arguelles.jpg/500px-Agustin_Arguelles.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Agustin_Arguelles.jpg",
         "author": "Federico Jiménez y Fernández (1841-1910)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Agustin_Arguelles.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Agustin_Arguelles.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Agustín Argüelles"
     },
     {
       "id": "carlos-isidro",
@@ -1704,13 +1780,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Carlos María Isidro de Borbón, por Vicente López.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Mar%C3%ADa%20Isidro%20de%20Borb%C3%B3n%2C%20por%20Vicente%20L%C3%B3pez.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg/500px-Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg",
         "author": "Vicente López Portaña (1772–1850)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carlos_Mar%C3%ADa_Isidro_de_Borb%C3%B3n%2C_por_Vicente_L%C3%B3pez.jpg"
+      },
+      "flag": "carlista",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Carlos María Isidro de Borbón"
     },
     {
       "id": "canovas",
@@ -1769,13 +1849,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Antonio Cánovas del Castillo (Fecha desconocida) - Debas, Fernando, 1842-1914.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20C%C3%A1novas%20del%20Castillo%20%28Fecha%20desconocida%29%20-%20Debas%2C%20Fernando%2C%201842-1914.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Antonio_C%C3%A1novas_del_Castillo_(Fecha_desconocida)_-_Debas%2C_Fernando%2C_1842-1914.jpg",
         "author": "Fernando Debas / Biblioteca Virtual del Patrimonio Bibliográfico",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Antonio_C%C3%A1novas_del_Castillo_(Fecha_desconocida)_-_Debas%2C_Fernando%2C_1842-1914.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Antonio_C%C3%A1novas_del_Castillo_%28Fecha_desconocida%29_-_Debas%2C_Fernando%2C_1842-1914.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Antonio Cánovas del Castillo"
     },
     {
       "id": "sagasta",
@@ -1834,13 +1918,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Práxedes Mateo Sagasta (ca. 1880-1890) - Debas, Fernando, 1842-1914.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pr%C3%A1xedes%20Mateo%20Sagasta%20%28ca.%201880-1890%29%20-%20Debas%2C%20Fernando%2C%201842-1914.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg/500px-Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1xedes_Mateo_Sagasta_(ca._1880-1890)_-_Debas%2C_Fernando%2C_1842-1914.jpg",
         "author": "Fernando Debas / Biblioteca Virtual del Patrimonio Bibliográfico",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pr%C3%A1xedes_Mateo_Sagasta_(ca._1880-1890)_-_Debas%2C_Fernando%2C_1842-1914.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pr%C3%A1xedes_Mateo_Sagasta_%28ca._1880-1890%29_-_Debas%2C_Fernando%2C_1842-1914.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Práxedes Mateo Sagasta"
     },
     {
       "id": "castelar",
@@ -1899,13 +1987,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Emilio Castelar.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emilio%20Castelar.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Emilio_Castelar.jpg/500px-Emilio_Castelar.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Emilio_Castelar.jpg",
         "author": "Bartomeu Maura i Montaner (1844–1926)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Emilio_Castelar.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Emilio_Castelar.jpg"
+      },
+      "flag": "primera",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Emilio Castelar"
     },
     {
       "id": "arenal",
@@ -1957,13 +2049,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "ConcepciónArenalRetrato.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Concepci%C3%B3nArenalRetrato.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Concepci%C3%B3nArenalRetrato.jpg/500px-Concepci%C3%B3nArenalRetrato.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Concepci%C3%B3nArenalRetrato.jpg",
         "author": "Xosé Calvo (gl:User:Xosé)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Concepci%C3%B3nArenalRetrato.jpg#Licensing",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Concepci%C3%B3nArenalRetrato.jpg"
+      },
+      "flag": "republica",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Concepción Arenal"
     },
     {
       "id": "pardo-bazan",
@@ -2015,13 +2111,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Emilia Pardo Bazán 1894.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emilia%20Pardo%20Baz%C3%A1n%201894.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg/500px-Emilia_Pardo_Baz%C3%A1n_1894.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Emilia_Pardo_Baz%C3%A1n_1894.jpg",
         "author": "Joaquín Vaamonde Cornide (1872–1900)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Emilia_Pardo_Baz%C3%A1n_1894.jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Emilia_Pardo_Baz%C3%A1n_1894.jpg"
+      },
+      "flag": "republica",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Emilia Pardo Bazán"
     },
     {
       "id": "costa",
@@ -2075,13 +2175,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Joaquín Costa, de Compañy.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Costa%2C%20de%20Compa%C3%B1y.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg/500px-Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg",
         "author": "Manuel Compañy (1858–1909)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Joaqu%C3%ADn_Costa%2C_de_Compa%C3%B1y.jpg"
+      },
+      "flag": null,
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Joaquín Costa"
     },
     {
       "id": "iglesias-posse",
@@ -2142,13 +2246,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Pablo Iglesias photo.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Iglesias%20photo.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pablo_Iglesias_photo.jpg/500px-Pablo_Iglesias_photo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Pablo_Iglesias_photo.jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pablo_Iglesias_photo.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pablo_Iglesias_photo.jpg"
+      },
+      "flag": "roja",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Pablo Iglesias Posse"
     },
     {
       "id": "unamuno",
@@ -2202,13 +2310,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Miguel de Unamuno 1912.png",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20de%20Unamuno%201912.png?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Miguel_de_Unamuno_1912.png/500px-Miguel_de_Unamuno_1912.png",
         "source": "https://commons.wikimedia.org/wiki/File:Miguel_de_Unamuno_1912.png",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Miguel_de_Unamuno_1912.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Miguel_de_Unamuno_1912.png"
+      },
+      "flag": null,
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Miguel de Unamuno"
     },
     {
       "id": "ortega",
@@ -2271,13 +2383,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "José Ortega y Gasset, Nuevo Mundo, 06-08-1920 (cropped).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ortega%20y%20Gasset%2C%20Nuevo%20Mundo%2C%2006-08-1920%20%28cropped%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg/500px-Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_(cropped).jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jos%C3%A9_Ortega_y_Gasset%2C_Nuevo_Mundo%2C_06-08-1920_%28cropped%29.jpg"
+      },
+      "flag": null,
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "José Ortega y Gasset"
     },
     {
       "id": "largo",
@@ -2339,13 +2455,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Francisco Largo Caballero.png",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Largo%20Caballero.png?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Francisco_Largo_Caballero.png/500px-Francisco_Largo_Caballero.png",
         "source": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero.png",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Francisco_Largo_Caballero.png"
+      },
+      "flag": "roja",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Francisco Largo Caballero"
     },
     {
       "id": "prieto",
@@ -2408,13 +2528,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Indalecio Prieto (2).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indalecio%20Prieto%20%282%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Indalecio_Prieto_%282%29.jpg/500px-Indalecio_Prieto_%282%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto_(2).jpg",
         "author": "Metro Centric",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto_(2).jpg#Licensing",
         "label": "Representación escultórica fotografiada",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indalecio_Prieto_%282%29.jpg"
+      },
+      "flag": null,
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Indalecio Prieto"
     },
     {
       "id": "ibarruri",
@@ -2476,13 +2600,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Dolores Ibárruri 1936.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolores%20Ib%C3%A1rruri%201936.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dolores_Ib%C3%A1rruri_1936.jpg/500px-Dolores_Ib%C3%A1rruri_1936.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Dolores_Ib%C3%A1rruri_1936.jpg",
         "author": "Agence de presse Meurisse",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dolores_Ib%C3%A1rruri_1936.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dolores_Ib%C3%A1rruri_1936.jpg"
+      },
+      "flag": "roja",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Dolores Ibárruri"
     },
     {
       "id": "carrillo",
@@ -2544,13 +2672,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Santiago Carrillo.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Carrillo.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Santiago_Carrillo.jpg/500px-Santiago_Carrillo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Santiago_Carrillo.jpg",
         "author": "Pep Parer / Museu d’Història de Catalunya",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Santiago_Carrillo.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Santiago_Carrillo.jpg"
+      },
+      "flag": "roja",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Eurocomunismo"
     },
     {
       "id": "durruti",
@@ -2612,13 +2744,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Durruti-portrait.png",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Durruti-portrait.png?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Durruti-portrait.png/500px-Durruti-portrait.png",
         "source": "https://commons.wikimedia.org/wiki/File:Durruti-portrait.png",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Durruti-portrait.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Durruti-portrait.png"
+      },
+      "flag": "rojinegra",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Buenaventura Durruti"
     },
     {
       "id": "kent",
@@ -2678,13 +2814,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Victoria Kent.png",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20Kent.png?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Victoria_Kent.png/500px-Victoria_Kent.png",
         "source": "https://commons.wikimedia.org/wiki/File:Victoria_Kent.png",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Kent.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Victoria_Kent.png"
+      },
+      "flag": "republica",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Victoria Kent"
     },
     {
       "id": "jose-antonio",
@@ -2747,13 +2887,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Jose Antonio Primo de Rivera (1936).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Antonio%20Primo%20de%20Rivera%20%281936%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg/500px-Jose_Antonio_Primo_de_Rivera_%281936%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Jose_Antonio_Primo_de_Rivera_(1936).jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jose_Antonio_Primo_de_Rivera_(1936).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jose_Antonio_Primo_de_Rivera_%281936%29.jpg"
+      },
+      "flag": "falange",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "José Antonio Primo de Rivera"
     },
     {
       "id": "franco",
@@ -2816,13 +2960,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Francisco Franco 1930 Portrait.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Franco%201930%20Portrait.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francisco_Franco_1930_Portrait.jpg/500px-Francisco_Franco_1930_Portrait.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_1930_Portrait.jpg",
         "author": "Jalón Ángel (1898–1976)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_1930_Portrait.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Francisco_Franco_1930_Portrait.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Francisco Franco"
     },
     {
       "id": "primo-rivera",
@@ -2879,13 +3027,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Miguel Primo de Rivera, Kaulak.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Primo%20de%20Rivera%2C%20Kaulak.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg/500px-Miguel_Primo_de_Rivera%2C_Kaulak.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera%2C_Kaulak.jpg",
         "author": "Kaulak (1862–1933)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera%2C_Kaulak.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Miguel_Primo_de_Rivera%2C_Kaulak.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Miguel Primo de Rivera"
     },
     {
       "id": "arana",
@@ -2937,13 +3089,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Sabino Arana in Larrinaga prison, 1895.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabino%20Arana%20in%20Larrinaga%20prison%2C%201895.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg/500px-Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sabino_Arana_in_Larrinaga_prison%2C_1895.jpg"
+      },
+      "flag": "ikurrina",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Sabino Arana"
     },
     {
       "id": "companys",
@@ -3004,13 +3160,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Lluís Companys.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Llu%C3%ADs%20Companys.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Llu%C3%ADs_Companys.jpg/500px-Llu%C3%ADs_Companys.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Llu%C3%ADs_Companys.jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Llu%C3%ADs_Companys.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Llu%C3%ADs_Companys.jpg"
+      },
+      "flag": "senyera",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Lluís Companys"
     },
     {
       "id": "blas-infante",
@@ -3068,13 +3228,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Blas Infante.png",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blas%20Infante.png?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Blas_Infante.png/500px-Blas_Infante.png",
         "source": "https://commons.wikimedia.org/wiki/File:Blas_Infante.png",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blas_Infante.png#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Blas_Infante.png"
+      },
+      "flag": "andalucia",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Blas Infante"
     },
     {
       "id": "suarez",
@@ -3137,13 +3301,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Adolfo Suárez 1979c (cropped).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolfo%20Su%C3%A1rez%201979c%20%28cropped%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg/500px-Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Adolfo_Su%C3%A1rez_1979c_(cropped).jpg",
         "author": "Ministerio de la Presidencia. Gobierno de España.",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Adolfo_Su%C3%A1rez_1979c_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Adolfo_Su%C3%A1rez_1979c_%28cropped%29.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Adolfo Suárez"
     },
     {
       "id": "fraga",
@@ -3206,13 +3374,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato Oficial Fraga Iribarne.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20Oficial%20Fraga%20Iribarne.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Retrato_Oficial_Fraga_Iribarne.jpg/500px-Retrato_Oficial_Fraga_Iribarne.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Fraga_Iribarne.jpg",
         "author": "Xunta de Galicia",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Fraga_Iribarne.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Retrato_Oficial_Fraga_Iribarne.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Manuel Fraga"
     },
     {
       "id": "gonzalez",
@@ -3276,13 +3448,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Felipe González (2012).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Gonz%C3%A1lez%20%282012%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg/500px-Felipe_Gonz%C3%A1lez_%282012%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Felipe_Gonz%C3%A1lez_(2012).jpg",
         "author": "Eva Ercolanese / Alfredo Pérez Rubalcaba (Flickr)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Felipe_Gonz%C3%A1lez_(2012).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Felipe_Gonz%C3%A1lez_%282012%29.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Felipe González"
     },
     {
       "id": "aznar",
@@ -3346,13 +3522,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "José María Aznar 2000 (cropped).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Aznar%202000%20%28cropped%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg/500px-Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_2000_(cropped).jpg",
         "author": "Ministerio de la Presidencia / Pool Moncloa",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_2000_(cropped).jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jos%C3%A9_Mar%C3%ADa_Aznar_2000_%28cropped%29.jpg"
+      },
+      "flag": "espana",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "José María Aznar"
     },
     {
       "id": "azana",
@@ -3412,13 +3592,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Manuel Azaña Díaz.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Aza%C3%B1a%20D%C3%ADaz.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/500px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
         "author": "Autoría desconocida",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg"
+      },
+      "flag": "republica",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Manuel Azaña"
     },
     {
       "id": "pi",
@@ -3479,13 +3663,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Retrato de Francisco Pi y Margall (1869).jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Francisco%20Pi%20y%20Margall%20%281869%29.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg/500px-Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Francisco_Pi_y_Margall_(1869).jpg",
         "author": "Biblioteca Nacional de España",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Francisco_Pi_y_Margall_(1869).jpg#Licensing",
         "label": "Retrato pictórico o grabado histórico",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Retrato_de_Francisco_Pi_y_Margall_%281869%29.jpg"
+      },
+      "flag": "primera",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Francisco Pi y Margall"
     },
     {
       "id": "campoamor",
@@ -3539,13 +3727,17 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Clara Campoamor-2.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Campoamor-2.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Clara_Campoamor-2.jpg/500px-Clara_Campoamor-2.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Clara_Campoamor-2.jpg",
         "author": "Virgilio Muro (1891-1967)",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Clara_Campoamor-2.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Clara_Campoamor-2.jpg"
+      },
+      "flag": "republica",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Clara Campoamor"
     },
     {
       "id": "montseny",
@@ -3607,13 +3799,2372 @@ window.AXIS_DATA = {
       ],
       "image": {
         "file": "Federica Montseny.jpg",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Federica%20Montseny.jpg?width=480",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Federica_Montseny.jpg/500px-Federica_Montseny.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Federica_Montseny.jpg",
         "author": "Manel Armengol",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Federica_Montseny.jpg#Licensing",
         "label": "Fotografía histórica o contemporánea",
-        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original."
-      }
+        "modifications": "Mostrada dentro de un marco; el encuadre puede recortarse. Sin retoques de la imagen original.",
+        "fallbackUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Federica_Montseny.jpg"
+      },
+      "flag": "rojinegra",
+      "flagContext": "Referencia histórica o de movimiento; no una declaración personal",
+      "wikiTitle": "Federica Montseny"
+    },
+    {
+      "id": "abderraman-iii",
+      "name": "Abderramán III",
+      "kind": "persona",
+      "group": "historia",
+      "era": "medieval",
+      "period": "912–961",
+      "family": "Tradiciones premodernas",
+      "ideology": "andalusi",
+      "description": "Poder omeya en Córdoba; la comparación se limita al marco dinástico y confesional.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        85,
+        null,
+        95,
+        100,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Abderramán III",
+          "url": "https://es.wikipedia.org/wiki/Abderram%C3%A1n_III",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Abderramán III",
+      "image": {
+        "wikiTitle": "Abderramán III",
+        "url": "portraits/abderraman-iii.jpg",
+        "source": "https://es.wikipedia.org/wiki/Abderram%C3%A1n_III",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Abderram%C3%A1n_III",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "andalusi",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "averroes",
+      "name": "Averroes",
+      "kind": "persona",
+      "group": "historia",
+      "era": "medieval",
+      "period": "Siglo XII",
+      "family": "Filosofía andalusí",
+      "ideology": null,
+      "description": "Pensador y jurista andalusí. No se le atribuye un programa político moderno.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Se consulta como figura cultural: no tiene suficientes posiciones políticas comparables para producir una afinidad numérica.",
+      "sources": [
+        {
+          "title": "Averroes",
+          "url": "https://es.wikipedia.org/wiki/Averroes",
+          "axes": [],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Averroes",
+      "image": {
+        "wikiTitle": "Averroes",
+        "url": "portraits/averroes.jpg",
+        "source": "https://es.wikipedia.org/wiki/Averroes",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Averroes",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "andalusi",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "isidoro",
+      "name": "Isidoro de Sevilla",
+      "kind": "persona",
+      "group": "historia",
+      "era": "medieval",
+      "period": "Siglos VI–VII",
+      "family": "Tradiciones premodernas",
+      "ideology": "monarquia-sacral",
+      "description": "Autor y obispo del mundo visigodo; analogía institucional de alcance limitado.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        90,
+        null,
+        90,
+        100,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Isidoro de Sevilla",
+          "url": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Isidoro de Sevilla",
+      "image": {
+        "wikiTitle": "Isidoro de Sevilla",
+        "url": "portraits/isidoro.jpg",
+        "source": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "fernando-iii",
+      "name": "Fernando III de Castilla",
+      "kind": "persona",
+      "group": "historia",
+      "era": "medieval",
+      "period": "1217–1252",
+      "family": "Tradiciones premodernas",
+      "ideology": "monarquia-sacral",
+      "description": "Monarquía medieval de Castilla y León; no se inferirán posturas sobre debates actuales.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        90,
+        null,
+        90,
+        100,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Fernando III de Castilla",
+          "url": "https://es.wikipedia.org/wiki/Fernando_III_de_Castilla",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Fernando III de Castilla",
+      "image": {
+        "wikiTitle": "Fernando III de Castilla",
+        "url": "portraits/fernando-iii.jpg",
+        "source": "https://es.wikipedia.org/wiki/Fernando_III_de_Castilla",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Fernando_III_de_Castilla",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "castilla",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "jaime-i",
+      "name": "Jaime I de Aragón",
+      "kind": "persona",
+      "group": "historia",
+      "era": "medieval",
+      "period": "1213–1276",
+      "family": "Tradiciones premodernas",
+      "ideology": "monarquia-sacral",
+      "description": "Expansión de la Corona de Aragón y gobierno de territorios con instituciones distintas.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        90,
+        null,
+        90,
+        100,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Jaime I de Aragón",
+          "url": "https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Jaime I de Aragón",
+      "image": {
+        "wikiTitle": "Jaime I de Aragón",
+        "url": "portraits/jaime-i.jpg",
+        "source": "https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "mariana",
+      "name": "Juan de Mariana",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Finales XVI–principios XVII",
+      "family": "Humanismo y escolástica",
+      "ideology": "salamanca",
+      "description": "Reflexión sobre legitimidad del monarca, límites del poder y tiranicidio.",
+      "values": [
+        null,
+        null,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        70,
+        null,
+        65,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Juan de Mariana",
+          "url": "https://cvc.cervantes.es/el_rinconete/anteriores/septiembre_98/10091998_02.htm",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "wikiTitle": "Juan de Mariana",
+      "image": {
+        "wikiTitle": "Juan de Mariana",
+        "url": "portraits/mariana.jpg",
+        "source": "https://es.wikipedia.org/wiki/Juan_de_Mariana",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_de_Mariana",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "borgona",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "suarez-filosofo",
+      "name": "Francisco Suárez",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Siglos XVI–XVII",
+      "family": "Humanismo y escolástica",
+      "ideology": "salamanca",
+      "description": "Teólogo y jurista de la escolástica tardía; comunidad política y origen del poder.",
+      "values": [
+        null,
+        null,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        70,
+        null,
+        65,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Francisco Suárez",
+          "url": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "wikiTitle": "Francisco Suárez",
+      "image": {
+        "wikiTitle": "Francisco Suárez",
+        "url": "portraits/suarez-filosofo.jpg",
+        "source": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "borgona",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "luis-vives",
+      "name": "Juan Luis Vives",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "Primera mitad del siglo XVI",
+      "family": "Humanismo y escolástica",
+      "ideology": "humanismo-cristiano",
+      "description": "Humanismo, educación y reflexión sobre asistencia a los pobres.",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Juan Luis Vives",
+          "url": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Juan Luis Vives",
+      "image": {
+        "wikiTitle": "Juan Luis Vives",
+        "url": "portraits/luis-vives.jpg",
+        "source": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "cruz",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "padilla",
+      "name": "Juan de Padilla",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "1520–1521",
+      "family": "Liberalismo",
+      "ideology": "comunero",
+      "description": "Protagonista de la rebelión de las Comunidades de Castilla.",
+      "values": [
+        40,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        65,
+        90,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Juan de Padilla",
+          "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/exposiciones-actividades/exposiciones-virtuales/sentencia-comuneros.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Juan de Padilla",
+      "image": {
+        "wikiTitle": "Juan de Padilla",
+        "url": "portraits/padilla.jpg",
+        "source": "https://es.wikipedia.org/wiki/Juan_de_Padilla",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_de_Padilla",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "castilla",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "maria-pacheco",
+      "name": "María Pacheco",
+      "kind": "persona",
+      "group": "historia",
+      "era": "moderna",
+      "period": "1520–1522",
+      "family": "Liberalismo",
+      "ideology": "comunero",
+      "description": "Resistencia comunera en Toledo. No se confunde su liderazgo con un programa moderno.",
+      "values": [
+        40,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        65,
+        90,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "María Pacheco",
+          "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/exposiciones-actividades/exposiciones-virtuales/sentencia-comuneros.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "María Pacheco",
+      "image": {
+        "wikiTitle": "María Pacheco",
+        "url": "portraits/maria-pacheco.jpg",
+        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pacheco",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pacheco",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "castilla",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "espartero",
+      "name": "Baldomero Espartero",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Décadas de 1830–1850",
+      "family": "Liberalismo",
+      "ideology": "liberal-progresista",
+      "description": "Militar y dirigente del liberalismo progresista; también ejerció una regencia de fuerte poder ejecutivo.",
+      "values": [
+        70,
+        65,
+        30,
+        null,
+        null,
+        null,
+        null,
+        75,
+        null,
+        50,
+        40,
+        null,
+        55,
+        75,
+        80,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Baldomero Espartero",
+          "url": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Baldomero Espartero",
+      "image": {
+        "wikiTitle": "Baldomero Espartero",
+        "url": "portraits/espartero.jpg",
+        "source": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "narvaez",
+      "name": "Ramón María Narváez",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Décadas de 1840–1860",
+      "family": "Liberalismo",
+      "ideology": "liberal-moderado",
+      "description": "Figura del liberalismo moderado, orden público y centralización.",
+      "values": [
+        85,
+        85,
+        65,
+        null,
+        null,
+        null,
+        null,
+        75,
+        null,
+        70,
+        75,
+        null,
+        60,
+        90,
+        90,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Ramón María Narváez",
+          "url": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Narv%C3%A1ez",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Ramón María Narváez",
+      "image": {
+        "wikiTitle": "Ramón María Narváez",
+        "url": "portraits/narvaez.jpg",
+        "source": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Narv%C3%A1ez",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Narv%C3%A1ez",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "prim",
+      "name": "Juan Prim",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "1868–1870",
+      "family": "Liberalismo",
+      "ideology": "liberal-progresista",
+      "description": "Liderazgo del Sexenio Democrático y búsqueda de una monarquía constitucional.",
+      "values": [
+        70,
+        65,
+        30,
+        null,
+        null,
+        null,
+        null,
+        75,
+        null,
+        50,
+        40,
+        null,
+        35,
+        75,
+        80,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Juan Prim",
+          "url": "https://es.wikipedia.org/wiki/Juan_Prim",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Juan Prim",
+      "image": {
+        "wikiTitle": "Juan Prim",
+        "url": "portraits/prim.jpg",
+        "source": "https://es.wikipedia.org/wiki/Juan_Prim",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Prim",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "salmeron",
+      "name": "Nicolás Salmerón",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Segunda mitad del siglo XIX",
+      "family": "Republicanismo",
+      "ideology": "republicanismo-unitario",
+      "description": "Republicanismo y defensa de principios jurídicos y de conciencia.",
+      "values": [
+        80,
+        75,
+        25,
+        null,
+        25,
+        null,
+        null,
+        70,
+        null,
+        25,
+        40,
+        null,
+        20,
+        0,
+        80,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Nicolás Salmerón",
+          "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Salmer%C3%B3n",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Nicolás Salmerón",
+      "image": {
+        "wikiTitle": "Nicolás Salmerón",
+        "url": "portraits/salmeron.jpg",
+        "source": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Salmer%C3%B3n",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Salmer%C3%B3n",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "primera",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "donoso",
+      "name": "Juan Donoso Cortés",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Etapa conservadora, 1848–1853",
+      "family": "Tradicionalismo",
+      "ideology": "conservadurismo-catolico",
+      "description": "Pensamiento católico contrarrevolucionario de su última etapa; su trayectoria anterior fue distinta.",
+      "values": [
+        65,
+        85,
+        75,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100,
+        100,
+        null,
+        95,
+        90,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Juan Donoso Cortés",
+          "url": "https://www.cervantesvirtual.com/obra/el-pensamiento-conservador-en-la-espana-del-siglo-xix-jaime-balmes-y-donoso-cortes-998169/",
+          "axes": [
+            0,
+            1,
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Juan Donoso Cortés",
+      "image": {
+        "wikiTitle": "Juan Donoso Cortés",
+        "url": "portraits/donoso.jpg",
+        "source": "https://es.wikipedia.org/wiki/Juan_Donoso_Cort%C3%A9s",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Juan_Donoso_Cort%C3%A9s",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "cruz",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "balmes",
+      "name": "Jaime Balmes",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Década de 1840",
+      "family": "Humanismo cristiano",
+      "ideology": "conservadurismo-catolico",
+      "description": "Pensamiento católico, orden social y búsqueda de conciliación política.",
+      "values": [
+        45,
+        75,
+        25,
+        null,
+        50,
+        null,
+        35,
+        50,
+        35,
+        90,
+        65,
+        null,
+        70,
+        90,
+        75,
+        35
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Jaime Balmes",
+          "url": "https://www.cervantesvirtual.com/obra/el-pensamiento-conservador-en-la-espana-del-siglo-xix-jaime-balmes-y-donoso-cortes-998169/",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Jaime Balmes",
+      "image": {
+        "wikiTitle": "Jaime Balmes",
+        "url": "portraits/balmes.jpg",
+        "source": "https://es.wikipedia.org/wiki/Jaime_Balmes",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Jaime_Balmes",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "cruz",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "giner",
+      "name": "Francisco Giner de los Ríos",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "1876–1915",
+      "family": "Reformismo",
+      "ideology": "krausismo",
+      "description": "Institución Libre de Enseñanza, educación y libertad de conciencia.",
+      "values": [
+        null,
+        null,
+        15,
+        null,
+        null,
+        null,
+        35,
+        null,
+        null,
+        15,
+        20,
+        null,
+        15,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Francisco Giner de los Ríos",
+          "url": "https://es.wikipedia.org/wiki/Francisco_Giner_de_los_R%C3%ADos",
+          "axes": [
+            2,
+            6,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "wikiTitle": "Francisco Giner de los Ríos",
+      "image": {
+        "wikiTitle": "Francisco Giner de los Ríos",
+        "url": "portraits/giner.jpg",
+        "source": "https://es.wikipedia.org/wiki/Francisco_Giner_de_los_R%C3%ADos",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Giner_de_los_R%C3%ADos",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "azcarate",
+      "name": "Gumersindo de Azcárate",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Finales XIX–principios XX",
+      "family": "Reformismo",
+      "ideology": "krausismo",
+      "description": "Krausismo, republicanismo y reforma social.",
+      "values": [
+        null,
+        null,
+        15,
+        null,
+        null,
+        null,
+        35,
+        null,
+        null,
+        15,
+        20,
+        null,
+        15,
+        0,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Gumersindo de Azcárate",
+          "url": "https://es.wikipedia.org/wiki/Gumersindo_de_Azc%C3%A1rate",
+          "axes": [
+            2,
+            6,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Gumersindo de Azcárate",
+      "image": {
+        "wikiTitle": "Gumersindo de Azcárate",
+        "url": "portraits/azcarate.jpg",
+        "source": "https://es.wikipedia.org/wiki/Gumersindo_de_Azc%C3%A1rate",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Gumersindo_de_Azc%C3%A1rate",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "menendez-pelayo",
+      "name": "Marcelino Menéndez Pelayo",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "Finales XIX–principios XX",
+      "family": "Tradicionalismo",
+      "ideology": "conservadurismo-catolico",
+      "description": "Historia intelectual y defensa de la tradición católica; no se le atribuye un programa económico completo.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100,
+        100,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Marcelino Menéndez Pelayo",
+          "url": "https://www.cervantesvirtual.com/portales/sociedad_menendez_pelayo/presentacion/",
+          "axes": [
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [],
+      "wikiTitle": "Marcelino Menéndez Pelayo",
+      "image": {
+        "wikiTitle": "Marcelino Menéndez Pelayo",
+        "url": "portraits/menendez-pelayo.jpg",
+        "source": "https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "cruz",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "maura",
+      "name": "Antonio Maura",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "1903–1923",
+      "family": "Conservadurismo",
+      "ideology": "maurismo",
+      "description": "Reforma conservadora del sistema de la Restauración.",
+      "values": [
+        85,
+        70,
+        60,
+        null,
+        null,
+        null,
+        null,
+        65,
+        null,
+        65,
+        80,
+        null,
+        50,
+        95,
+        90,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Antonio Maura",
+          "url": "https://es.wikipedia.org/wiki/Antonio_Maura",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Antonio Maura",
+      "image": {
+        "wikiTitle": "Antonio Maura",
+        "url": "portraits/maura.jpg",
+        "source": "https://es.wikipedia.org/wiki/Antonio_Maura",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Antonio_Maura",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "canalejas",
+      "name": "José Canalejas",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "1910–1912",
+      "family": "Liberalismo",
+      "ideology": "liberal-fusionista",
+      "description": "Reforma liberal y límites a la influencia institucional de órdenes religiosas.",
+      "values": [
+        75,
+        85,
+        40,
+        null,
+        null,
+        null,
+        null,
+        70,
+        null,
+        35,
+        55,
+        null,
+        45,
+        90,
+        85,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "José Canalejas",
+          "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Canalejas",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "José Canalejas",
+      "image": {
+        "wikiTitle": "José Canalejas",
+        "url": "portraits/canalejas.jpg",
+        "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Canalejas",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_Canalejas",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "melquiades",
+      "name": "Melquíades Álvarez",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "1912–1936",
+      "family": "Liberalismo",
+      "ideology": "reformismo-melquiades",
+      "description": "Reformismo liberal democrático y republicanismo pragmático.",
+      "values": [
+        50,
+        65,
+        10,
+        null,
+        40,
+        null,
+        55,
+        75,
+        55,
+        5,
+        10,
+        null,
+        0,
+        35,
+        90,
+        65
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Melquíades Álvarez",
+          "url": "https://es.wikipedia.org/wiki/Melqu%C3%ADades_%C3%81lvarez",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Melquíades Álvarez",
+      "image": {
+        "wikiTitle": "Melquíades Álvarez",
+        "url": "portraits/melquiades.jpg",
+        "source": "https://es.wikipedia.org/wiki/Melqu%C3%ADades_%C3%81lvarez",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Melqu%C3%ADades_%C3%81lvarez",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "segui",
+      "name": "Salvador Seguí",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "1910–1923",
+      "family": "Anarquismo",
+      "ideology": "anarcosindicalismo",
+      "description": "Sindicalismo libertario y organización obrera catalana.",
+      "values": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        10,
+        20,
+        0,
+        0,
+        15,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Salvador Seguí",
+          "url": "https://es.wikipedia.org/wiki/Salvador_Segu%C3%AD",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Salvador Seguí",
+      "image": {
+        "wikiTitle": "Salvador Seguí",
+        "url": "portraits/segui.jpg",
+        "source": "https://es.wikipedia.org/wiki/Salvador_Segu%C3%AD",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Salvador_Segu%C3%AD",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "negra",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "ferrer",
+      "name": "Francisco Ferrer Guardia",
+      "kind": "persona",
+      "group": "historia",
+      "era": "siglo-xix",
+      "period": "1901–1909",
+      "family": "Anarquismo",
+      "ideology": "anarcocomunismo",
+      "description": "Educación racionalista y Escuela Moderna; la ficha no infiere una economía completa.",
+      "values": [
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        10,
+        null,
+        0,
+        0,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Francisco Ferrer Guardia",
+          "url": "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
+          "axes": [
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "Francisco Ferrer Guardia",
+      "image": {
+        "wikiTitle": "Francisco Ferrer Guardia",
+        "url": "portraits/ferrer.jpg",
+        "source": "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "negra",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "nin",
+      "name": "Andreu Nin",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "1935–1937",
+      "family": "Socialismo",
+      "ideology": "poum",
+      "description": "Marxismo revolucionario antiestalinista y POUM.",
+      "values": [
+        30,
+        20,
+        50,
+        null,
+        null,
+        null,
+        5,
+        5,
+        5,
+        5,
+        25,
+        null,
+        55,
+        0,
+        0,
+        10
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Andreu Nin",
+          "url": "https://www.marxists.org/espanol/nin/1937/002.htm",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Andreu Nin",
+      "image": {
+        "wikiTitle": "Andreu Nin",
+        "url": "portraits/nin.jpg",
+        "source": "https://es.wikipedia.org/wiki/Andreu_Nin",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Andreu_Nin",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "alcala-zamora",
+      "name": "Niceto Alcalá-Zamora",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "1931–1936",
+      "family": "Republicanismo",
+      "ideology": "republicanismo-conservador",
+      "description": "Republicanismo constitucional de sensibilidad conservadora y católica.",
+      "values": [
+        40,
+        75,
+        30,
+        null,
+        null,
+        null,
+        35,
+        70,
+        null,
+        40,
+        65,
+        null,
+        15,
+        0,
+        85,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Niceto Alcalá-Zamora",
+          "url": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Niceto Alcalá-Zamora",
+      "image": {
+        "wikiTitle": "Niceto Alcalá-Zamora",
+        "url": "portraits/alcala-zamora.jpg",
+        "source": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "republica",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "nelken",
+      "name": "Margarita Nelken",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Década de 1930",
+      "family": "Socialismo",
+      "ideology": "feminismo-socialista",
+      "description": "Organización obrera, feminismo y política socialista; su evolución posterior se acota fuera de este modelo.",
+      "values": [
+        null,
+        45,
+        20,
+        null,
+        null,
+        null,
+        10,
+        10,
+        10,
+        10,
+        5,
+        null,
+        35,
+        0,
+        5,
+        10
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Margarita Nelken",
+          "url": "https://es.wikipedia.org/wiki/Margarita_Nelken",
+          "axes": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Margarita Nelken",
+      "image": {
+        "wikiTitle": "Margarita Nelken",
+        "url": "portraits/nelken.jpg",
+        "source": "https://es.wikipedia.org/wiki/Margarita_Nelken",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Margarita_Nelken",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "carmen-burgos",
+      "name": "Carmen de Burgos",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Primer tercio del siglo XX",
+      "family": "Feminismo",
+      "ideology": "feminismo-liberal",
+      "description": "Periodismo, educación y defensa de los derechos de las mujeres.",
+      "values": [
+        null,
+        null,
+        10,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        25,
+        5,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Carmen de Burgos",
+          "url": "https://cervantesvirtual.com/portales/carmen_de_burgos/",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "wikiTitle": "Carmen de Burgos",
+      "image": {
+        "wikiTitle": "Carmen de Burgos",
+        "url": "portraits/carmen-burgos.jpg",
+        "source": "https://es.wikipedia.org/wiki/Carmen_de_Burgos",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Carmen_de_Burgos",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "republica",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "lejarraga",
+      "name": "María Lejárraga",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Primer tercio del siglo XX",
+      "family": "Socialismo",
+      "ideology": "feminismo-socialista",
+      "description": "Escritura, socialismo y emancipación de las mujeres.",
+      "values": [
+        null,
+        45,
+        20,
+        null,
+        null,
+        null,
+        10,
+        10,
+        10,
+        10,
+        5,
+        null,
+        35,
+        0,
+        5,
+        10
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "María Lejárraga",
+          "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Lej%C3%A1rraga",
+          "axes": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "María Lejárraga",
+      "image": {
+        "wikiTitle": "María Lejárraga",
+        "url": "portraits/lejarraga.jpg",
+        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Lej%C3%A1rraga",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Lej%C3%A1rraga",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "zambrano",
+      "name": "María Zambrano",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "Década de 1930 y exilio",
+      "family": "Republicanismo",
+      "ideology": "republicanismo-social",
+      "description": "Pensamiento filosófico y compromiso republicano; no hay un programa económico completo que codificar.",
+      "values": [
+        null,
+        null,
+        30,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        25,
+        null,
+        15,
+        0,
+        null,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "María Zambrano",
+          "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
+          "axes": [
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "wikiTitle": "María Zambrano",
+      "image": {
+        "wikiTitle": "María Zambrano",
+        "url": "portraits/zambrano.jpg",
+        "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "republica",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "castelao",
+      "name": "Alfonso Daniel Rodríguez Castelao",
+      "kind": "persona",
+      "group": "historia",
+      "era": "republica",
+      "period": "1931–1950",
+      "family": "Nacionalismos",
+      "ideology": "galleguismo",
+      "description": "Galleguismo republicano, autogobierno y exilio.",
+      "values": [
+        5,
+        25,
+        25,
+        null,
+        null,
+        null,
+        25,
+        35,
+        20,
+        40,
+        40,
+        null,
+        10,
+        0,
+        60,
+        null
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Castelao",
+          "url": "https://es.wikipedia.org/wiki/Castelao",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Castelao",
+      "image": {
+        "wikiTitle": "Castelao",
+        "url": "portraits/castelao.jpg",
+        "source": "https://es.wikipedia.org/wiki/Castelao",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Castelao",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "galicia",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "carlos-hugo",
+      "name": "Carlos Hugo de Borbón-Parma",
+      "kind": "persona",
+      "group": "historia",
+      "era": "democracia",
+      "period": "Décadas de 1960–1980",
+      "family": "Socialismo",
+      "ideology": "carlismo-socialista",
+      "description": "Evolución de una rama carlista hacia socialismo autogestionario.",
+      "values": [
+        10,
+        35,
+        15,
+        20,
+        25,
+        30,
+        10,
+        20,
+        10,
+        40,
+        35,
+        15,
+        0,
+        60,
+        10,
+        0
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Carlos Hugo de Borbón-Parma",
+          "url": "https://es.wikipedia.org/wiki/Carlos_Hugo_de_Borb%C3%B3n-Parma",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Carlos Hugo de Borbón-Parma",
+      "image": {
+        "wikiTitle": "Carlos Hugo de Borbón-Parma",
+        "url": "portraits/carlos-hugo.jpg",
+        "source": "https://es.wikipedia.org/wiki/Carlos_Hugo_de_Borb%C3%B3n-Parma",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Carlos_Hugo_de_Borb%C3%B3n-Parma",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "carlista",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "tierno",
+      "name": "Enrique Tierno Galván",
+      "kind": "persona",
+      "group": "historia",
+      "era": "transicion",
+      "period": "Décadas de 1960–1980",
+      "family": "Socialismo",
+      "ideology": "socialismo-democratico",
+      "description": "Socialismo democrático y actividad política en la Transición y el gobierno municipal de Madrid.",
+      "values": [
+        30,
+        35,
+        15,
+        null,
+        25,
+        null,
+        10,
+        20,
+        10,
+        10,
+        15,
+        null,
+        0,
+        0,
+        20,
+        15
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Enrique Tierno Galván",
+          "url": "https://es.wikipedia.org/wiki/Enrique_Tierno_Galv%C3%A1n",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Enrique Tierno Galván",
+      "image": {
+        "wikiTitle": "Enrique Tierno Galván",
+        "url": "portraits/tierno.jpg",
+        "source": "https://es.wikipedia.org/wiki/Enrique_Tierno_Galv%C3%A1n",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Enrique_Tierno_Galv%C3%A1n",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "madariaga",
+      "name": "Salvador de Madariaga",
+      "kind": "persona",
+      "group": "historia",
+      "era": "transicion",
+      "period": "Exilio y etapa europeísta",
+      "family": "Liberalismo",
+      "ideology": "liberal-social",
+      "description": "Europeísmo y liberalismo de una trayectoria compleja; no resume sus posiciones anteriores.",
+      "values": [
+        50,
+        65,
+        10,
+        null,
+        40,
+        null,
+        55,
+        75,
+        55,
+        5,
+        10,
+        null,
+        0,
+        40,
+        90,
+        65
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Salvador de Madariaga",
+          "url": "https://es.wikipedia.org/wiki/Salvador_de_Madariaga",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Salvador de Madariaga",
+      "image": {
+        "wikiTitle": "Salvador de Madariaga",
+        "url": "portraits/madariaga.jpg",
+        "source": "https://es.wikipedia.org/wiki/Salvador_de_Madariaga",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Salvador_de_Madariaga",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "zapatero",
+      "name": "José Luis Rodríguez Zapatero",
+      "kind": "persona",
+      "group": "historia",
+      "era": "democracia",
+      "period": "Gobiernos de 2004–2011",
+      "family": "Socialismo",
+      "ideology": "socialdemocracia",
+      "description": "Reformas civiles y protección social durante su etapa al frente del Gobierno.",
+      "values": [
+        40,
+        70,
+        25,
+        30,
+        45,
+        15,
+        25,
+        40,
+        20,
+        20,
+        20,
+        25,
+        0,
+        50,
+        75,
+        45
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "José Luis Rodríguez Zapatero",
+          "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "José Luis Rodríguez Zapatero",
+      "image": {
+        "wikiTitle": "José Luis Rodríguez Zapatero",
+        "url": "portraits/zapatero.jpg",
+        "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
+    },
+    {
+      "id": "rajoy",
+      "name": "Mariano Rajoy",
+      "kind": "persona",
+      "group": "historia",
+      "era": "democracia",
+      "period": "Gobiernos de 2011–2018",
+      "family": "Conservadurismo",
+      "ideology": "liberal-conservador",
+      "description": "Política económica e institucional de sus gobiernos, no un test respondido personalmente.",
+      "values": [
+        65,
+        80,
+        45,
+        60,
+        65,
+        25,
+        65,
+        80,
+        75,
+        55,
+        65,
+        55,
+        5,
+        85,
+        90,
+        80
+      ],
+      "color": "#b46136",
+      "basis": "Ficha editorial provisional de una etapa concreta. No reproduce respuestas de esta figura.",
+      "limits": "Comparación aproximada: las dimensiones no documentadas quedan sin datos. No implica compartir toda su obra, trayectoria o actuaciones.",
+      "sources": [
+        {
+          "title": "Mariano Rajoy",
+          "url": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "wikiTitle": "Mariano Rajoy",
+      "image": {
+        "wikiTitle": "Mariano Rajoy",
+        "url": "portraits/rajoy.jpg",
+        "source": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+        "licenseUrl": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+        "author": "La atribución se obtiene del archivo original al resolver el retrato.",
+        "label": "Imagen biográfica; identificación y fecha en el archivo original",
+        "modifications": "Encuadre de presentación, sin retoques del original."
+      },
+      "flag": null,
+      "flagContext": "Símbolo de referencia del contexto, no una declaración personal"
     }
   ],
   "ideologies": [
@@ -3662,13 +6213,18 @@ window.AXIS_DATA = {
       "anchors": [
         "recaredo",
         "pelayo",
-        "alfonso-x"
+        "alfonso-x",
+        "isidoro",
+        "fernando-iii",
+        "jaime-i"
       ],
       "color": "#b46136",
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "monarquia-compuesta",
@@ -3720,7 +6276,9 @@ window.AXIS_DATA = {
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": "borgona",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "salamanca",
@@ -3765,12 +6323,17 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "Escuela plural: no se presenta como liberalismo contemporáneo ni como un programa único.",
       "anchors": [
-        "vitoria"
+        "vitoria",
+        "averroes",
+        "mariana",
+        "suarez-filosofo"
       ],
       "color": "#b46136",
       "core": [
         12
-      ]
+      ],
+      "flag": "borgona",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "absolutismo",
@@ -3823,7 +6386,9 @@ window.AXIS_DATA = {
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "ilustrado",
@@ -3880,7 +6445,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "borgona",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-gaditano",
@@ -3937,7 +6504,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-moderado",
@@ -3987,14 +6556,17 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "El sufragio censitario aleja esta corriente del pluralismo democrático actual.",
       "anchors": [
-        "canovas"
+        "canovas",
+        "narvaez"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-progresista",
@@ -4044,14 +6616,18 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "El término progresista del XIX no designa la misma agenda social de hoy.",
       "anchors": [
-        "sagasta"
+        "sagasta",
+        "espartero",
+        "prim"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "conservadurismo-canovista",
@@ -4108,7 +6684,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-fusionista",
@@ -4158,14 +6736,17 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "La ampliación del sufragio convivió con prácticas caciquiles.",
       "anchors": [
-        "sagasta"
+        "sagasta",
+        "canalejas"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "republicanismo-unitario",
@@ -4215,14 +6796,17 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "Republicanismo y federalismo no son sinónimos.",
       "anchors": [
-        "castelar"
+        "castelar",
+        "salmeron"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "primera",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "federalismo",
@@ -4281,7 +6865,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "primera",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "cantonalismo",
@@ -4336,7 +6922,9 @@ window.AXIS_DATA = {
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": "cantonal",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "carlismo",
@@ -4390,7 +6978,9 @@ window.AXIS_DATA = {
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": "carlista",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "regeneracionismo",
@@ -4442,7 +7032,9 @@ window.AXIS_DATA = {
       "color": "#b46136",
       "core": [
         12
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "krausismo",
@@ -4488,12 +7080,16 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "No constituye un programa económico cerrado.",
       "anchors": [
-        "arenal"
+        "arenal",
+        "giner",
+        "azcarate"
       ],
       "color": "#b46136",
       "core": [
         12
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "republicanismo-social",
@@ -4546,14 +7142,17 @@ window.AXIS_DATA = {
       "anchors": [
         "azana",
         "campoamor",
-        "kent"
+        "kent",
+        "zambrano"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "republica",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "socialismo-marxista",
@@ -4612,7 +7211,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "socialismo-revolucionario",
@@ -4672,7 +7273,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "socialismo-democratico",
@@ -4729,14 +7332,17 @@ window.AXIS_DATA = {
       "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
       "limits": "Familia amplia; no todo su espacio político defiende abolir el mercado.",
       "anchors": [
-        "diaz"
+        "diaz",
+        "tierno"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "socialdemocracia",
@@ -4795,14 +7401,17 @@ window.AXIS_DATA = {
       "anchors": [
         "sanchez",
         "gonzalez",
-        "prieto"
+        "prieto",
+        "zapatero"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "comunismo-leninista",
@@ -4862,7 +7471,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "eurocomunismo",
@@ -4923,7 +7534,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "roja",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "anarcocomunismo",
@@ -4977,14 +7590,17 @@ window.AXIS_DATA = {
       "limits": "Autogestión no es planificación estatal: el eje de intervención tiene aquí interpretación limitada.",
       "anchors": [
         "durruti",
-        "montseny"
+        "montseny",
+        "ferrer"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "rojinegra",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "anarcosindicalismo",
@@ -5038,14 +7654,17 @@ window.AXIS_DATA = {
       "limits": "Modelo cercano al comunismo libertario; los dos pueden empatar en este test.",
       "anchors": [
         "montseny",
-        "durruti"
+        "durruti",
+        "segui"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": "rojinegra",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "nacionalsindicalismo",
@@ -5106,7 +7725,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "falange",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "nacionalcatolicismo",
@@ -5168,7 +7789,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "desarrollismo",
@@ -5229,7 +7852,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "espana",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "democracia-cristiana",
@@ -5293,7 +7918,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "centrismo",
@@ -5354,7 +7981,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-conservador",
@@ -5413,14 +8042,17 @@ window.AXIS_DATA = {
       "anchors": [
         "feijoo",
         "aznar",
-        "fraga"
+        "fraga",
+        "rajoy"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "liberal-social",
@@ -5478,14 +8110,17 @@ window.AXIS_DATA = {
       "limits": "No se identifica automáticamente con una candidatura actual.",
       "anchors": [
         "ortega",
-        "campoamor"
+        "campoamor",
+        "madariaga"
       ],
       "color": "#b46136",
       "core": [
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "libertarismo",
@@ -5549,7 +8184,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "nacionalconservadurismo",
@@ -5613,7 +8250,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "nacionalismo-vasco",
@@ -5664,7 +8303,9 @@ window.AXIS_DATA = {
       "color": "#b46136",
       "core": [
         12
-      ]
+      ],
+      "flag": "ikurrina",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "republicanismo-catalan",
@@ -5725,7 +8366,9 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": "senyera",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "andalucismo",
@@ -5781,7 +8424,9 @@ window.AXIS_DATA = {
       "core": [
         12,
         13
-      ]
+      ],
+      "flag": "andalucia",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "feminismo-liberal",
@@ -5828,12 +8473,15 @@ window.AXIS_DATA = {
       "anchors": [
         "campoamor",
         "pardo-bazan",
-        "arenal"
+        "arenal",
+        "carmen-burgos"
       ],
       "color": "#b46136",
       "core": [
         12
-      ]
+      ],
+      "flag": "republica",
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
     },
     {
       "id": "ecosocialismo",
@@ -5897,7 +8545,1283 @@ window.AXIS_DATA = {
         12,
         13,
         14
-      ]
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
+    },
+    {
+      "id": "andalusi",
+      "name": "Monarquía califal andalusí",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "medieval",
+      "period": "Siglos VIII–XI",
+      "family": "Tradiciones premodernas",
+      "description": "Autoridad dinástica y legitimidad religiosa en al-Ándalus. Contexto peninsular anterior a la España contemporánea.",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        85,
+        null,
+        95,
+        100,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Califato de Córdoba",
+          "url": "https://es.wikipedia.org/wiki/Califato_de_C%C3%B3rdoba",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "abderraman-iii"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "andalusi",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "humanismo-cristiano",
+      "name": "Humanismo cristiano renacentista",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVI",
+      "family": "Humanismo y escolástica",
+      "description": "Renovación intelectual y ética cristiana mediante estudio, educación y crítica de abusos.",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Humanismo renacentista",
+          "url": "https://es.wikipedia.org/wiki/Humanismo_renacentista",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "luis-vives"
+      ],
+      "color": "#b46136",
+      "core": [],
+      "flag": "cruz",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "erasmismo",
+      "name": "Erasmismo español",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVI",
+      "family": "Humanismo y escolástica",
+      "description": "Religiosidad interior, reforma moral y recepción española de Erasmo. No es un programa partidista.",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Erasmismo",
+          "url": "https://es.wikipedia.org/wiki/Erasmismo",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [],
+      "flag": "cruz",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "comunero",
+      "name": "Constitucionalismo comunero",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "1520–1521",
+      "family": "Liberalismo",
+      "description": "Reivindicación de participación de las ciudades y límites a las prácticas regias. No equivale a democracia liberal moderna.",
+      "values": [
+        40,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        65,
+        90,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Comunidades de Castilla",
+          "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/exposiciones-actividades/exposiciones-virtuales/sentencia-comuneros.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "padilla",
+        "maria-pacheco"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "castilla",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "germanias",
+      "name": "Movimiento de las Germanías",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "1519–1523",
+      "family": "Liberalismo",
+      "description": "Protesta de sectores artesanos y conflictos con las oligarquías y el régimen señorial. Movimiento heterogéneo.",
+      "values": [
+        30,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        70,
+        90,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Ministerio de Cultura · Germanías",
+          "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/germanias.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "senyera",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "austracismo",
+      "name": "Austracismo",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "1701–1715",
+      "family": "Tradiciones premodernas",
+      "description": "Apoyo a la candidatura de Carlos de Austria en la Guerra de Sucesión; incluye defensa de instituciones territoriales.",
+      "values": [
+        30,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        90,
+        null,
+        90,
+        100,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Austracismo",
+          "url": "https://es.wikipedia.org/wiki/Austracismo",
+          "axes": [
+            0,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "borgona",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "borbonismo",
+      "name": "Centralismo borbónico reformista",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVIII",
+      "family": "Ilustración",
+      "description": "Uniformización administrativa y fortalecimiento de la Corona, con reformas ilustradas en etapas concretas.",
+      "values": [
+        95,
+        85,
+        null,
+        null,
+        null,
+        null,
+        null,
+        55,
+        null,
+        65,
+        65,
+        null,
+        85,
+        100,
+        75,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Decretos de Nueva Planta",
+          "url": "https://es.wikipedia.org/wiki/Decretos_de_Nueva_Planta",
+          "axes": [
+            0,
+            1,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "borgona",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "afrancesado",
+      "name": "Reformismo afrancesado",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "1808–1814",
+      "family": "Ilustración",
+      "description": "Colaboración con el régimen de José I y reformas administrativas durante la ocupación napoleónica.",
+      "values": [
+        80,
+        85,
+        null,
+        null,
+        null,
+        null,
+        null,
+        55,
+        null,
+        45,
+        45,
+        null,
+        80,
+        100,
+        75,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Afrancesado",
+          "url": "https://es.wikipedia.org/wiki/Afrancesado",
+          "axes": [
+            0,
+            1,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "espana",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "posibilismo",
+      "name": "Republicanismo posibilista",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "1870–1890",
+      "family": "Republicanismo",
+      "description": "Pragmatismo republicano de Castelar, compatible con reformas dentro del orden de la Restauración.",
+      "values": [
+        80,
+        75,
+        25,
+        null,
+        null,
+        null,
+        null,
+        70,
+        null,
+        25,
+        40,
+        null,
+        35,
+        15,
+        80,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Partido Demócrata Posibilista",
+          "url": "https://es.wikipedia.org/wiki/Partido_Dem%C3%B3crata_Posibilista",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "primera",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "republicanismo-conservador",
+      "name": "Republicanismo conservador",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "1931–1936",
+      "family": "Republicanismo",
+      "description": "República constitucional, moderación social y defensa de garantías con sensibilidad conservadora.",
+      "values": [
+        40,
+        75,
+        30,
+        null,
+        null,
+        null,
+        35,
+        70,
+        null,
+        40,
+        65,
+        null,
+        15,
+        0,
+        85,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Niceto Alcalá-Zamora",
+          "url": "https://es.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "alcala-zamora"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "republica",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "maurismo",
+      "name": "Maurismo",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "1907–1923",
+      "family": "Conservadurismo",
+      "description": "Reforma conservadora del sistema desde arriba, movilización cívica y críticas al funcionamiento del turno.",
+      "values": [
+        85,
+        70,
+        60,
+        null,
+        null,
+        null,
+        null,
+        65,
+        null,
+        65,
+        80,
+        null,
+        50,
+        95,
+        90,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Maurismo",
+          "url": "https://es.wikipedia.org/wiki/Maurismo",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "maura"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "espana",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "reformismo-melquiades",
+      "name": "Reformismo democrático de Melquíades Álvarez",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "Desde 1912",
+      "family": "Liberalismo",
+      "description": "Reforma liberal democrática, secularización y pragmatismo sobre la forma de gobierno.",
+      "values": [
+        50,
+        65,
+        10,
+        null,
+        40,
+        null,
+        55,
+        75,
+        55,
+        5,
+        10,
+        null,
+        0,
+        35,
+        90,
+        65
+      ],
+      "sources": [
+        {
+          "title": "Partido Reformista (España)",
+          "url": "https://es.wikipedia.org/wiki/Partido_Reformista_%28Espa%C3%B1a%29",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "melquiades"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "espana",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "integralismo-catolico",
+      "name": "Integrismo católico histórico",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "1888–1930",
+      "family": "Tradicionalismo",
+      "description": "Intransigencia religiosa y oposición al liberalismo en la vida pública. No resume todo el catolicismo político.",
+      "values": [
+        65,
+        85,
+        75,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100,
+        100,
+        null,
+        95,
+        100,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Partido Integrista",
+          "url": "https://es.wikipedia.org/wiki/Partido_Integrista",
+          "axes": [
+            0,
+            1,
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "donoso",
+        "menendez-pelayo"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "cruz",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "catolicismo-social",
+      "name": "Catolicismo social",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "Finales XIX–XX",
+      "family": "Humanismo cristiano",
+      "description": "Asociación obrera, justicia social y crítica a los abusos económicos desde la doctrina social católica.",
+      "values": [
+        45,
+        75,
+        25,
+        null,
+        50,
+        null,
+        35,
+        50,
+        35,
+        70,
+        65,
+        null,
+        null,
+        null,
+        75,
+        35
+      ],
+      "sources": [
+        {
+          "title": "Catolicismo social",
+          "url": "https://es.wikipedia.org/wiki/Catolicismo_social",
+          "axes": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "balmes"
+      ],
+      "color": "#b46136",
+      "core": [
+        14
+      ],
+      "flag": "cruz",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "liberalismo-clasico",
+      "name": "Liberalismo clásico",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "democracia",
+      "period": "Siglos XIX–XXI",
+      "family": "Conservadurismo",
+      "description": "Derechos individuales, gobierno limitado, propiedad privada y economía de mercado.",
+      "values": [
+        65,
+        80,
+        10,
+        60,
+        65,
+        25,
+        80,
+        90,
+        85,
+        30,
+        45,
+        55,
+        0,
+        50,
+        95,
+        80
+      ],
+      "sources": [
+        {
+          "title": "Liberalismo clásico",
+          "url": "https://es.wikipedia.org/wiki/Liberalismo_cl%C3%A1sico",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "espana",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "mutualismo",
+      "name": "Mutualismo libertario",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "Desde el siglo XIX",
+      "family": "Anarquismo",
+      "description": "Asociación voluntaria, reciprocidad y propiedad o posesión vinculada al trabajo, sin el modelo estatal centralizador.",
+      "values": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        5,
+        65,
+        0,
+        0,
+        10,
+        null,
+        0,
+        0,
+        35,
+        10
+      ],
+      "sources": [
+        {
+          "title": "Mutualismo (movimiento anarquista)",
+          "url": "https://es.wikipedia.org/wiki/Mutualismo_%28movimiento_anarquista%29",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "negra",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "poum",
+      "name": "Marxismo antiestalinista del POUM",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "1935–1937",
+      "family": "Socialismo",
+      "description": "Revolución obrera y oposición al estalinismo. No se identifica automáticamente a todo el POUM con el trotskismo.",
+      "values": [
+        30,
+        20,
+        50,
+        null,
+        null,
+        null,
+        5,
+        5,
+        5,
+        5,
+        25,
+        null,
+        55,
+        0,
+        0,
+        10
+      ],
+      "sources": [
+        {
+          "title": "Andreu Nin · Los órganos de poder y la revolución española",
+          "url": "https://www.marxists.org/espanol/nin/1937/002.htm",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "nin"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "roja",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "socialismo-autogestionario",
+      "name": "Socialismo autogestionario",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "democracia",
+      "period": "Siglo XX",
+      "family": "Socialismo",
+      "description": "Propiedad social y gestión directa de trabajadores, con distintas concepciones de la organización política.",
+      "values": [
+        30,
+        35,
+        15,
+        20,
+        25,
+        30,
+        10,
+        20,
+        10,
+        10,
+        15,
+        15,
+        0,
+        0,
+        10,
+        0
+      ],
+      "sources": [
+        {
+          "title": "Autogestión",
+          "url": "https://es.wikipedia.org/wiki/Autogesti%C3%B3n",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "roja",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "carlismo-socialista",
+      "name": "Carlismo socialista autogestionario",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "democracia",
+      "period": "Desde la década de 1960",
+      "family": "Socialismo",
+      "description": "Rama carlista vinculada a Carlos Hugo que evolucionó hacia federalismo y socialismo autogestionario.",
+      "values": [
+        10,
+        35,
+        15,
+        20,
+        25,
+        30,
+        10,
+        20,
+        10,
+        40,
+        35,
+        15,
+        0,
+        60,
+        10,
+        0
+      ],
+      "sources": [
+        {
+          "title": "Partido Carlista (1971)",
+          "url": "https://es.wikipedia.org/wiki/Partido_Carlista_%281971%29",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "carlos-hugo"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "carlista",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "galleguismo",
+      "name": "Galleguismo histórico",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "1916–1936",
+      "family": "Nacionalismos",
+      "description": "Defensa de lengua, cultura y autogobierno gallego, con corrientes republicanas y otras sensibilidades.",
+      "values": [
+        5,
+        25,
+        25,
+        null,
+        null,
+        null,
+        25,
+        35,
+        20,
+        40,
+        40,
+        null,
+        10,
+        0,
+        60,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Consello da Cultura Galega · Irmandades da Fala",
+          "url": "https://consellodacultura.gal/detalle-material.php?id=92120",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "castelao"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "galicia",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "feminismo-socialista",
+      "name": "Feminismo socialista histórico",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "Primer tercio del siglo XX",
+      "family": "Socialismo",
+      "description": "Emancipación de las mujeres vinculada a organización obrera, cambios sociales y crítica de clase.",
+      "values": [
+        null,
+        45,
+        20,
+        null,
+        null,
+        null,
+        10,
+        10,
+        10,
+        10,
+        5,
+        null,
+        35,
+        0,
+        5,
+        10
+      ],
+      "sources": [
+        {
+          "title": "Margarita Nelken",
+          "url": "https://es.wikipedia.org/wiki/Margarita_Nelken",
+          "axes": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "nelken",
+        "lejarraga"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "flag": "roja",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
+    },
+    {
+      "id": "conservadurismo-catolico",
+      "name": "Conservadurismo católico decimonónico",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "Siglo XIX",
+      "family": "Tradicionalismo",
+      "description": "Defensa de la tradición católica y del orden social frente a la secularización y la revolución, con autores y grados de moderación diferentes.",
+      "values": [
+        65,
+        85,
+        75,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100,
+        100,
+        null,
+        80,
+        100,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Biblioteca Cervantes · Balmes y Donoso Cortés",
+          "url": "https://www.cervantesvirtual.com/obra/el-pensamiento-conservador-en-la-espana-del-siglo-xix-jaime-balmes-y-donoso-cortes-998169/",
+          "axes": [
+            0,
+            1,
+            2,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "donoso",
+        "balmes",
+        "menendez-pelayo"
+      ],
+      "color": "#b46136",
+      "core": [
+        12,
+        13
+      ],
+      "flag": "cruz",
+      "flagContext": "Enseña de referencia; no equivale a un programa político"
     }
   ],
   "contexts": [
@@ -5952,7 +9876,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": null,
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-asturias",
@@ -6005,7 +9931,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "asturias",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-castilla-alfonsi",
@@ -6058,7 +9986,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "castilla",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-salamanca",
@@ -6110,7 +10040,9 @@ window.AXIS_DATA = {
       "core": [
         12
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-escorial",
@@ -6164,7 +10096,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-ilustrado",
@@ -6222,7 +10156,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-cadiz",
@@ -6281,7 +10217,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-absolutista",
@@ -6336,7 +10274,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-estella-carlista",
@@ -6392,7 +10332,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "carlista",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-cartagena",
@@ -6449,7 +10391,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "cantonal",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-federal",
@@ -6510,7 +10454,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "primera",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-restauracion",
@@ -6569,7 +10515,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-ile",
@@ -6622,7 +10570,9 @@ window.AXIS_DATA = {
       "core": [
         12
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-bilbao-arana",
@@ -6674,7 +10624,9 @@ window.AXIS_DATA = {
       "core": [
         12
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "ikurrina",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-obrero",
@@ -6735,7 +10687,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "roja",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-barcelona-libertaria",
@@ -6797,7 +10751,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "rojinegra",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-aragon-colectividades",
@@ -6859,7 +10815,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "rojinegra",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-republicano",
@@ -6919,7 +10877,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "republica",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-generalitat",
@@ -6980,7 +10940,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "senyera",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-andalucismo",
@@ -7038,7 +11000,9 @@ window.AXIS_DATA = {
         12,
         13
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "andalucia",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-burgos",
@@ -7101,7 +11065,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-desarrollista",
@@ -7163,7 +11129,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-madrid-transicion",
@@ -7225,7 +11193,9 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
     },
     {
       "id": "ctx-espana-europea",
@@ -7291,7 +11261,1059 @@ window.AXIS_DATA = {
         13,
         14
       ],
-      "color": "#416f78"
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia"
+    },
+    {
+      "id": "ctx-cordoba-califal",
+      "name": "Córdoba califal",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "medieval",
+      "period": "929–1031",
+      "family": "Tradiciones premodernas",
+      "ideology": "andalusi",
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        85,
+        null,
+        95,
+        100,
+        null,
+        null
+      ],
+      "description": "Instituciones y autoridad del califato omeya; no una descripción de todos los habitantes.",
+      "location": {
+        "lat": 37.89,
+        "lon": -4.78
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Califato de Córdoba",
+          "url": "https://es.wikipedia.org/wiki/Califato_de_C%C3%B3rdoba",
+          "axes": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "andalusi",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-sevilla-humanista",
+      "name": "Valencia de Juan Luis Vives",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "Primera mitad del siglo XVI",
+      "family": "Humanismo y escolástica",
+      "ideology": "humanismo-cristiano",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "description": "Entorno de origen y legado del humanismo de Vives; gran parte de su obra se desarrolló fuera de la península.",
+      "location": {
+        "lat": 39.47,
+        "lon": -0.38
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Juan Luis Vives",
+          "url": "https://es.wikipedia.org/wiki/Juan_Luis_Vives",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [],
+      "color": "#416f78",
+      "flag": "cruz",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-toledo-mariana",
+      "name": "Toledo de Juan de Mariana",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1599",
+      "family": "Humanismo y escolástica",
+      "ideology": "salamanca",
+      "values": [
+        null,
+        null,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        70,
+        null,
+        65,
+        null,
+        null,
+        null
+      ],
+      "description": "Referencia al tratado sobre la institución regia y los límites del poder.",
+      "location": {
+        "lat": 39.86,
+        "lon": -4.03
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Juan de Mariana",
+          "url": "https://es.wikipedia.org/wiki/Juan_de_Mariana",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-tordesillas",
+      "name": "Tordesillas comunera",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1520",
+      "family": "Liberalismo",
+      "ideology": "comunero",
+      "values": [
+        40,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        65,
+        90,
+        null,
+        null
+      ],
+      "description": "Sede de la Junta comunera en una fase de la rebelión castellana.",
+      "location": {
+        "lat": 41.5,
+        "lon": -5.0
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Comunidades de Castilla",
+          "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/exposiciones-actividades/exposiciones-virtuales/sentencia-comuneros.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "castilla",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-villalar",
+      "name": "Villalar y la memoria comunera",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1521",
+      "family": "Liberalismo",
+      "ideology": "comunero",
+      "values": [
+        40,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        65,
+        90,
+        null,
+        null
+      ],
+      "description": "Derrota de los comuneros y su posterior memoria política. La fecha no describe una ciudad gobernada por esta corriente.",
+      "location": {
+        "lat": 41.55,
+        "lon": -5.14
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Guerra de las Comunidades de Castilla",
+          "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/exposiciones-actividades/exposiciones-virtuales/sentencia-comuneros.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "castilla",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-valencia-germanias",
+      "name": "Valencia de las Germanías",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1519–1522",
+      "family": "Liberalismo",
+      "ideology": "germanias",
+      "values": [
+        30,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        70,
+        90,
+        null,
+        null
+      ],
+      "description": "Protesta de sectores artesanos y lucha contra poderes oligárquicos y señoriales.",
+      "location": {
+        "lat": 39.47,
+        "lon": -0.38
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Germanías",
+          "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/germanias.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "senyera",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-mallorca-germanias",
+      "name": "Mallorca agermanada",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1521–1523",
+      "family": "Liberalismo",
+      "ideology": "germanias",
+      "values": [
+        30,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        75,
+        null,
+        70,
+        90,
+        null,
+        null
+      ],
+      "description": "La revuelta mallorquina tiene condiciones propias; no se extrapolan todas las de Valencia.",
+      "location": {
+        "lat": 39.57,
+        "lon": 2.65
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Germanías",
+          "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/germanias.html",
+          "axes": [
+            0,
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "senyera",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-barcelona-austracista",
+      "name": "Barcelona austracista",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "1705–1714",
+      "family": "Tradiciones premodernas",
+      "ideology": "austracismo",
+      "values": [
+        30,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        95,
+        90,
+        null,
+        90,
+        100,
+        null,
+        null
+      ],
+      "description": "Apoyo a la candidatura de Carlos de Austria y defensa de instituciones catalanas.",
+      "location": {
+        "lat": 41.39,
+        "lon": 2.17
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Austracismo",
+          "url": "https://es.wikipedia.org/wiki/Austracismo",
+          "axes": [
+            0,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-valencia-nueva-planta",
+      "name": "Valencia tras la Nueva Planta",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "moderna",
+      "period": "Desde 1707",
+      "family": "Ilustración",
+      "ideology": "borbonismo",
+      "values": [
+        95,
+        85,
+        null,
+        null,
+        null,
+        null,
+        null,
+        55,
+        null,
+        65,
+        65,
+        null,
+        85,
+        100,
+        75,
+        null
+      ],
+      "description": "Reorganización institucional impuesta tras la Guerra de Sucesión. No refleja la adhesión de la población.",
+      "location": {
+        "lat": 39.47,
+        "lon": -0.38
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Decretos de Nueva Planta",
+          "url": "https://es.wikipedia.org/wiki/Decretos_de_Nueva_Planta",
+          "axes": [
+            0,
+            1,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "borgona",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-madrid-jose-i",
+      "name": "Madrid del gobierno de José I",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "siglo-xix",
+      "period": "1808–1813",
+      "family": "Ilustración",
+      "ideology": "afrancesado",
+      "values": [
+        80,
+        85,
+        null,
+        null,
+        null,
+        null,
+        null,
+        55,
+        null,
+        45,
+        45,
+        null,
+        80,
+        100,
+        75,
+        null
+      ],
+      "description": "Proyecto de reformas bajo una monarquía sostenida por la ocupación napoleónica.",
+      "location": {
+        "lat": 40.42,
+        "lon": -3.7
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "José I Bonaparte",
+          "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_I_Bonaparte",
+          "axes": [
+            0,
+            1,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-logrono-espartero",
+      "name": "Logroño de Espartero",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "siglo-xix",
+      "period": "Siglo XIX",
+      "family": "Liberalismo",
+      "ideology": "liberal-progresista",
+      "values": [
+        70,
+        65,
+        30,
+        null,
+        null,
+        null,
+        null,
+        75,
+        null,
+        50,
+        40,
+        null,
+        35,
+        75,
+        80,
+        null
+      ],
+      "description": "Lugar de retiro y memoria de Espartero; no equivale al gobierno político de toda la ciudad.",
+      "location": {
+        "lat": 42.46,
+        "lon": -2.45
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Baldomero Espartero",
+          "url": "https://es.wikipedia.org/wiki/Baldomero_Espartero",
+          "axes": [
+            0,
+            1,
+            2,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "espana",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-barcelona-escuela",
+      "name": "Barcelona de la Escuela Moderna",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "siglo-xix",
+      "period": "1901–1906",
+      "family": "Pedagogía racionalista",
+      "ideology": null,
+      "values": [
+        null,
+        null,
+        10,
+        null,
+        null,
+        null,
+        30,
+        null,
+        null,
+        0,
+        10,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "description": "Experiencia educativa racionalista de Ferrer Guardia: se ajusta el modelo a su secularidad.",
+      "location": {
+        "lat": 41.39,
+        "lon": 2.17
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Escuela Moderna",
+          "url": "https://es.wikipedia.org/wiki/Escuela_Moderna",
+          "axes": [
+            2,
+            6,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [],
+      "color": "#416f78",
+      "flag": "negra",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-coruna-irmandades",
+      "name": "A Coruña de las Irmandades da Fala",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "republica",
+      "period": "1916–1931",
+      "family": "Nacionalismos",
+      "ideology": "galleguismo",
+      "values": [
+        5,
+        25,
+        25,
+        null,
+        null,
+        null,
+        25,
+        35,
+        20,
+        40,
+        40,
+        null,
+        10,
+        0,
+        60,
+        null
+      ],
+      "description": "Organización cultural y política del galleguismo histórico.",
+      "location": {
+        "lat": 43.36,
+        "lon": -8.41
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Irmandades da Fala",
+          "url": "https://consellodacultura.gal/detalle-material.php?id=92120",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "galicia",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-barcelona-poum",
+      "name": "Barcelona del POUM",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "republica",
+      "period": "1935–1937",
+      "family": "Socialismo",
+      "ideology": "poum",
+      "values": [
+        30,
+        20,
+        50,
+        null,
+        null,
+        null,
+        5,
+        5,
+        5,
+        5,
+        25,
+        null,
+        55,
+        0,
+        0,
+        10
+      ],
+      "description": "Marxismo revolucionario antiestalinista en el ciclo de la Guerra Civil.",
+      "location": {
+        "lat": 41.39,
+        "lon": 2.17
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Partido Obrero de Unificación Marxista",
+          "url": "https://www.marxists.org/espanol/nin/1937/002.htm",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "roja",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-asturias-1934",
+      "name": "Asturias obrera de octubre de 1934",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "republica",
+      "period": "Octubre de 1934",
+      "family": "Socialismo",
+      "ideology": "socialismo-revolucionario",
+      "values": [
+        50,
+        25,
+        50,
+        null,
+        null,
+        null,
+        5,
+        5,
+        5,
+        5,
+        25,
+        null,
+        55,
+        0,
+        0,
+        10
+      ],
+      "description": "Insurrección y alianza obrera de organizaciones diversas, con violencia y represión.",
+      "location": {
+        "lat": 43.36,
+        "lon": -5.85
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Revolución de Asturias de 1934",
+          "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Asturias_de_1934",
+          "axes": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "roja",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-gernika-1936",
+      "name": "Gernika del autogobierno de 1936",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "republica",
+      "period": "1936",
+      "family": "Nacionalismos",
+      "ideology": "nacionalismo-vasco",
+      "values": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100,
+        95,
+        null,
+        55,
+        null,
+        null,
+        null
+      ],
+      "description": "Constitución del primer Gobierno vasco dentro del marco republicano y de la Guerra Civil.",
+      "location": {
+        "lat": 43.31,
+        "lon": -2.68
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "José Antonio Aguirre",
+          "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aguirre",
+          "axes": [
+            0,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12
+      ],
+      "color": "#416f78",
+      "flag": "ikurrina",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-ronda-1918",
+      "name": "Ronda de la Asamblea de 1918",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "republica",
+      "period": "1918",
+      "family": "Regionalismos",
+      "ideology": "andalucismo",
+      "values": [
+        10,
+        35,
+        null,
+        null,
+        null,
+        null,
+        25,
+        35,
+        20,
+        25,
+        35,
+        null,
+        15,
+        10,
+        null,
+        null
+      ],
+      "description": "Debate regionalista y adopción de símbolos andaluces.",
+      "location": {
+        "lat": 36.74,
+        "lon": -5.17
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Asamblea de Ronda",
+          "url": "https://es.wikipedia.org/wiki/Asamblea_de_Ronda",
+          "axes": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13
+      ],
+      "color": "#416f78",
+      "flag": "andalucia",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
+    },
+    {
+      "id": "ctx-montejurra-autogestion",
+      "name": "Carlismo autogestionario de Montejurra",
+      "kind": "contexto",
+      "group": "contexto",
+      "era": "democracia",
+      "period": "Décadas de 1960–1970",
+      "family": "Socialismo",
+      "ideology": "carlismo-socialista",
+      "values": [
+        10,
+        35,
+        15,
+        20,
+        25,
+        30,
+        10,
+        20,
+        10,
+        40,
+        35,
+        15,
+        0,
+        60,
+        10,
+        0
+      ],
+      "description": "Referencia a la rama renovadora del carlismo, no a todo el movimiento ni a los participantes en cada acto.",
+      "location": {
+        "lat": 42.62,
+        "lon": -2.04
+      },
+      "basis": "Analogía editorial con un proyecto o movimiento localizado y fechado. Codificación provisional.",
+      "limits": "No caracteriza a todos los habitantes ni expresa una recomendación de residencia. Las analogías premodernas tienen cobertura limitada.",
+      "sources": [
+        {
+          "title": "Partido Carlista (1971)",
+          "url": "https://es.wikipedia.org/wiki/Partido_Carlista_%281971%29",
+          "axes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "core": [
+        12,
+        13,
+        14
+      ],
+      "color": "#416f78",
+      "flag": "carlista",
+      "flagContext": "Enseña o símbolo de referencia del contexto"
     }
   ],
   "eras": [
@@ -7323,5 +12345,133 @@ window.AXIS_DATA = {
       "democracia",
       "Democracia y actualidad"
     ]
-  ]
+  ],
+  "flags": {
+    "espana": {
+      "name": "España · rojigualda sin escudo",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"20\" fill=\"#aa151b\"/><rect y=\"20\" width=\"120\" height=\"40\" fill=\"#f1bf00\"/><rect y=\"60\" width=\"120\" height=\"20\" fill=\"#aa151b\"/></svg>",
+      "note": "Representación del paño sin escudo. No reproduce las armas de cada régimen histórico.",
+      "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1981-26082",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "primera": {
+      "name": "Primera República · rojigualda sin escudo",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"20\" fill=\"#aa151b\"/><rect y=\"20\" width=\"120\" height=\"40\" fill=\"#f1bf00\"/><rect y=\"60\" width=\"120\" height=\"20\" fill=\"#aa151b\"/></svg>",
+      "note": "En 1873 no se adoptó la tricolor de 1931. Aquí se muestra solo el paño, sin el escudo republicano.",
+      "source": "https://armada.defensa.gob.es/archivo/noticias/cienciaorgano/01cienciamuseo/01informacionmuseonaval/02prensamuseonaval/01noticias/2025/Noviembre/ExpoBandera/DossierPrensaLaBandera.pdf",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "republica": {
+      "name": "Segunda República · tricolor",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"26.666666666666668\" fill=\"#aa151b\"/><rect y=\"26.666666666666668\" width=\"120\" height=\"26.666666666666668\" fill=\"#f1bf00\"/><rect y=\"53.333333333333336\" width=\"120\" height=\"26.666666666666668\" fill=\"#6b297b\"/></svg>",
+      "note": "Bandas iguales, roja, amarilla y morada. Representación sin escudo; corresponde a 1931–1939.",
+      "source": "https://www.congreso.es/constitucion/ficheros/historicas/cons_1931.pdf",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "cantonal": {
+      "name": "Cartagena cantonal · enseña roja",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#c51e29\"/></svg>",
+      "note": "La enseña roja aparece asociada al levantamiento de 1873. No representa la bandera municipal actual.",
+      "source": "https://www.cartagena.es/detalle_noticias.asp?c=&d=&h=&id=49902&pagina=1&t=",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "rojinegra": {
+      "name": "Anarcosindicalismo · rojinegra",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#171717\"/><path d=\"M0 0H120L0 80Z\" fill=\"#c9232c\"/></svg>",
+      "note": "Símbolo de movimiento, no bandera de un Estado. Referencia a la combinación diagonal utilizada en España desde 1931.",
+      "source": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "roja": {
+      "name": "Movimiento obrero · bandera roja",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#c51e29\"/></svg>",
+      "note": "Símbolo genérico de las tradiciones socialistas y obreras. No es una enseña exclusiva de esta corriente o persona.",
+      "source": "https://es.wikipedia.org/wiki/Bandera_roja",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "ikurrina": {
+      "name": "Ikurriña · desde 1894",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#cf142b\"/><path d=\"M0 0L120 80M120 0L0 80\" stroke=\"#008751\" stroke-width=\"15\"/><path d=\"M60 0V80M0 40H120\" stroke=\"#fff\" stroke-width=\"13\"/></svg>",
+      "note": "Enseña creada por los hermanos Arana en 1894. Dibujo vectorial simplificado de sus colores y cruces.",
+      "source": "https://www.euskadi.eus/web01-a2lurhiz/eu/contenidos/termino/_c00413/eu_a_4133/a4133.html",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "senyera": {
+      "name": "Cataluña · senyera",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"8.88888888888889\" fill=\"#f1bf00\"/><rect y=\"8.88888888888889\" width=\"120\" height=\"8.88888888888889\" fill=\"#aa151b\"/><rect y=\"17.77777777777778\" width=\"120\" height=\"8.88888888888889\" fill=\"#f1bf00\"/><rect y=\"26.666666666666668\" width=\"120\" height=\"8.88888888888889\" fill=\"#aa151b\"/><rect y=\"35.55555555555556\" width=\"120\" height=\"8.88888888888889\" fill=\"#f1bf00\"/><rect y=\"44.44444444444444\" width=\"120\" height=\"8.88888888888889\" fill=\"#aa151b\"/><rect y=\"53.33333333333333\" width=\"120\" height=\"8.88888888888889\" fill=\"#f1bf00\"/><rect y=\"62.222222222222214\" width=\"120\" height=\"8.88888888888889\" fill=\"#aa151b\"/><rect y=\"71.1111111111111\" width=\"120\" height=\"8.88888888888889\" fill=\"#f1bf00\"/></svg>",
+      "note": "Cuatro barras rojas sobre fondo amarillo; no equivale a la estelada ni a una postura partidista.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "andalucia": {
+      "name": "Andalucía · blanquiverde",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"26.666666666666668\" fill=\"#00854a\"/><rect y=\"26.666666666666668\" width=\"120\" height=\"26.666666666666668\" fill=\"#fff\"/><rect y=\"53.333333333333336\" width=\"120\" height=\"26.666666666666668\" fill=\"#00854a\"/></svg>",
+      "note": "Composición aprobada en Ronda en 1918. Representación sin escudo.",
+      "source": "https://www.juntadeandalucia.es/organismos/transparencia/informacion-institucional-organizativa/simbolos.html",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "borgona": {
+      "name": "Aspa de Borgoña · esquema",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#fff\"/><path d=\"M14 12L106 68M106 12L14 68\" stroke=\"#bd172c\" stroke-width=\"9\"/><path d=\"M32 24l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M50 35l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M70 47l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M88 58l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M33 57l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M51 46l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M69 35l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M87 24l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/></svg>",
+      "note": "Emblema militar de la Monarquía Hispánica. Ilustración esquemática, no reproducción de un estandarte concreto.",
+      "source": "https://armada.defensa.gob.es/archivo/mardigitalrevistas/rhn/1984/1984n6.pdf",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "asturias": {
+      "name": "Cruz de la Victoria · símbolo de 908",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#ede7d9\"/><path d=\"M60 10V70M27 30H93\" stroke=\"#b38a25\" stroke-width=\"12\"/><circle cx=\"60\" cy=\"30\" r=\"8\" fill=\"#466a8a\"/></svg>",
+      "note": "Símbolo posterior a Pelayo, realizado en 908. No es una bandera documentada del Reino de Asturias ni la actual bandera autonómica.",
+      "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1984-12187",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "negra": {
+      "name": "Anarquismo · bandera negra",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"#151515\"/></svg>",
+      "note": "Símbolo genérico del anarquismo. No implica que todos sus autores usaran una misma bandera.",
+      "source": "https://es.wikipedia.org/wiki/S%C3%ADmbolos_anarquistas",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    },
+    "galicia": {
+      "name": "Galicia · azul y blanca",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"white\"/><path d=\"M0 0L120 80\" stroke=\"#4897cb\" stroke-width=\"20\"/></svg>",
+      "note": "Representación sin escudo. No se asigna esta bandera moderna al Reino de Galicia medieval.",
+      "source": "https://www.xunta.gal/es/simbolos-de-galicia",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    },
+    "carlista": {
+      "name": "Carlismo · aspa de Borgoña, referencia posterior",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect y=\"0\" width=\"120\" height=\"80\" fill=\"#fff\"/><path d=\"M14 12L106 68M106 12L14 68\" stroke=\"#bd172c\" stroke-width=\"9\"/><path d=\"M32 24l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M50 35l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M70 47l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M88 58l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M33 57l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M51 46l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M69 35l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/><path d=\"M87 24l-5 -12m5 12l13 0\" stroke=\"#bd172c\" stroke-width=\"5\"/></svg>",
+      "note": "Símbolo utilizado por el carlismo del siglo XX. No reproduce el estandarte de Carlos V ni una bandera específica de Estella en 1873.",
+      "source": "https://museodelcarlismo.navarra.es/es/coleccion",
+      "sourceTitle": "Referencia sobre la enseña"
+    },
+    "castilla": {
+      "name": "Castilla · castillo sobre campo rojo",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"#ac163d\"/><g fill=\"#dcb646\" stroke=\"#725320\" stroke-width=\"1\"><path d=\"M25 64V34h14v-8h42v8h14v30Z\"/><path d=\"M25 34V16h5v5h4v-5h5v18M50 26V9h5v5h10V9h5v17M81 34V16h5v5h4v-5h5v18\"/></g><path d=\"M53 64V51a7 7 0 0 1 14 0v13\" fill=\"#4b728d\"/></svg>",
+      "note": "Dibujo heráldico esquemático de Castilla. No reproduce el estandarte cuartelado completo de Castilla y León ni de cada monarca.",
+      "source": "https://es.wikipedia.org/wiki/Escudo_de_Castilla",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    },
+    "andalusi": {
+      "name": "Omeyas · referencia al estandarte blanco",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"#fff\"/></svg>",
+      "note": "El blanco se asocia a la dinastía omeya. Este paño es una referencia esquemática, no una bandera reconstruida y certificada de Córdoba.",
+      "source": "https://www.institutoegipcio.es/wp-content/uploads/2020/12/Revista-XXXVIII.pdf",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    },
+    "cruz": {
+      "name": "Tradición cristiana · símbolo editorial",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"#eee9dd\"/><path d=\"M60 15V66M37 33H83\" stroke=\"#92782b\" stroke-width=\"7\"/></svg>",
+      "note": "Icono de referencia religiosa, no bandera histórica oficial ni símbolo exclusivo de una ideología.",
+      "source": "https://www.cervantesvirtual.com/obra/el-pensamiento-conservador-en-la-espana-del-siglo-xix-jaime-balmes-y-donoso-cortes-998169/",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    },
+    "falange": {
+      "name": "Falange · representación esquemática",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect width=\"120\" height=\"80\" fill=\"#b8202c\"/><rect x=\"30\" width=\"60\" height=\"80\" fill=\"#111\"/><path d=\"M44 64V16m-4 6l4 -7 4 7\" stroke=\"#b8202c\" stroke-width=\"2\" fill=\"none\"/><path d=\"M52 64V16m-4 6l4 -7 4 7\" stroke=\"#b8202c\" stroke-width=\"2\" fill=\"none\"/><path d=\"M60 64V16m-4 6l4 -7 4 7\" stroke=\"#b8202c\" stroke-width=\"2\" fill=\"none\"/><path d=\"M68 64V16m-4 6l4 -7 4 7\" stroke=\"#b8202c\" stroke-width=\"2\" fill=\"none\"/><path d=\"M76 64V16m-4 6l4 -7 4 7\" stroke=\"#b8202c\" stroke-width=\"2\" fill=\"none\"/><path d=\"M41 44Q60 28 79 44M45 45Q60 52 75 45\" stroke=\"#b8202c\" stroke-width=\"5\" fill=\"none\"/></svg>",
+      "note": "Esquema de los colores y el yugo y las flechas; no una reproducción vexilológica exacta. La simbología no expresa respaldo al movimiento.",
+      "source": "https://es.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS",
+      "sourceTitle": "Fuente sobre el símbolo; dibujo propio esquemático"
+    }
+  }
 };

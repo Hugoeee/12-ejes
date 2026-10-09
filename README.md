@@ -1,20 +1,51 @@
-# España en 12 ejes · V2.0
+# España en 12 ejes · Atlas 3.0
 
-Atlas exploratorio de ideas en España, preparado para GitHub y Vercel. Incluye 49 personalidades (40 históricas y 9 contemporáneas), 39 modelos ideológicos, 24 contextos históricos y un cuestionario de 16 dimensiones: los 12 ejes originales y 4 claves históricas. Versiones de 48 y 80 preguntas.
+85 personalidades, 61 modelos de corrientes y 42 contextos históricos. Test de 48 u 80 preguntas en 16 dimensiones. 18 representaciones de banderas y símbolos, con fuentes y advertencias de alcance.
 
-## Actualizar tu web en GitHub
+## Actualizar GitHub y Vercel
 
-1. Descomprime `espana-en-12-ejes-v2.zip` en tu ordenador.
-2. Entra en tu repositorio `Hugoeee/12-ejes`. En la pantalla principal de archivos, pulsa **Add file → Upload files**.
-3. Arrastra **los archivos de dentro de la carpeta**, directamente a la raíz del repositorio. No subas el ZIP ni una carpeta que los envuelva. Deben verse `package.json`, `build.cjs`, `data.js`, `app.js`, etc., en la misma pantalla.
-4. GitHub actualizará los archivos que ya existían. Pon como mensaje `Actualizar atlas a versión 2.0` y pulsa **Commit changes**.
-5. Vercel volverá a desplegar la rama conectada. Comprueba que el despliegue nuevo esté en **Ready** y abre tu dominio. Recarga la página si seguías viendo la versión anterior.
+1. Descomprime el ZIP.
+2. Abre `https://github.com/Hugoeee/12-ejes`, en la pantalla principal de archivos.
+3. Pulsa **Add file → Upload files** y arrastra **los 12 archivos de dentro**, directamente a la raíz del repositorio. No arrastres el ZIP ni una carpeta que envuelva los archivos.
+4. Reemplaza los archivos existentes, incluido `vercel.json`, y confirma con **Commit changes** en la rama conectada a Vercel.
+5. Espera a que el despliegue nuevo muestre **Ready**. La descarga de retratos puede prolongar el build. Después abre tu web y pulsa **Ctrl+F5**.
+6. Comprueba que abajo aparezca **V3.0**. En **Diagnóstico de imágenes** verás la cobertura de retratos del despliegue. En **Banderas** verás las 18 representaciones integradas.
 
-Los antiguos `scripts/build.cjs`, `tests/verify.cjs` y `vista-previa.html`, si siguen en tu repositorio, ya no son necesarios. No impiden la compilación de V2. El nuevo `package.json` utiliza `node build.cjs` y `node verify.cjs`, ambos en la raíz. Conserva los demás archivos propios de tu repositorio que no pertenezcan a esta app.
+El nuevo archivo `media.js` es obligatorio. Si no se sube, el respaldo que resuelve retratos no estará disponible. Los archivos `build.cjs`, `package.json`, `app.js`, `media.js`, `data.js` y `vercel.json` deben quedar al mismo nivel.
 
-En Vercel: Framework **Other**, Build Command **npm run build**, Output Directory **dist** y Root Directory vacío. `vercel.json` declara estos valores. No necesita variables de entorno, base de datos ni claves API.
+Las carpetas antiguas `scripts` y `tests` y `vista-previa.html` ya no se utilizan; no hace falta borrarlas para que funcione esta versión. Conserva otros archivos propios que no formen parte de esta app.
 
-## Comprobar localmente
+En Vercel: Framework **Other**, Build Command **npm run build**, Output Directory **dist**, Root Directory vacío. No necesita claves, base de datos ni cuentas de visitantes.
+
+## Imágenes: qué cambia y qué no está verificado
+
+Antes se calculaban rutas directas a miniaturas y el navegador dependía de ellas. Ahora el build consulta las APIs públicas de Wikipedia/Commons para obtener los nombres canónicos y las atribuciones. Las consultas se agrupan para reducir peticiones. Descarga los retratos disponibles, comprueba tipo de contenido y firma de imagen y los coloca en `dist/portraits`. Se sirven desde la propia web cuando la descarga tiene éxito. La extensión corresponde al tipo descargado.
+
+Si una descarga falla, se conserva una ruta externa o se deja para resolución en el navegador. El navegador prueba el respaldo y, si hace falta, consulta metadatos públicos para recuperar la ruta. Si todo falla, se muestran iniciales y un aviso. No se inventan retratos ni se sustituyen por imágenes generadas.
+
+**No se garantiza que todas las imágenes se puedan obtener.** La disponibilidad, los límites de Wikimedia y las restricciones de conexión pueden impedirlo. En esta preparación no ha sido posible verificar descargas reales de los 85 retratos. Las pruebas de descarga y caché utilizan respuestas simuladas; la disponibilidad real deberá comprobarse en el despliegue de Vercel.
+
+El informe se publica en `/media-status.json` y se resume en **Diagnóstico de imágenes**. No contiene respuestas de visitantes. El número de archivos descargados no certifica que todas las imágenes se hayan cargado en cada navegador.
+
+Los retratos externos y sus consultas de metadatos envían los datos técnicos habituales a Wikipedia/Commons, sin enviar las respuestas del test. Las imágenes externas se pueden desactivar en Privacidad. El guardado del test permanece local.
+
+## Banderas y símbolos
+
+Los diseños están dentro de `data.js`: no hay que subir una carpeta de banderas y funcionan sin conexión. Incluyen rojigualda, tricolor republicana, bandera roja cantonal, rojinegra, bandera negra, ikurriña, senyera, blanquiverde, bandera gallega, aspa de Borgoña y símbolos de referencia de Castilla, Asturias, omeyas, carlismo, cristianismo y falangismo.
+
+Son dibujos esquemáticos, algunos sin escudo. Las fichas indican si la referencia es posterior a su época, un símbolo editorial o una bandera de movimiento. La Cruz de la Victoria de 908 no se presenta como una bandera documentada de Pelayo. La Primera República no recibe la tricolor de 1931. Una corriente que no tenga una bandera única documentada muestra esa limitación.
+
+## Contenido y límites
+
+Las incorporaciones incluyen, entre otras figuras, Abderramán III, Averroes, Juan de Mariana, Francisco Suárez, Juan Luis Vives, Juan de Padilla, María Pacheco, Espartero, Prim, Salmerón, Donoso Cortés, Balmes, Giner de los Ríos, Andreu Nin, Carmen de Burgos, María Lejárraga, Castelao y Tierno Galván.
+
+Nuevos contextos: Córdoba califal, Tordesillas y Villalar, Germanías de Valencia y Mallorca, Barcelona austracista, Nueva Planta valenciana, Escuela Moderna, Irmandades da Fala, Asturias de 1934, Gernika de 1936, Ronda de 1918 y carlismo autogestionario, entre otros.
+
+Este sigue siendo un catálogo selectivo y ampliable, no una enciclopedia completa ni un test validado. Las nuevas codificaciones son provisionales y necesitan revisión especializada. Las fuentes explican ideas y contextos: no publican estos números. Las dimensiones sin una comparación razonable quedan sin datos. Algunas figuras culturales, como Averroes, se consultan sin producir una afinidad numérica.
+
+Las comparaciones no recomiendan voto ni respaldan actuaciones. Los documentos contemporáneos seleccionados, incluidos programas de 2023, no equivalen a posiciones actualizadas de campaña de 2026.
+
+## Verificar localmente
 
 Con Node 20 o superior:
 
@@ -23,31 +54,10 @@ npm test
 npm run build
 ```
 
-No hay dependencias que instalar. Sirve la carpeta `dist` con un servidor estático de tu elección. Abrir el archivo HTML directamente permite consultar la web, pero el almacenamiento y las restricciones pueden variar según el navegador.
+No hay dependencias que instalar. `npm run build` hace peticiones públicas para descargar imágenes. Para validar solo el empaquetado en un entorno sin conexión se puede usar `SKIP_MEDIA_DOWNLOAD=1`; el informe reflejará que las descargas se han omitido. No configures esa opción en Vercel si quieres descargar retratos.
 
-## Qué cambia
+Las pruebas verifican el cálculo, los dos flujos del test, filtros, borrado, exportaciones, simbología y errores de red, atribución y caché mediante respuestas simuladas. No sustituyen la revisión visual en navegador ni la comprobación real de Wikimedia.
 
-- Retratos de las 49 personalidades, con créditos, licencia, descripción del tipo de imagen y alternativas si no carga.
-- Catálogos con búsqueda, filtros de época y familia, y páginas de 12 fichas.
-- Resultados separados por corrientes, figuras históricas, contextos, política contemporánea y pensamiento económico.
-- Fichas con diferencias por eje, datos ausentes, límites y fuentes.
-- Cuatro dimensiones nuevas: pluralismo/autoritarismo, república/monarquía, propiedad colectiva/privada y gestión del trabajo.
-- Ranking que tiene en cuenta la cobertura y los desacuerdos centrales, con fórmula publicada.
-- Progreso local, pesos ajustables, revisión de respuestas y exportación SVG/JSON.
-- Opción de desactivar imágenes externas y borrar los datos del navegador.
+## Ampliar
 
-## Límites y fuentes
-
-No es una enciclopedia completa ni un test validado. Los números son hipótesis editoriales aproximadas: las fuentes documentan contextos e ideas, pero no publican esas puntuaciones. Se muestran comparaciones exploratorias, no recomendaciones de voto ni respaldo a trayectorias políticas. Los perfiles actuales siguen basándose en documentos seleccionados, incluidos programas de 2023; no deben presentarse como datos actualizados de campaña de 2026.
-
-Cada registro de `data.js` incluye un periodo, fuentes y límites. Las dimensiones actuales que no tienen una analogía histórica razonable quedan como `null`. El Reino de Asturias y el Toledo visigodo se tratan por separado. No se atribuyen ideas a los habitantes actuales de los lugares.
-
-Los retratos se solicitan a Wikimedia Commons al abrir la página. No están empaquetados dentro del ZIP: necesitan conexión y pueden depender de la disponibilidad del proveedor. La app puede funcionar sin ellos. Cada ficha enlaza el archivo original y las condiciones de reutilización; las imágenes tienen sus propias licencias. Los retratos antiguos pueden ser representaciones posteriores o esculturas, y así se indica.
-
-El progreso V1 no se migra: cambiar el cuestionario hace que las comparaciones antiguas no sean equivalentes. V2 guarda su propio progreso; el botón de borrado elimina ambas versiones del navegador.
-
-## Ampliar el atlas
-
-Añade registros en `data.js`: ID único, nombre, periodo, familia, descripción, 16 valores o `null`, fuentes con sus ejes, y limitaciones. No rellenes una postura desconocida con 50: 50 significa una posición intermedia; `null` significa falta de datos comparables. Para imágenes añade URL, autoría, fuente, licencia y el tipo de representación.
-
-Pasa `npm test` y revisa la app antes de publicar. Para una publicación con pretensión académica o electoral, conviene revisar cada codificación con especialistas y documentos del periodo correspondiente.
+Edita `data.js` manteniendo IDs únicos, 16 valores o `null`, periodos, fuentes y límites. 50 significa posición intermedia; `null` significa falta de datos. Para un nuevo retrato aporta un `wikiTitle` correcto o un archivo de Commons identificado. Las licencias de las imágenes son independientes de la aplicación.
