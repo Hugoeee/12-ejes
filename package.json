@@ -1,8 +1,8 @@
 {
   "name": "espana-en-12-ejes",
-  "version": "13.0.0",
+  "version": "14.0.0",
   "private": true,
-  "description": "Atlas exploratorio de ideas e historia espa\u00f1ola",
+  "description": "Atlas exploratorio de ideas e historia española",
   "scripts": {
     "build": "node build.cjs",
     "test": "node verify.cjs"

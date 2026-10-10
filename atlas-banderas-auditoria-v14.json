@@ -1,0 +1,813 @@
+{
+  "version": "14.0.0",
+  "reviewed": "2026-10-10",
+  "contexts": 42,
+  "withFlag": 26,
+  "withoutFlag": 16,
+  "flagAssets": 20,
+  "newAssets": [
+    "castilla-medieval",
+    "borgona"
+  ],
+  "method": "Inspección visual de la referencia; consulta de fuentes institucionales, FOTW y archivos Commons. Reddit se usa como pista, no prueba. Sin certificación de paños, colores físicos o medidas históricas. Las fichas sin enseña seleccionada usan monogramas modernos.",
+  "decisions": [
+    {
+      "id": "ctx-toledo-visigodo",
+      "name": "Toledo visigodo",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se identifica aquí una enseña coetánea verificable del reino de Toledo. Se omiten banderas modernas atribuidas al reino sin respaldo suficiente.",
+        "periodScope": "589–711",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Reino_visigodo_de_Toledo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-asturias",
+      "name": "Reino de Asturias",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "La llamada bandera del Reino de Asturias con cruz sobre azul es una atribución posterior sin uso documentado entre los siglos VIII y X. La Cruz de la Victoria de 908 es un objeto histórico, no prueba de una bandera estatal.",
+        "periodScope": "Siglos VIII–X",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Asturias.svg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-castilla-alfonsi",
+      "name": "Castilla de Alfonso X",
+      "previousFlag": null,
+      "flag": "castilla-medieval",
+      "decision": {
+        "status": "reconstruccion",
+        "label": "Reconstrucción heráldica",
+        "reason": "Armas reales desde 1230; dibujo moderno, no paño certificado de 1252–1284.",
+        "periodScope": "1252–1284",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://crwflags.com/fotw/Flags/es-cl_hi.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-salamanca",
+      "name": "Salamanca de los teólogos-juristas",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Institución sin bandera propia",
+        "reason": "La ficha representa una institución o un entorno intelectual, no un Estado con bandera propia acreditada. El monograma es tipográfico y no histórico.",
+        "periodScope": "Siglo XVI",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.cervantesvirtual.com/obras/materia-autoridad/vitoria-francisco-de-1483-1546-19248"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-escorial",
+      "name": "Corte de Felipe II",
+      "previousFlag": null,
+      "flag": "borgona",
+      "decision": {
+        "status": "referencia",
+        "label": "Referencia militar",
+        "reason": "Cruz asociada a la tradición militar de la Monarquía Hispánica; no estandarte personal de Felipe II.",
+        "periodScope": "1561–1598",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://crwflags.com/fotw/Flags/es%5E1506.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-ilustrado",
+      "name": "Madrid ilustrado de Carlos III",
+      "previousFlag": null,
+      "flag": "espana-monarquia",
+      "decision": {
+        "status": "referencia",
+        "label": "Pabellón naval · 1785–1788",
+        "reason": "Aplicable sólo desde 1785 dentro de esta ficha. No es bandera nacional durante todo el reinado.",
+        "periodScope": "1785–1788 dentro de 1759–1788",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--04exposiciones--03historico--011banderaMar-es?showVolver=1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-cadiz",
+      "name": "Cádiz constitucional",
+      "previousFlag": null,
+      "flag": "espana-monarquia",
+      "decision": {
+        "status": "referencia",
+        "label": "Pabellón naval de la época",
+        "reason": "Enseña naval coetánea; no representa una bandera propia de las Cortes ni el posterior uso estatal de 1843.",
+        "periodScope": "1810–1812",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--04exposiciones--03historico--011banderaMar-es?showVolver=1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-absolutista",
+      "name": "Corte absolutista de Fernando VII",
+      "previousFlag": null,
+      "flag": "espana-monarquia",
+      "decision": {
+        "status": "referencia",
+        "label": "Pabellón naval de la época",
+        "reason": "Enseña naval coetánea, no estandarte de la corte ni bandera personal de Fernando VII.",
+        "periodScope": "1823–1833",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--04exposiciones--03historico--011banderaMar-es?showVolver=1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-estella-carlista",
+      "name": "Estella carlista",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "El carlismo empleó distintos estandartes y banderas de unidad. No se convierte la cruz de Borgoña genérica ni la Generalísima de la primera guerra en bandera única de Estella en 1872–1876.",
+        "periodScope": "1872–1876",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://museodelcarlismo.navarra.es/es/exposiciones/exposicion-permanente"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-cartagena",
+      "name": "Cartagena cantonal",
+      "previousFlag": "cantonal",
+      "flag": "cantonal",
+      "decision": {
+        "status": "composicion_documentada",
+        "label": "Composición documentada",
+        "reason": "Composición roja documentada en Cartagena en 1873; tono y proporciones de referencia. La composición no permite certificar el tono digital ni las proporciones de un paño original.",
+        "periodScope": "1873–1874",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://turismo.cartagena.es/detalle_arquitectura_defensiva.asp?id=4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-federal",
+      "name": "Proyecto federal de 1873",
+      "previousFlag": "primera",
+      "flag": "primera",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia al pabellón naval de 1873–1874, una variante de la época; no la enseña personal o única de esta ficha.",
+        "periodScope": "Julio de 1873",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://armada.defensa.gob.es/archivo/noticias/cienciaorgano/01cienciamuseo/01informacionmuseonaval/02prensamuseonaval/01noticias/2025/Noviembre/ExpoBandera/DossierPrensaLaBandera.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-restauracion",
+      "name": "Madrid de la Restauración",
+      "previousFlag": null,
+      "flag": "espana-monarquia",
+      "decision": {
+        "status": "referencia",
+        "label": "Variante naval y estatal",
+        "reason": "Modelo con escudo reducido. No reproduce todos los estandartes institucionales de la Restauración.",
+        "periodScope": "1876–1902",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://crwflags.com/fotw/Flags/es1785.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-ile",
+      "name": "Madrid de la Institución Libre de Enseñanza",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Institución sin bandera propia",
+        "reason": "La ficha representa una institución o un entorno intelectual, no un Estado con bandera propia acreditada. El monograma es tipográfico y no histórico.",
+        "periodScope": "Desde 1876",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Institución_Libre_de_Enseñanza"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-bilbao-arana",
+      "name": "Bilbao del nacionalismo vasco fundacional",
+      "previousFlag": "ikurrina",
+      "flag": "ikurrina",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia territorial desde 1894 (oficial desde 1936); no bandera personal ni válida para toda la década de 1890.",
+        "periodScope": "Década de 1890",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.euskadi.eus/simbolos-e-identidad/web01-s1leheko/es/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-obrero",
+      "name": "Madrid del socialismo obrero",
+      "previousFlag": "roja",
+      "flag": "roja",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1879–1925",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-barcelona-libertaria",
+      "name": "Barcelona libertaria",
+      "previousFlag": "rojinegra",
+      "flag": "rojinegra",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "Julio de 1936–mayo de 1937",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-aragon-colectividades",
+      "name": "Colectividades de Aragón",
+      "previousFlag": "rojinegra",
+      "flag": "rojinegra",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1936–1937",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-republicano",
+      "name": "Madrid constitucional republicano",
+      "previousFlag": "republica",
+      "flag": "republica",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia a la enseña institucional republicana de 1931–1939, dentro del periodo de la ficha; no bandera personal.",
+        "periodScope": "1931–1933",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.boe.es/gazeta/dias/1931/04/28/pdfs/GMD-1931-118.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-generalitat",
+      "name": "Generalitat republicana",
+      "previousFlag": "senyera",
+      "flag": "senyera",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Referencia territorial sin estrella; no estelada ni enseña exclusiva de esta corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1931–1936",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-andalucismo",
+      "name": "Andalucía del andalucismo histórico",
+      "previousFlag": "andalucia-1918",
+      "flag": "andalucia-1918",
+      "decision": {
+        "status": "composicion_documentada",
+        "label": "Composición documentada",
+        "reason": "Referencia a la composición del andalucismo desde 1918; no bandera personal ni facsímil de la asamblea. La composición no permite certificar el tono digital ni las proporciones de un paño original.",
+        "periodScope": "1915–1936",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.juntadeandalucia.es/organismos/transparencia/informacion-institucional-organizativa/simbolos.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-burgos",
+      "name": "Burgos del poder franquista",
+      "previousFlag": null,
+      "flag": "espana-1938",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo de 1938 · tramo final",
+        "reason": "Se muestra el modelo desde febrero de 1938, no durante 1936–1937. Hubo variantes en su ejecución.",
+        "periodScope": "Febrero de 1938–1939 dentro de 1936–1939",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://crwflags.com/fotw/Flags/es1936.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-desarrollista",
+      "name": "Madrid del desarrollismo autoritario",
+      "previousFlag": "espana-1945",
+      "flag": "espana-1945",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia institucional al modelo de 1945 durante 1959–1973; no escudo actual.",
+        "periodScope": "1959–1973",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.defensa.gob.es/guardiareal/Menu/Identidad/Bandera_de_Espana/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-transicion",
+      "name": "Madrid del pacto constitucional",
+      "previousFlag": "espana-1977",
+      "flag": "espana-1977",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia institucional al modelo de 1977 durante el contexto 1977–1978; no escudo de 1981.",
+        "periodScope": "1977–1978",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1977-14944"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-espana-europea",
+      "name": "España socialdemócrata y europea",
+      "previousFlag": "espana",
+      "flag": "espana",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia al modelo institucional vigente desde 1981, durante el periodo elegido. No es una bandera personal.",
+        "periodScope": "1982–1996",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1981-29376"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-cordoba-califal",
+      "name": "Córdoba califal",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "La existencia de enseñas dinásticas no acredita una bandera única con diseño y proporciones normalizados. No se adopta la reconstrucción moderna verde con águila como bandera oficial del califato.",
+        "periodScope": "929–1031",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://commons.wikimedia.org/wiki/File:Flag_of_Abd_al-Rahman_III_of_Cordoba.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-sevilla-humanista",
+      "name": "Valencia de Juan Luis Vives",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Institución sin bandera propia",
+        "reason": "La ficha representa una institución o un entorno intelectual, no un Estado con bandera propia acreditada. El monograma es tipográfico y no histórico.",
+        "periodScope": "Primera mitad del siglo XVI",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Juan_Luis_Vives"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-toledo-mariana",
+      "name": "Toledo de Juan de Mariana",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Institución sin bandera propia",
+        "reason": "La ficha representa una institución o un entorno intelectual, no un Estado con bandera propia acreditada. El monograma es tipográfico y no histórico.",
+        "periodScope": "1599",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Juan_de_Mariana"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-tordesillas",
+      "name": "Tordesillas comunera",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "El pendón morado atribuido a los comuneros es una asociación posterior. No se usa como enseña de la Junta de 1520.",
+        "periodScope": "1520",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.fotw.info/flags/es!ful.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-villalar",
+      "name": "Villalar y la memoria comunera",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se asigna el pendón morado moderno al movimiento comunero de 1521. La conmemoración actual y las enseñas de sus participantes no prueban su uso en la revuelta.",
+        "periodScope": "1521",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.fotw.info/flags/es!ful.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-valencia-germanias",
+      "name": "Valencia de las Germanías",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha identificado en la documentación utilizada una bandera propia y fechada de este contexto. El monograma es un recurso tipográfico moderno, no un emblema histórico.",
+        "periodScope": "1519–1522",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/germanias.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-mallorca-germanias",
+      "name": "Mallorca agermanada",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha identificado en la documentación utilizada una bandera propia y fechada de este contexto. El monograma es un recurso tipográfico moderno, no un emblema histórico.",
+        "periodScope": "1521–1523",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/germanias.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-barcelona-austracista",
+      "name": "Barcelona austracista",
+      "previousFlag": null,
+      "flag": "senyera",
+      "decision": {
+        "status": "referencia",
+        "label": "Referencia territorial",
+        "reason": "Composición catalana, no estandarte del archiduque ni bandera única de sus ejércitos.",
+        "periodScope": "1705–1714",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Austracismo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-valencia-nueva-planta",
+      "name": "Valencia tras la Nueva Planta",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha identificado en la documentación utilizada una bandera propia y fechada de este contexto. El monograma es un recurso tipográfico moderno, no un emblema histórico.",
+        "periodScope": "Desde 1707",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Decretos_de_Nueva_Planta"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-madrid-jose-i",
+      "name": "Madrid del gobierno de José I",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha identificado en la documentación utilizada una bandera propia y fechada de este contexto. El monograma es un recurso tipográfico moderno, no un emblema histórico.",
+        "periodScope": "1808–1813",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_I_Bonaparte"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-logrono-espartero",
+      "name": "Logroño de Espartero",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha identificado en la documentación utilizada una bandera propia y fechada de este contexto. El monograma es un recurso tipográfico moderno, no un emblema histórico.",
+        "periodScope": "Siglo XIX",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Baldomero_Espartero"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-barcelona-escuela",
+      "name": "Barcelona de la Escuela Moderna",
+      "previousFlag": "negra",
+      "flag": "negra",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1901–1906",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-coruna-irmandades",
+      "name": "A Coruña de las Irmandades da Fala",
+      "previousFlag": "galicia-civil",
+      "flag": "galicia-civil",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Referencia territorial sin escudo autonómico actual; no estandarte personal ni facsímil del periodo. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1916–1931",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.xunta.gal/es/simbolos-de-galicia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-barcelona-poum",
+      "name": "Barcelona del POUM",
+      "previousFlag": "roja",
+      "flag": "roja",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "1935–1937",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-asturias-1934",
+      "name": "Asturias obrera de octubre de 1934",
+      "previousFlag": "roja",
+      "flag": "roja",
+      "decision": {
+        "status": "referencia",
+        "label": "Símbolo de referencia",
+        "reason": "Símbolo de referencia del movimiento; no bandera exclusiva de esta organización, persona o corriente. Se conserva como referencia de tradición o territorio, sin atribuir un paño institucional único.",
+        "periodScope": "Octubre de 1934",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://fal.cnt.es/jueves-20-de-junio-micro-exposicion-4-huelga-y-libertad-los-colores-de-la-anarquia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-gernika-1936",
+      "name": "Gernika del autogobierno de 1936",
+      "previousFlag": "ikurrina",
+      "flag": "ikurrina",
+      "decision": {
+        "status": "modelo_documentado",
+        "label": "Modelo documentado",
+        "reason": "Referencia territorial desde 1894 (oficial desde 1936); no bandera personal ni válida para toda la década de 1890.",
+        "periodScope": "1936",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.euskadi.eus/simbolos-e-identidad/web01-s1leheko/es/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-ronda-1918",
+      "name": "Ronda de la Asamblea de 1918",
+      "previousFlag": "andalucia-1918",
+      "flag": "andalucia-1918",
+      "decision": {
+        "status": "composicion_documentada",
+        "label": "Composición documentada",
+        "reason": "Referencia a la composición del andalucismo desde 1918; no bandera personal ni facsímil de la asamblea. La composición no permite certificar el tono digital ni las proporciones de un paño original.",
+        "periodScope": "1918",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://www.juntadeandalucia.es/organismos/transparencia/informacion-institucional-organizativa/simbolos.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ctx-montejurra-autogestion",
+      "name": "Carlismo autogestionario de Montejurra",
+      "previousFlag": null,
+      "flag": null,
+      "decision": {
+        "status": "sin_documentar",
+        "label": "Sin enseña verificada",
+        "reason": "No se ha seleccionado un paño verificable que represente específicamente a esta rama y a todo el periodo. Las enseñas carlistas generales no acreditan una afiliación autogestionaria.",
+        "periodScope": "Décadas de 1960–1970",
+        "reviewed": "2026-10-10",
+        "sources": [
+          {
+            "title": "Referencia documental de la decisión vexilológica",
+            "url": "https://es.wikipedia.org/wiki/Partido_Carlista_%281971%29"
+          }
+        ]
+      }
+    }
+  ]
+}
