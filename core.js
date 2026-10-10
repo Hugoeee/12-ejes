@@ -2,6 +2,7 @@
 'use strict';
 function score(questions,answers,count=16){return Array.from({length:count},(_,axis)=>{const qs=questions.filter(q=>q.axis===axis&&Number.isInteger(answers[q.id])&&Math.abs(answers[q.id])<=2);return qs.length?Math.round(50+25*qs.reduce((s,q)=>s+answers[q.id]*q.direction,0)/qs.length):null;});}
 function match(scores,profile,weights=scores.map(()=>1)){
+ if(profile.testEligible===false)return null;
  const answered=scores.map((v,i)=>i).filter(i=>Number.isFinite(scores[i])&&weights[i]>0);
  const axes=answered.filter(i=>Number.isFinite(profile.values[i]));
  if(axes.length<3)return null;

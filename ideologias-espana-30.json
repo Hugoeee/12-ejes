@@ -292,7 +292,15 @@
         "alcance": "Declaración de 1996 sobre autonomía digital, no un programa completo para España."
       }
     ],
-    "alcance_fuentes": "Las fuentes orientan definiciones y límites. Ninguna de ellas publica las 360 coordenadas propuestas; algunos tipos amplios e híbridos necesitan documentación específica adicional."
+    "alcance_fuentes": "Las fuentes orientan definiciones y límites. Ninguna de ellas publica las 360 coordenadas propuestas; algunos tipos amplios e híbridos necesitan documentación específica adicional.",
+    "integracion_atlas_v11": {
+      "fuente": "AXIS_DATA.ideologies en data.js",
+      "dimensiones": 16,
+      "seleccion_original_conservada": true,
+      "afinidad_seleccion_30": false,
+      "no_convertir_escalas": "Los polos de esta selección no son los del atlas; sus stats no se mezclan ni se convierten automáticamente.",
+      "catalogo_json": "ideologias-espana-catalogo.json"
+    }
   },
   "categorias": {
     "Izquierda y Extrema Izquierda": [

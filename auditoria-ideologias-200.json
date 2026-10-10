@@ -1,0 +1,2079 @@
+{
+  "counts": {
+    "existingCount": 61,
+    "addedCount": 199,
+    "mergedCount": 1,
+    "discardedCount": 0,
+    "substitutedLabels": 10,
+    "catalogOnlyCount": 172,
+    "testEligibleCount": 88,
+    "legacySelectionCount": 30
+  },
+  "decisions": [
+    {
+      "number": 1,
+      "proposedName": "Estoicismo de tradición senequista",
+      "status": "añadida",
+      "targetId": "idea-estoicismo-de-tradicion-senequista",
+      "canonicalName": "Estoicismo de tradición senequista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 2,
+      "proposedName": "Priscilianismo",
+      "status": "añadida",
+      "targetId": "idea-priscilianismo",
+      "canonicalName": "Priscilianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 3,
+      "proposedName": "Arrianismo visigodo",
+      "status": "añadida",
+      "targetId": "idea-arrianismo-visigodo",
+      "canonicalName": "Arrianismo visigodo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 4,
+      "proposedName": "Adopcionismo hispánico",
+      "status": "añadida",
+      "targetId": "idea-adopcionismo-hispanico",
+      "canonicalName": "Adopcionismo hispánico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 5,
+      "proposedName": "Malikismo andalusí",
+      "status": "añadida",
+      "targetId": "idea-malikismo-andalusi",
+      "canonicalName": "Malikismo andalusí",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 6,
+      "proposedName": "Zahirismo de Ibn Hazm",
+      "status": "añadida",
+      "targetId": "idea-zahirismo-de-ibn-hazm",
+      "canonicalName": "Zahirismo de Ibn Hazm",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 7,
+      "proposedName": "Sufismo andalusí",
+      "status": "añadida",
+      "targetId": "idea-sufismo-andalusi",
+      "canonicalName": "Sufismo andalusí",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 8,
+      "proposedName": "Averroísmo",
+      "status": "añadida",
+      "targetId": "idea-averroismo",
+      "canonicalName": "Averroísmo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 9,
+      "proposedName": "Filosofía de Ibn Bajja (Avempace)",
+      "status": "añadida",
+      "targetId": "idea-filosofia-de-ibn-bajja-avempace",
+      "canonicalName": "Filosofía de Ibn Bajja (Avempace)",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 10,
+      "proposedName": "Maimonidismo",
+      "status": "añadida",
+      "targetId": "idea-maimonidismo",
+      "canonicalName": "Maimonidismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 11,
+      "proposedName": "Neoplatonismo judío de Ibn Gabirol",
+      "status": "añadida",
+      "targetId": "idea-neoplatonismo-judio-de-ibn-gabirol",
+      "canonicalName": "Neoplatonismo judío de Ibn Gabirol",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 12,
+      "proposedName": "Cábala sefardí medieval",
+      "status": "añadida",
+      "targetId": "idea-cabala-sefardi-medieval",
+      "canonicalName": "Cábala sefardí medieval",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 13,
+      "proposedName": "Lulismo",
+      "status": "añadida",
+      "targetId": "idea-lulismo",
+      "canonicalName": "Lulismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 14,
+      "proposedName": "Aristotelismo escolástico",
+      "status": "añadida",
+      "targetId": "idea-aristotelismo-escolastico",
+      "canonicalName": "Aristotelismo escolástico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 15,
+      "proposedName": "Escotismo",
+      "status": "añadida",
+      "targetId": "idea-escotismo",
+      "canonicalName": "Escotismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 16,
+      "proposedName": "Suarismo",
+      "status": "añadida",
+      "targetId": "idea-suarismo",
+      "canonicalName": "Suarismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 17,
+      "proposedName": "Molinismo",
+      "status": "añadida",
+      "targetId": "idea-molinismo",
+      "canonicalName": "Molinismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 18,
+      "proposedName": "Bañecismo",
+      "status": "añadida",
+      "targetId": "idea-banecismo",
+      "canonicalName": "Bañecismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 19,
+      "proposedName": "Alumbradismo",
+      "status": "añadida",
+      "targetId": "idea-alumbradismo",
+      "canonicalName": "Alumbradismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 20,
+      "proposedName": "Quietismo molinosista",
+      "status": "añadida",
+      "targetId": "idea-quietismo-molinosista",
+      "canonicalName": "Quietismo molinosista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 21,
+      "proposedName": "Valdesianismo",
+      "status": "añadida",
+      "targetId": "idea-valdesianismo",
+      "canonicalName": "Valdesianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 22,
+      "proposedName": "Antitrinitarismo servetiano",
+      "status": "añadida",
+      "targetId": "idea-antitrinitarismo-servetiano",
+      "canonicalName": "Antitrinitarismo servetiano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 23,
+      "proposedName": "Protestantismo reformado español",
+      "status": "añadida",
+      "targetId": "idea-protestantismo-reformado-espanol",
+      "canonicalName": "Protestantismo reformado español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 24,
+      "proposedName": "Mística teresiano-sanjuanista",
+      "status": "añadida",
+      "targetId": "idea-mistica-teresiano-sanjuanista",
+      "canonicalName": "Mística teresiano-sanjuanista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 25,
+      "proposedName": "Tacitismo español",
+      "status": "añadida",
+      "targetId": "idea-tacitismo-espanol",
+      "canonicalName": "Tacitismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 26,
+      "proposedName": "Antimaquiavelismo católico",
+      "status": "añadida",
+      "targetId": "idea-antimaquiavelismo-catolico",
+      "canonicalName": "Antimaquiavelismo católico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 27,
+      "proposedName": "Neoestoicismo barroco",
+      "status": "añadida",
+      "targetId": "idea-neoestoicismo-barroco",
+      "canonicalName": "Neoestoicismo barroco",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 28,
+      "proposedName": "Escepticismo de Francisco Sánchez",
+      "status": "añadida",
+      "targetId": "idea-escepticismo-de-francisco-sanchez",
+      "canonicalName": "Escepticismo de Francisco Sánchez",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 29,
+      "proposedName": "Racionalismo heterodoxo de Uriel da Costa",
+      "status": "sustituida",
+      "targetId": "idea-racionalismo-heterodoxo-de-uriel-da-costa",
+      "canonicalName": "Crítica religiosa de Uriel da Costa (recepción española)",
+      "reason": "Se delimita una recepción española de un autor portugués de la diáspora. No se acredita una escuela política española autodenominada racionalismo de Uriel da Costa.",
+      "testEligible": false
+    },
+    {
+      "number": 30,
+      "proposedName": "Novatorismo",
+      "status": "añadida",
+      "targetId": "idea-novatorismo",
+      "canonicalName": "Novatorismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 31,
+      "proposedName": "Arbitrismo",
+      "status": "añadida",
+      "targetId": "idea-arbitrismo",
+      "canonicalName": "Arbitrismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 32,
+      "proposedName": "Bullonismo",
+      "status": "añadida",
+      "targetId": "idea-bullonismo",
+      "canonicalName": "Bullonismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 33,
+      "proposedName": "Colbertismo español",
+      "status": "sustituida",
+      "targetId": "idea-colbertismo-espanol",
+      "canonicalName": "Mercantilismo manufacturero borbónico",
+      "reason": "Colbertismo describe sobre todo la experiencia francesa. Se adopta una etiqueta descriptiva para el mercantilismo manufacturero borbónico, conservando la propuesta como término de búsqueda contextual.",
+      "testEligible": false
+    },
+    {
+      "number": 34,
+      "proposedName": "Fisiocratismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-fisiocratismo-de-recepcion-espanola",
+      "canonicalName": "Fisiocratismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 35,
+      "proposedName": "Agrarismo ilustrado",
+      "status": "añadida",
+      "targetId": "idea-agrarismo-ilustrado",
+      "canonicalName": "Agrarismo ilustrado",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 36,
+      "proposedName": "Regalismo",
+      "status": "añadida",
+      "targetId": "idea-regalismo",
+      "canonicalName": "Regalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 37,
+      "proposedName": "Jansenismo español",
+      "status": "añadida",
+      "targetId": "idea-jansenismo-espanol",
+      "canonicalName": "Jansenismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 38,
+      "proposedName": "Sensismo",
+      "status": "añadida",
+      "targetId": "idea-sensismo",
+      "canonicalName": "Sensismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 39,
+      "proposedName": "Utilitarismo de recepción benthamiana",
+      "status": "añadida",
+      "targetId": "idea-utilitarismo-de-recepcion-benthamiana",
+      "canonicalName": "Utilitarismo de recepción benthamiana",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 40,
+      "proposedName": "Positivismo español",
+      "status": "añadida",
+      "targetId": "idea-positivismo-espanol",
+      "canonicalName": "Positivismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 41,
+      "proposedName": "Krausopositivismo",
+      "status": "añadida",
+      "targetId": "idea-krausopositivismo",
+      "canonicalName": "Krausopositivismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 42,
+      "proposedName": "Neotomismo",
+      "status": "añadida",
+      "targetId": "idea-neotomismo",
+      "canonicalName": "Neotomismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 43,
+      "proposedName": "Darwinismo social",
+      "status": "añadida",
+      "targetId": "idea-darwinismo-social",
+      "canonicalName": "Darwinismo social",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 44,
+      "proposedName": "Georgismo español",
+      "status": "añadida",
+      "targetId": "idea-georgismo-espanol",
+      "canonicalName": "Georgismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 45,
+      "proposedName": "Socialismo de cátedra",
+      "status": "añadida",
+      "targetId": "idea-socialismo-de-catedra",
+      "canonicalName": "Socialismo de cátedra",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 46,
+      "proposedName": "Liberalismo exaltado",
+      "status": "añadida",
+      "targetId": "idea-liberalismo-exaltado",
+      "canonicalName": "Liberalismo exaltado",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 47,
+      "proposedName": "Liberalismo doceañista",
+      "status": "fusionada",
+      "targetId": "liberal-gaditano",
+      "canonicalName": "Liberalismo gaditano",
+      "reason": "Doceañismo y liberalismo gaditano designan aquí la misma tradición constitucional. Se conserva el identificador histórico y se añade alias y referencia; no se fusiona el liberalismo exaltado posterior."
+    },
+    {
+      "number": 48,
+      "proposedName": "Democratismo decimonónico",
+      "status": "añadida",
+      "targetId": "idea-democratismo-decimononico",
+      "canonicalName": "Democratismo decimonónico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 49,
+      "proposedName": "Cimbriismo",
+      "status": "sustituida",
+      "targetId": "idea-cimbriismo",
+      "canonicalName": "Cimbrismo",
+      "reason": "Normalización a cimbrismo, derivado de los cimbrios del Sexenio. No se mezcla con republicanismo radical.",
+      "testEligible": true
+    },
+    {
+      "number": 50,
+      "proposedName": "Republicanismo radical lerrouxista",
+      "status": "añadida",
+      "targetId": "idea-republicanismo-radical-lerrouxista",
+      "canonicalName": "Republicanismo radical lerrouxista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 51,
+      "proposedName": "Blasquismo",
+      "status": "añadida",
+      "targetId": "idea-blasquismo",
+      "canonicalName": "Blasquismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 52,
+      "proposedName": "Federalismo orgánico de Almirall",
+      "status": "añadida",
+      "targetId": "idea-federalismo-organico-de-almirall",
+      "canonicalName": "Federalismo orgánico de Almirall",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 53,
+      "proposedName": "Progresismo democrático de Ruiz Zorrilla",
+      "status": "añadida",
+      "targetId": "idea-progresismo-democratico-de-ruiz-zorrilla",
+      "canonicalName": "Progresismo democrático de Ruiz Zorrilla",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 54,
+      "proposedName": "Socialismo utópico fourierista",
+      "status": "añadida",
+      "targetId": "idea-socialismo-utopico-fourierista",
+      "canonicalName": "Socialismo utópico fourierista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 55,
+      "proposedName": "Icarianismo",
+      "status": "añadida",
+      "targetId": "idea-icarianismo",
+      "canonicalName": "Icarianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 56,
+      "proposedName": "Saintsimonismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-saintsimonismo-de-recepcion-espanola",
+      "canonicalName": "Saintsimonismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 57,
+      "proposedName": "Proteccionismo industrial catalán",
+      "status": "añadida",
+      "targetId": "idea-proteccionismo-industrial-catalan",
+      "canonicalName": "Proteccionismo industrial catalán",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 58,
+      "proposedName": "Librecambismo decimonónico",
+      "status": "añadida",
+      "targetId": "idea-librecambismo-decimononico",
+      "canonicalName": "Librecambismo decimonónico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 59,
+      "proposedName": "Abolicionismo de la esclavitud",
+      "status": "añadida",
+      "targetId": "idea-abolicionismo-de-la-esclavitud",
+      "canonicalName": "Abolicionismo de la esclavitud",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 60,
+      "proposedName": "Abolicionismo penal",
+      "status": "añadida",
+      "targetId": "idea-abolicionismo-penal",
+      "canonicalName": "Abolicionismo penal",
+      "reason": "Sustituye expresamente la propuesta 60 anterior sobre antiesclavismo cuáquero por Abolicionismo penal. No aparece aquella etiqueta en V10 y no se borra otra ficha por índice.",
+      "testEligible": false
+    },
+    {
+      "number": 61,
+      "proposedName": "Anarquismo colectivista bakuninista",
+      "status": "añadida",
+      "targetId": "idea-anarquismo-colectivista-bakuninista",
+      "canonicalName": "Anarquismo colectivista bakuninista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 62,
+      "proposedName": "Anarquismo individualista",
+      "status": "añadida",
+      "targetId": "idea-anarquismo-individualista",
+      "canonicalName": "Anarquismo individualista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 63,
+      "proposedName": "Anarquismo insurreccionalista",
+      "status": "añadida",
+      "targetId": "idea-anarquismo-insurreccionalista",
+      "canonicalName": "Anarquismo insurreccionalista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 64,
+      "proposedName": "Anarquismo sin adjetivos",
+      "status": "añadida",
+      "targetId": "idea-anarquismo-sin-adjetivos",
+      "canonicalName": "Anarquismo sin adjetivos",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 65,
+      "proposedName": "Anarconaturismo",
+      "status": "añadida",
+      "targetId": "idea-anarconaturismo",
+      "canonicalName": "Anarconaturismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 66,
+      "proposedName": "Anarcofeminismo",
+      "status": "añadida",
+      "targetId": "idea-anarcofeminismo",
+      "canonicalName": "Anarcofeminismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 67,
+      "proposedName": "Treintismo",
+      "status": "añadida",
+      "targetId": "idea-treintismo",
+      "canonicalName": "Treintismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 68,
+      "proposedName": "Sindicalismo político pestañista",
+      "status": "añadida",
+      "targetId": "idea-sindicalismo-politico-pestanista",
+      "canonicalName": "Sindicalismo político pestañista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 69,
+      "proposedName": "Faísmo",
+      "status": "añadida",
+      "targetId": "idea-faismo",
+      "canonicalName": "Faísmo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 70,
+      "proposedName": "Autonomismo obrero",
+      "status": "añadida",
+      "targetId": "idea-autonomismo-obrero",
+      "canonicalName": "Autonomismo obrero",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 71,
+      "proposedName": "Consejismo",
+      "status": "añadida",
+      "targetId": "idea-consejismo",
+      "canonicalName": "Consejismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 72,
+      "proposedName": "Trotskismo español",
+      "status": "añadida",
+      "targetId": "idea-trotskismo-espanol",
+      "canonicalName": "Trotskismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 73,
+      "proposedName": "Maoísmo español",
+      "status": "añadida",
+      "targetId": "idea-maoismo-espanol",
+      "canonicalName": "Maoísmo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 74,
+      "proposedName": "Hoxhaísmo español",
+      "status": "sustituida",
+      "targetId": "idea-hoxhaismo-espanol",
+      "canonicalName": "Hoxhismo español",
+      "reason": "Normalización de la variante hoxhismo; se documenta el referente albanés del PCE(m-l) y se delimita su evolución.",
+      "testEligible": true
+    },
+    {
+      "number": 75,
+      "proposedName": "Situacionismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-situacionismo-de-recepcion-espanola",
+      "canonicalName": "Situacionismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 76,
+      "proposedName": "Mellismo",
+      "status": "añadida",
+      "targetId": "idea-mellismo",
+      "canonicalName": "Mellismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 77,
+      "proposedName": "Donosianismo",
+      "status": "añadida",
+      "targetId": "idea-donosianismo",
+      "canonicalName": "Donosianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 78,
+      "proposedName": "Monarquismo de Acción Española",
+      "status": "añadida",
+      "targetId": "idea-monarquismo-de-accion-espanola",
+      "canonicalName": "Monarquismo de Acción Española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 79,
+      "proposedName": "Corporativismo católico",
+      "status": "añadida",
+      "targetId": "idea-corporativismo-catolico",
+      "canonicalName": "Corporativismo católico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 80,
+      "proposedName": "Primo-riverismo",
+      "status": "añadida",
+      "targetId": "idea-primo-riverismo",
+      "canonicalName": "Primo-riverismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 81,
+      "proposedName": "Jonsismo",
+      "status": "añadida",
+      "targetId": "idea-jonsismo",
+      "canonicalName": "Jonsismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 82,
+      "proposedName": "Ledesmismo",
+      "status": "añadida",
+      "targetId": "idea-ledesmismo",
+      "canonicalName": "Ledesmismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 83,
+      "proposedName": "Hedillismo",
+      "status": "añadida",
+      "targetId": "idea-hedillismo",
+      "canonicalName": "Hedillismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 84,
+      "proposedName": "Serrano-suñerismo",
+      "status": "sustituida",
+      "targetId": "idea-serrano-sunerismo",
+      "canonicalName": "Falangismo del entorno de Serrano Suñer (1938–1942)",
+      "reason": "Se sustituye una etiqueta personalista poco delimitada por el sector falangista documentado por Francisco Morente. No se inventa una escuela estable serrano-suñerista.",
+      "testEligible": true
+    },
+    {
+      "number": 85,
+      "proposedName": "Monarquismo juanista",
+      "status": "añadida",
+      "targetId": "idea-monarquismo-juanista",
+      "canonicalName": "Monarquismo juanista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 86,
+      "proposedName": "Bunkerismo franquista",
+      "status": "sustituida",
+      "targetId": "idea-bunkerismo-franquista",
+      "canonicalName": "Inmovilismo del búnker franquista",
+      "reason": "El búnker fue una denominación político-periodística de sectores inmovilistas, no una escuela filosófica sistemática.",
+      "testEligible": true
+    },
+    {
+      "number": 87,
+      "proposedName": "Aperturismo franquista",
+      "status": "añadida",
+      "targetId": "idea-aperturismo-franquista",
+      "canonicalName": "Aperturismo franquista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 88,
+      "proposedName": "Neofascismo español",
+      "status": "añadida",
+      "targetId": "idea-neofascismo-espanol",
+      "canonicalName": "Neofascismo español",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 89,
+      "proposedName": "Nacionalbolchevismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-nacionalbolchevismo-de-recepcion-espanola",
+      "canonicalName": "Nacionalbolchevismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 90,
+      "proposedName": "Identitarismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-identitarismo-de-recepcion-espanola",
+      "canonicalName": "Identitarismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 91,
+      "proposedName": "Raciovitalismo",
+      "status": "añadida",
+      "targetId": "idea-raciovitalismo",
+      "canonicalName": "Raciovitalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 92,
+      "proposedName": "Perspectivismo orteguiano",
+      "status": "añadida",
+      "targetId": "idea-perspectivismo-orteguiano",
+      "canonicalName": "Perspectivismo orteguiano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 93,
+      "proposedName": "Razón poética de María Zambrano",
+      "status": "añadida",
+      "targetId": "idea-razon-poetica-de-maria-zambrano",
+      "canonicalName": "Razón poética de María Zambrano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 94,
+      "proposedName": "Filosofía de la inteligencia sentiente de Zubiri",
+      "status": "añadida",
+      "targetId": "idea-filosofia-de-la-inteligencia-sentiente-de-zubiri",
+      "canonicalName": "Filosofía de la inteligencia sentiente de Zubiri",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 95,
+      "proposedName": "Materialismo filosófico de Gustavo Bueno",
+      "status": "añadida",
+      "targetId": "idea-materialismo-filosofico-de-gustavo-bueno",
+      "canonicalName": "Materialismo filosófico de Gustavo Bueno",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 96,
+      "proposedName": "Personalismo comunitario",
+      "status": "añadida",
+      "targetId": "idea-personalismo-comunitario",
+      "canonicalName": "Personalismo comunitario",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 97,
+      "proposedName": "Feminismo radical",
+      "status": "añadida",
+      "targetId": "idea-feminismo-radical",
+      "canonicalName": "Feminismo radical",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 98,
+      "proposedName": "Ecofeminismo",
+      "status": "añadida",
+      "targetId": "idea-ecofeminismo",
+      "canonicalName": "Ecofeminismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 99,
+      "proposedName": "Decrecentismo",
+      "status": "añadida",
+      "targetId": "idea-decrecentismo",
+      "canonicalName": "Decrecentismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 100,
+      "proposedName": "Municipalismo libertario",
+      "status": "añadida",
+      "targetId": "idea-municipalismo-libertario",
+      "canonicalName": "Municipalismo libertario",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 101,
+      "proposedName": "Epicureísmo de recepción hispánica",
+      "status": "añadida",
+      "targetId": "idea-epicureismo-de-recepcion-hispanica",
+      "canonicalName": "Epicureísmo de recepción hispánica",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 102,
+      "proposedName": "Nominalismo escolástico",
+      "status": "añadida",
+      "targetId": "idea-nominalismo-escolastico",
+      "canonicalName": "Nominalismo escolástico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 103,
+      "proposedName": "Humanismo cívico renacentista",
+      "status": "añadida",
+      "targetId": "idea-humanismo-civico-renacentista",
+      "canonicalName": "Humanismo cívico renacentista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 104,
+      "proposedName": "Cartesianismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-cartesianismo-de-recepcion-espanola",
+      "canonicalName": "Cartesianismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 105,
+      "proposedName": "Gassendismo",
+      "status": "añadida",
+      "targetId": "idea-gassendismo",
+      "canonicalName": "Gassendismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 106,
+      "proposedName": "Eclecticismo ilustrado",
+      "status": "añadida",
+      "targetId": "idea-eclecticismo-ilustrado",
+      "canonicalName": "Eclecticismo ilustrado",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 107,
+      "proposedName": "Empirismo de recepción española",
+      "status": "añadida",
+      "targetId": "idea-empirismo-de-recepcion-espanola",
+      "canonicalName": "Empirismo de recepción española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 108,
+      "proposedName": "Deísmo",
+      "status": "añadida",
+      "targetId": "idea-deismo",
+      "canonicalName": "Deísmo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 109,
+      "proposedName": "Escuela Universalista Española",
+      "status": "añadida",
+      "targetId": "idea-escuela-universalista-espanola",
+      "canonicalName": "Escuela Universalista Española",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 110,
+      "proposedName": "Espiritualismo ecléctico decimonónico",
+      "status": "añadida",
+      "targetId": "idea-espiritualismo-eclectico-decimononico",
+      "canonicalName": "Espiritualismo ecléctico decimonónico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 111,
+      "proposedName": "Existencialismo unamuniano",
+      "status": "añadida",
+      "targetId": "idea-existencialismo-unamuniano",
+      "canonicalName": "Existencialismo unamuniano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 112,
+      "proposedName": "Fenomenología",
+      "status": "añadida",
+      "targetId": "idea-fenomenologia",
+      "canonicalName": "Fenomenología",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 113,
+      "proposedName": "Hermenéutica filosófica",
+      "status": "añadida",
+      "targetId": "idea-hermeneutica-filosofica",
+      "canonicalName": "Hermenéutica filosófica",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 114,
+      "proposedName": "Filosofía analítica",
+      "status": "añadida",
+      "targetId": "idea-filosofia-analitica",
+      "canonicalName": "Filosofía analítica",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 115,
+      "proposedName": "Neopositivismo lógico",
+      "status": "añadida",
+      "targetId": "idea-neopositivismo-logico",
+      "canonicalName": "Neopositivismo lógico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 116,
+      "proposedName": "Racionalismo crítico",
+      "status": "añadida",
+      "targetId": "idea-racionalismo-critico",
+      "canonicalName": "Racionalismo crítico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 117,
+      "proposedName": "Pragmatismo",
+      "status": "añadida",
+      "targetId": "idea-pragmatismo",
+      "canonicalName": "Pragmatismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 118,
+      "proposedName": "Estructuralismo",
+      "status": "añadida",
+      "targetId": "idea-estructuralismo",
+      "canonicalName": "Estructuralismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 119,
+      "proposedName": "Postestructuralismo",
+      "status": "añadida",
+      "targetId": "idea-postestructuralismo",
+      "canonicalName": "Postestructuralismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 120,
+      "proposedName": "Filosofía de la liberación",
+      "status": "añadida",
+      "targetId": "idea-filosofia-de-la-liberacion",
+      "canonicalName": "Filosofía de la liberación",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 121,
+      "proposedName": "Keynesianismo",
+      "status": "añadida",
+      "targetId": "idea-keynesianismo",
+      "canonicalName": "Keynesianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 122,
+      "proposedName": "Postkeynesianismo",
+      "status": "añadida",
+      "targetId": "idea-postkeynesianismo",
+      "canonicalName": "Postkeynesianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 123,
+      "proposedName": "Monetarismo",
+      "status": "añadida",
+      "targetId": "idea-monetarismo",
+      "canonicalName": "Monetarismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 124,
+      "proposedName": "Ordoliberalismo",
+      "status": "añadida",
+      "targetId": "idea-ordoliberalismo",
+      "canonicalName": "Ordoliberalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 125,
+      "proposedName": "Escuela austriaca de economía",
+      "status": "añadida",
+      "targetId": "idea-escuela-austriaca-de-economia",
+      "canonicalName": "Escuela austriaca de economía",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 126,
+      "proposedName": "Neoliberalismo",
+      "status": "añadida",
+      "targetId": "idea-neoliberalismo",
+      "canonicalName": "Neoliberalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 127,
+      "proposedName": "Distributismo",
+      "status": "añadida",
+      "targetId": "idea-distributismo",
+      "canonicalName": "Distributismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 128,
+      "proposedName": "Cooperativismo",
+      "status": "añadida",
+      "targetId": "idea-cooperativismo",
+      "canonicalName": "Cooperativismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 129,
+      "proposedName": "Economía social y solidaria",
+      "status": "añadida",
+      "targetId": "idea-economia-social-y-solidaria",
+      "canonicalName": "Economía social y solidaria",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 130,
+      "proposedName": "Economía feminista",
+      "status": "añadida",
+      "targetId": "idea-economia-feminista",
+      "canonicalName": "Economía feminista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 131,
+      "proposedName": "Pablismo socialista (Pablo Iglesias Posse)",
+      "status": "añadida",
+      "targetId": "idea-pablismo-socialista-pablo-iglesias-posse",
+      "canonicalName": "Pablismo socialista (Pablo Iglesias Posse)",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 132,
+      "proposedName": "Besteirismo",
+      "status": "añadida",
+      "targetId": "idea-besteirismo",
+      "canonicalName": "Besteirismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 133,
+      "proposedName": "Prietismo",
+      "status": "añadida",
+      "targetId": "idea-prietismo",
+      "canonicalName": "Prietismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 134,
+      "proposedName": "Caballerismo",
+      "status": "añadida",
+      "targetId": "idea-caballerismo",
+      "canonicalName": "Caballerismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 135,
+      "proposedName": "Gramscismo",
+      "status": "añadida",
+      "targetId": "idea-gramscismo",
+      "canonicalName": "Gramscismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 136,
+      "proposedName": "Luxemburgismo",
+      "status": "sustituida",
+      "targetId": "idea-luxemburgismo",
+      "canonicalName": "Luxemburguismo (recepción española)",
+      "reason": "Se normaliza luxemburguismo y se explicita que se trata de recepción, no de una organización española única.",
+      "testEligible": true
+    },
+    {
+      "number": 137,
+      "proposedName": "Marxismo humanista",
+      "status": "añadida",
+      "targetId": "idea-marxismo-humanista",
+      "canonicalName": "Marxismo humanista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 138,
+      "proposedName": "Althusserianismo",
+      "status": "añadida",
+      "targetId": "idea-althusserianismo",
+      "canonicalName": "Althusserianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 139,
+      "proposedName": "Operaísmo",
+      "status": "añadida",
+      "targetId": "idea-operaismo",
+      "canonicalName": "Operaísmo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 140,
+      "proposedName": "Marxismo analítico",
+      "status": "añadida",
+      "targetId": "idea-marxismo-analitico",
+      "canonicalName": "Marxismo analítico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 141,
+      "proposedName": "Valencianismo político",
+      "status": "añadida",
+      "targetId": "idea-valencianismo-politico",
+      "canonicalName": "Valencianismo político",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 142,
+      "proposedName": "Fusterianismo",
+      "status": "añadida",
+      "targetId": "idea-fusterianismo",
+      "canonicalName": "Fusterianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 143,
+      "proposedName": "Blaverismo",
+      "status": "añadida",
+      "targetId": "idea-blaverismo",
+      "canonicalName": "Blaverismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 144,
+      "proposedName": "Aragonesismo",
+      "status": "añadida",
+      "targetId": "idea-aragonesismo",
+      "canonicalName": "Aragonesismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 145,
+      "proposedName": "Asturianismo",
+      "status": "añadida",
+      "targetId": "idea-asturianismo",
+      "canonicalName": "Asturianismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 146,
+      "proposedName": "Leonesismo",
+      "status": "añadida",
+      "targetId": "idea-leonesismo",
+      "canonicalName": "Leonesismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 147,
+      "proposedName": "Castellanismo",
+      "status": "añadida",
+      "targetId": "idea-castellanismo",
+      "canonicalName": "Castellanismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 148,
+      "proposedName": "Canarismo nacionalista",
+      "status": "añadida",
+      "targetId": "idea-canarismo-nacionalista",
+      "canonicalName": "Canarismo nacionalista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 149,
+      "proposedName": "Mallorquinismo político",
+      "status": "añadida",
+      "targetId": "idea-mallorquinismo-politico",
+      "canonicalName": "Mallorquinismo político",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 150,
+      "proposedName": "Navarrismo",
+      "status": "añadida",
+      "targetId": "idea-navarrismo",
+      "canonicalName": "Navarrismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 151,
+      "proposedName": "Ciudadanismo del 15M",
+      "status": "añadida",
+      "targetId": "idea-ciudadanismo-del-15m",
+      "canonicalName": "Ciudadanismo del 15M",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 152,
+      "proposedName": "Populismo de izquierdas",
+      "status": "añadida",
+      "targetId": "idea-populismo-de-izquierdas",
+      "canonicalName": "Populismo de izquierdas",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 153,
+      "proposedName": "Democracia deliberativa",
+      "status": "añadida",
+      "targetId": "idea-democracia-deliberativa",
+      "canonicalName": "Democracia deliberativa",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 154,
+      "proposedName": "Democracia participativa",
+      "status": "añadida",
+      "targetId": "idea-democracia-participativa",
+      "canonicalName": "Democracia participativa",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 155,
+      "proposedName": "Democracia líquida",
+      "status": "añadida",
+      "targetId": "idea-democracia-liquida",
+      "canonicalName": "Democracia líquida",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 156,
+      "proposedName": "Republicanismo cívico neorrepublicano",
+      "status": "añadida",
+      "targetId": "idea-republicanismo-civico-neorrepublicano",
+      "canonicalName": "Republicanismo cívico neorrepublicano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 157,
+      "proposedName": "Patriotismo constitucional",
+      "status": "añadida",
+      "targetId": "idea-patriotismo-constitucional",
+      "canonicalName": "Patriotismo constitucional",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 158,
+      "proposedName": "Soberanismo español de izquierdas",
+      "status": "sustituida",
+      "targetId": "idea-soberanismo-espanol-de-izquierdas",
+      "canonicalName": "Patriotismo revolucionario del Frente Obrero",
+      "reason": "Soberanismo español de izquierdas es demasiado ambiguo para acreditar una escuela delimitada o adjudicarle un programa único. Se propone y documenta el patriotismo revolucionario autodefinido por el Frente Obrero. Esta sustitución no clasifica a toda la izquierda, ni certifica la autodefinición del actor como izquierda.",
+      "testEligible": false
+    },
+    {
+      "number": 159,
+      "proposedName": "Federalismo europeo",
+      "status": "añadida",
+      "targetId": "idea-federalismo-europeo",
+      "canonicalName": "Federalismo europeo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 160,
+      "proposedName": "Iberismo",
+      "status": "añadida",
+      "targetId": "idea-iberismo",
+      "canonicalName": "Iberismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 161,
+      "proposedName": "Teología de la liberación",
+      "status": "añadida",
+      "targetId": "idea-teologia-de-la-liberacion",
+      "canonicalName": "Teología de la liberación",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 162,
+      "proposedName": "Cristianos por el Socialismo",
+      "status": "añadida",
+      "targetId": "idea-cristianos-por-el-socialismo",
+      "canonicalName": "Cristianos por el Socialismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 163,
+      "proposedName": "Catolicismo liberal",
+      "status": "añadida",
+      "targetId": "idea-catolicismo-liberal",
+      "canonicalName": "Catolicismo liberal",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    },
+    {
+      "number": 164,
+      "proposedName": "Ultramontanismo",
+      "status": "añadida",
+      "targetId": "idea-ultramontanismo",
+      "canonicalName": "Ultramontanismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 165,
+      "proposedName": "Laicismo",
+      "status": "añadida",
+      "targetId": "idea-laicismo",
+      "canonicalName": "Laicismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 166,
+      "proposedName": "Librepensamiento",
+      "status": "añadida",
+      "targetId": "idea-librepensamiento",
+      "canonicalName": "Librepensamiento",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 167,
+      "proposedName": "Anticlericalismo",
+      "status": "añadida",
+      "targetId": "idea-anticlericalismo",
+      "canonicalName": "Anticlericalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 168,
+      "proposedName": "Espiritismo kardecista",
+      "status": "añadida",
+      "targetId": "idea-espiritismo-kardecista",
+      "canonicalName": "Espiritismo kardecista",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 169,
+      "proposedName": "Teosofía moderna",
+      "status": "añadida",
+      "targetId": "idea-teosofia-moderna",
+      "canonicalName": "Teosofía moderna",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 170,
+      "proposedName": "Humanismo secular",
+      "status": "añadida",
+      "targetId": "idea-humanismo-secular",
+      "canonicalName": "Humanismo secular",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 171,
+      "proposedName": "Feminismo de la igualdad",
+      "status": "añadida",
+      "targetId": "idea-feminismo-de-la-igualdad",
+      "canonicalName": "Feminismo de la igualdad",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 172,
+      "proposedName": "Feminismo de la diferencia",
+      "status": "añadida",
+      "targetId": "idea-feminismo-de-la-diferencia",
+      "canonicalName": "Feminismo de la diferencia",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 173,
+      "proposedName": "Feminismo autónomo",
+      "status": "añadida",
+      "targetId": "idea-feminismo-autonomo",
+      "canonicalName": "Feminismo autónomo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 174,
+      "proposedName": "Feminismo interseccional",
+      "status": "añadida",
+      "targetId": "idea-feminismo-interseccional",
+      "canonicalName": "Feminismo interseccional",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 175,
+      "proposedName": "Feminismo decolonial",
+      "status": "añadida",
+      "targetId": "idea-feminismo-decolonial",
+      "canonicalName": "Feminismo decolonial",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 176,
+      "proposedName": "Transfeminismo",
+      "status": "añadida",
+      "targetId": "idea-transfeminismo",
+      "canonicalName": "Transfeminismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 177,
+      "proposedName": "Teoría queer",
+      "status": "añadida",
+      "targetId": "idea-teoria-queer",
+      "canonicalName": "Teoría queer",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 178,
+      "proposedName": "Feminismo abolicionista de la prostitución",
+      "status": "añadida",
+      "targetId": "idea-feminismo-abolicionista-de-la-prostitucion",
+      "canonicalName": "Feminismo abolicionista de la prostitución",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 179,
+      "proposedName": "Feminismo pro derechos de las trabajadoras sexuales",
+      "status": "añadida",
+      "targetId": "idea-feminismo-pro-derechos-de-las-trabajadoras-sexuales",
+      "canonicalName": "Feminismo pro derechos de las trabajadoras sexuales",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 180,
+      "proposedName": "Feminismo sexopositivo",
+      "status": "sustituida",
+      "targetId": "idea-feminismo-sexopositivo",
+      "canonicalName": "Feminismo prosexo",
+      "reason": "La documentación española localizada usa feminismo prosexo; sexopositivo se conserva como alias de recepción, sin presentar toda reivindicación histórica de autonomía sexual como integrante de este movimiento.",
+      "testEligible": false
+    },
+    {
+      "number": 181,
+      "proposedName": "Ecologismo político",
+      "status": "añadida",
+      "targetId": "idea-ecologismo-politico",
+      "canonicalName": "Ecologismo político",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 182,
+      "proposedName": "Conservacionismo",
+      "status": "añadida",
+      "targetId": "idea-conservacionismo",
+      "canonicalName": "Conservacionismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 183,
+      "proposedName": "Ecología social",
+      "status": "añadida",
+      "targetId": "idea-ecologia-social",
+      "canonicalName": "Ecología social",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 184,
+      "proposedName": "Ecomodernismo",
+      "status": "añadida",
+      "targetId": "idea-ecomodernismo",
+      "canonicalName": "Ecomodernismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 185,
+      "proposedName": "Ecología profunda",
+      "status": "añadida",
+      "targetId": "idea-ecologia-profunda",
+      "canonicalName": "Ecología profunda",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 186,
+      "proposedName": "Animalismo",
+      "status": "añadida",
+      "targetId": "idea-animalismo",
+      "canonicalName": "Animalismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 187,
+      "proposedName": "Antiespecismo",
+      "status": "añadida",
+      "targetId": "idea-antiespecismo",
+      "canonicalName": "Antiespecismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 188,
+      "proposedName": "Movimiento por la soberanía alimentaria",
+      "status": "añadida",
+      "targetId": "idea-movimiento-por-la-soberania-alimentaria",
+      "canonicalName": "Movimiento por la soberanía alimentaria",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 189,
+      "proposedName": "Pacifismo",
+      "status": "añadida",
+      "targetId": "idea-pacifismo",
+      "canonicalName": "Pacifismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 190,
+      "proposedName": "Antimilitarismo",
+      "status": "añadida",
+      "targetId": "idea-antimilitarismo",
+      "canonicalName": "Antimilitarismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 191,
+      "proposedName": "Transhumanismo",
+      "status": "añadida",
+      "targetId": "idea-transhumanismo",
+      "canonicalName": "Transhumanismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 192,
+      "proposedName": "Posthumanismo crítico",
+      "status": "añadida",
+      "targetId": "idea-posthumanismo-critico",
+      "canonicalName": "Posthumanismo crítico",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 193,
+      "proposedName": "Tecnoprogresismo",
+      "status": "sustituida",
+      "targetId": "idea-tecnoprogresismo",
+      "canonicalName": "Transhumanismo democrático (recepción española)",
+      "reason": "Se acredita recepción académica española del transhumanismo ético y democrático de Hughes. No se acredita un movimiento español organizado bajo el rótulo tecnoprogresismo: se sustituye por la corriente documentada y se mantiene el rótulo propuesto como término de búsqueda contextual.",
+      "testEligible": false
+    },
+    {
+      "number": 194,
+      "proposedName": "Movimiento pirata",
+      "status": "añadida",
+      "targetId": "idea-movimiento-pirata",
+      "canonicalName": "Movimiento pirata",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 195,
+      "proposedName": "Ética hacker",
+      "status": "añadida",
+      "targetId": "idea-etica-hacker",
+      "canonicalName": "Ética hacker",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 196,
+      "proposedName": "Movimiento del software libre",
+      "status": "añadida",
+      "targetId": "idea-movimiento-del-software-libre",
+      "canonicalName": "Movimiento del software libre",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 197,
+      "proposedName": "Movimiento de los comunes digitales",
+      "status": "añadida",
+      "targetId": "idea-movimiento-de-los-comunes-digitales",
+      "canonicalName": "Movimiento de los comunes digitales",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 198,
+      "proposedName": "Aceleracionismo",
+      "status": "añadida",
+      "targetId": "idea-aceleracionismo",
+      "canonicalName": "Aceleracionismo",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 199,
+      "proposedName": "Altruismo eficaz",
+      "status": "añadida",
+      "targetId": "idea-altruismo-eficaz",
+      "canonicalName": "Altruismo eficaz",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": false
+    },
+    {
+      "number": 200,
+      "proposedName": "Republicanismo constitucional de García-Trevijano",
+      "status": "añadida",
+      "targetId": "idea-republicanismo-constitucional-de-garcia-trevijano",
+      "canonicalName": "Republicanismo constitucional de García-Trevijano",
+      "reason": "Se conserva como entrada diferenciada con naturaleza, contexto, fuentes y alcance propios.",
+      "testEligible": true
+    }
+  ],
+  "legacyCoordinateArchive": [
+    {
+      "id": "salamanca",
+      "name": "Escolástica política de Salamanca",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVI",
+      "family": "Humanismo y escolástica",
+      "description": "Reflexión sobre comunidad política, justicia y límites del poder desde el derecho natural y la tradición cristiana.",
+      "values": [
+        null,
+        null,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        90,
+        70,
+        null,
+        65,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Biblioteca Cervantes · Francisco de Vitoria",
+          "url": "https://www.cervantesvirtual.com/obras/materia-autoridad/vitoria-francisco-de-1483-1546-19248",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+        }
+      ],
+      "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
+      "limits": "Escuela plural: no se presenta como liberalismo contemporáneo ni como un programa único.",
+      "anchors": [
+        "vitoria",
+        "averroes",
+        "mariana",
+        "suarez-filosofo"
+      ],
+      "color": "#b46136",
+      "core": [
+        12
+      ],
+      "flag": null,
+      "flagContext": "",
+      "flagMissingReason": "Pendiente de una enseña concreta y documentada para este periodo. Se retira el dibujo anterior porque no justificaba el modelo o su atribución histórica."
+    },
+    {
+      "id": "krausismo",
+      "name": "Krausismo e institucionismo",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "siglo-xix",
+      "period": "Siglos XIX–XX",
+      "family": "Reformismo",
+      "description": "Educación integral, libertad de conciencia y reforma ética de la sociedad.",
+      "values": [
+        null,
+        null,
+        15,
+        null,
+        null,
+        null,
+        35,
+        null,
+        null,
+        15,
+        20,
+        null,
+        15,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Institución Libre de Enseñanza",
+          "url": "https://es.wikipedia.org/wiki/Institución_Libre_de_Enseñanza",
+          "axes": [
+            2,
+            6,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+        }
+      ],
+      "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
+      "limits": "No constituye un programa económico cerrado.",
+      "anchors": [
+        "arenal",
+        "giner",
+        "azcarate"
+      ],
+      "color": "#b46136",
+      "core": [
+        12
+      ],
+      "flag": null,
+      "flagContext": "Símbolo de referencia; no exclusivo de esta corriente"
+    },
+    {
+      "id": "feminismo-liberal",
+      "name": "Feminismo liberal y sufragista",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "republica",
+      "period": "Finales XIX–XX",
+      "family": "Feminismo",
+      "description": "Igualdad jurídica, educación y participación política de las mujeres.",
+      "values": [
+        null,
+        null,
+        10,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        25,
+        5,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Congreso · Constitución de 1931",
+          "url": "https://www.congreso.es/en/web/guest/cem/const1931",
+          "axes": [
+            2,
+            9,
+            10,
+            12
+          ],
+          "note": "Referencia para situar el contexto. Las puntuaciones son hipótesis editoriales, no cifras publicadas por la fuente."
+        }
+      ],
+      "basis": "Modelo editorial idealizado de una corriente con presencia en la historia de España.",
+      "limits": "Compatible con varias posiciones económicas y religiosas: no se inventan esas dimensiones.",
+      "anchors": [
+        "campoamor",
+        "pardo-bazan",
+        "arenal",
+        "carmen-burgos"
+      ],
+      "color": "#b46136",
+      "core": [
+        12
+      ],
+      "flag": "republica",
+      "flagContext": "Referencia a la enseña institucional republicana de 1931–1939, dentro del periodo de la ficha; no bandera personal."
+    },
+    {
+      "id": "humanismo-cristiano",
+      "name": "Humanismo cristiano renacentista",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVI",
+      "family": "Humanismo y escolástica",
+      "description": "Renovación intelectual y ética cristiana mediante estudio, educación y crítica de abusos.",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Humanismo renacentista",
+          "url": "https://es.wikipedia.org/wiki/Humanismo_renacentista",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [
+        "luis-vives"
+      ],
+      "color": "#b46136",
+      "core": [],
+      "flag": null,
+      "flagContext": "",
+      "flagMissingReason": "Pendiente de una enseña concreta y documentada para este periodo. Se retira el dibujo anterior porque no justificaba el modelo o su atribución histórica."
+    },
+    {
+      "id": "erasmismo",
+      "name": "Erasmismo español",
+      "kind": "ideologia",
+      "group": "ideologia",
+      "era": "moderna",
+      "period": "Siglo XVI",
+      "family": "Humanismo y escolástica",
+      "description": "Religiosidad interior, reforma moral y recepción española de Erasmo. No es un programa partidista.",
+      "values": [
+        null,
+        null,
+        25,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        75,
+        45,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "sources": [
+        {
+          "title": "Erasmismo",
+          "url": "https://es.wikipedia.org/wiki/Erasmismo",
+          "axes": [
+            2,
+            9,
+            10
+          ],
+          "note": "Referencia biográfica o de contexto. Los valores son una codificación editorial provisional; no aparecen como cifras en esta fuente."
+        }
+      ],
+      "basis": "Modelo editorial provisional de una corriente, construido a partir de rasgos históricos generales. Requiere revisión especializada.",
+      "limits": "Corriente plural y variable. Sus números no son mediciones empíricas; las comparaciones son aproximadas y no describen a todos sus integrantes.",
+      "anchors": [],
+      "color": "#b46136",
+      "core": [],
+      "flag": null,
+      "flagContext": "",
+      "flagMissingReason": "Pendiente de una enseña concreta y documentada para este periodo. Se retira el dibujo anterior porque no justificaba el modelo o su atribución histórica."
+    }
+  ]
+}

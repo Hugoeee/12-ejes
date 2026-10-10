@@ -4,3 +4,13 @@
 @media(max-width:1000px){.idea-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.idea-tools{flex-direction:column;align-items:stretch;gap:8px}.idea-search{flex:auto}.idea-legend{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.ideology-catalog{padding-top:24px}.idea-hero h1{font-size:39px}.idea-lead{font-size:14px}.idea-stats{gap:24px}.idea-stats b{font-size:26px}.idea-spectrum{gap:4px}.idea-segment b{display:none}.idea-segment>span{height:12px}.idea-grid{grid-template-columns:1fr}.idea-group>header{flex-direction:column;align-items:flex-start;gap:13px}.idea-group{padding-top:30px;scroll-margin-top:140px}.idea-group h2{font-size:25px}.idea-group-title>span{width:10px;height:36px}.idea-card>article{min-height:190px}.idea-cta{flex-direction:column;align-items:flex-start;padding:30px 24px;border-radius:22px}.idea-profile-axes{grid-template-columns:1fr}.idea-legend{grid-template-columns:1fr}.idea-tools{margin:0 -4px;padding:10px 4px}.idea-datasets button{font-size:10px}}
 @media(prefers-reduced-motion:reduce){.ideology-catalog *{transition:none!important;scroll-behavior:auto!important}.idea-card>article:hover{transform:none}.idea-segment:hover>span{transform:none}}
+
+/* V11: nature is independent from the navigation category. */
+.idea-card-meta{display:flex;flex-wrap:wrap;gap:.4rem;font-size:.73rem!important;line-height:1.4!important;margin:.6rem 0!important;color:var(--muted,#67676b)}
+.idea-card-meta span{border:1px solid currentColor;border-radius:6px;padding:.2rem .45rem}
+.idea-nature-tools{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0}
+.idea-nature-tools label{display:grid;gap:.4rem;font-size:.85rem;flex:1;min-width:220px}
+.idea-nature-tools select{font:inherit;color:inherit;background:transparent;border:1px solid var(--border,#c9c7c3);border-radius:8px;padding:.7rem;max-width:100%}
+.idea-facts{margin:1.5rem 0;padding:1rem 1.2rem;border:1px solid var(--border,#c9c7c3);border-radius:10px}
+.idea-facts h3{margin:1.25rem 0 .5rem}.idea-facts p{line-height:1.65}.idea-facts li{line-height:1.6;margin:.25rem 0}.idea-facts summary{cursor:pointer}
+@media(max-width:640px){.idea-nature-tools{display:grid;grid-template-columns:1fr}.idea-nature-tools label{min-width:0}.idea-facts{padding:1rem}}
