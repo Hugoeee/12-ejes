@@ -1,0 +1,1605 @@
+{
+  "existingCount": 260,
+  "addedCount": 25,
+  "mergedCount": 0,
+  "discardedCount": 0,
+  "totalCount": 285,
+  "groupsBefore": {
+    "historicas": 177,
+    "territorio": 18,
+    "izquierda": 36,
+    "centro": 10,
+    "derecha": 19
+  },
+  "groupsAfter": {
+    "historicas": 11,
+    "pensamiento": 115,
+    "centro": 47,
+    "derecha": 35,
+    "territorio": 24,
+    "izquierda": 53
+  },
+  "groupingRule": "Época, naturaleza y familia de navegación son dimensiones independientes. Ser antigua no lleva una corriente política a Historia y nichos.",
+  "additions": [
+    {
+      "id": "idea-liberalismo-igualitario-rawlsiano",
+      "name": "Liberalismo igualitario rawlsiano",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-hayekiano",
+      "name": "Liberalismo hayekiano",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-doctrinario",
+      "name": "Liberalismo doctrinario",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-pluralista-berliniano",
+      "name": "Liberalismo pluralista berliniano (recepción española)",
+      "group": "centro",
+      "testEligible": false
+    },
+    {
+      "id": "idea-republicanismo-azanista",
+      "name": "Republicanismo reformista de Azaña",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-europeista-madariaga",
+      "name": "Liberalismo europeísta de Madariaga",
+      "group": "centro",
+      "testEligible": false
+    },
+    {
+      "id": "idea-democracia-cristiana-social-ruiz-gimenez",
+      "name": "Democracia cristiana social de Ruiz-Giménez",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-armonico",
+      "name": "Liberalismo armónico del primer krausismo",
+      "group": "centro",
+      "testEligible": true
+    },
+    {
+      "id": "idea-liberalismo-politico-orteguiano",
+      "name": "Liberalismo político orteguiano",
+      "group": "centro",
+      "testEligible": false
+    },
+    {
+      "id": "idea-conservadurismo-burkeano",
+      "name": "Conservadurismo liberal burkeano (recepción española)",
+      "group": "derecha",
+      "testEligible": false
+    },
+    {
+      "id": "idea-neoconservadurismo-recepcion-espanola",
+      "name": "Neoconservadurismo de recepción española",
+      "group": "derecha",
+      "testEligible": false
+    },
+    {
+      "id": "idea-populismo-de-derechas",
+      "name": "Populismo de derechas",
+      "group": "derecha",
+      "testEligible": false
+    },
+    {
+      "id": "idea-alfonsismo-restauracion",
+      "name": "Alfonsismo de la restauración de Alfonso XII",
+      "group": "derecha",
+      "testEligible": true
+    },
+    {
+      "id": "idea-tradicionalismo-elias-tejada",
+      "name": "Tradicionalismo político de Elías de Tejada",
+      "group": "derecha",
+      "testEligible": true
+    },
+    {
+      "id": "idea-cedismo",
+      "name": "Catolicismo político cedista",
+      "group": "derecha",
+      "testEligible": false
+    },
+    {
+      "id": "idea-conservadurismo-politico-balmes",
+      "name": "Conservadurismo político de Balmes",
+      "group": "derecha",
+      "testEligible": true
+    },
+    {
+      "id": "idea-catolicismo-herrera-oria",
+      "name": "Catolicismo social y político de Herrera Oria",
+      "group": "derecha",
+      "testEligible": false
+    },
+    {
+      "id": "idea-socialismo-humanista-fernando-rios",
+      "name": "Socialismo humanista de Fernando de los Ríos",
+      "group": "izquierda",
+      "testEligible": true
+    },
+    {
+      "id": "idea-socialismo-psp-tierno",
+      "name": "Socialismo del PSP de Tierno Galván",
+      "group": "izquierda",
+      "testEligible": false
+    },
+    {
+      "id": "idea-izquierda-socialista-psoe",
+      "name": "Izquierda Socialista del PSOE",
+      "group": "izquierda",
+      "testEligible": false
+    },
+    {
+      "id": "idea-nueva-izquierda-flp",
+      "name": "Nueva izquierda del Frente de Liberación Popular",
+      "group": "izquierda",
+      "testEligible": false
+    },
+    {
+      "id": "idea-catalanismo-conservador-lliga",
+      "name": "Catalanismo conservador de la Lliga",
+      "group": "territorio",
+      "testEligible": false
+    },
+    {
+      "id": "idea-regionalismo-cantabro-prc",
+      "name": "Regionalismo autonomista cántabro del PRC",
+      "group": "territorio",
+      "testEligible": true
+    },
+    {
+      "id": "idea-regionalismo-extremeno",
+      "name": "Regionalismo extremeño",
+      "group": "territorio",
+      "testEligible": false
+    },
+    {
+      "id": "idea-riojanismo-autonomista-pr",
+      "name": "Riojanismo autonomista del Partido Riojano",
+      "group": "territorio",
+      "testEligible": true
+    }
+  ],
+  "regroupedEntries": [
+    {
+      "id": "monarquia-sacral",
+      "name": "Monarquía sacral medieval",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "monarquia-compuesta",
+      "name": "Monarquía compuesta hispánica",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "salamanca",
+      "name": "Escolástica política de Salamanca",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "absolutismo",
+      "name": "Absolutismo monárquico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "ilustrado",
+      "name": "Reformismo ilustrado",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "liberal-gaditano",
+      "name": "Liberalismo gaditano",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "liberal-moderado",
+      "name": "Liberalismo moderado",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "liberal-progresista",
+      "name": "Liberalismo progresista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "conservadurismo-canovista",
+      "name": "Conservadurismo de la Restauración",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "liberal-fusionista",
+      "name": "Liberalismo fusionista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "republicanismo-unitario",
+      "name": "Republicanismo liberal unitario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "federalismo",
+      "name": "Republicanismo federal",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "cantonalismo",
+      "name": "Cantonalismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "carlismo",
+      "name": "Tradicionalismo carlista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "regeneracionismo",
+      "name": "Regeneracionismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "krausismo",
+      "name": "Krausismo e institucionismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "republicanismo-social",
+      "name": "Republicanismo reformista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "socialismo-marxista",
+      "name": "Socialismo marxista histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "socialismo-revolucionario",
+      "name": "Socialismo revolucionario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "socialismo-democratico",
+      "name": "Socialismo democrático",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "socialdemocracia",
+      "name": "Socialdemocracia",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "comunismo-leninista",
+      "name": "Comunismo marxista-leninista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "eurocomunismo",
+      "name": "Eurocomunismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "anarcocomunismo",
+      "name": "Comunismo libertario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "anarcosindicalismo",
+      "name": "Anarcosindicalismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "nacionalsindicalismo",
+      "name": "Nacionalsindicalismo falangista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "nacionalcatolicismo",
+      "name": "Nacionalcatolicismo franquista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "desarrollismo",
+      "name": "Desarrollismo tecnocrático franquista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "democracia-cristiana",
+      "name": "Democracia cristiana",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "centrismo",
+      "name": "Centrismo reformista de la Transición",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "liberal-conservador",
+      "name": "Liberalismo conservador democrático",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "liberal-social",
+      "name": "Liberalismo social",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "libertarismo",
+      "name": "Liberalismo libertario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "nacionalconservadurismo",
+      "name": "Nacionalconservadurismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "nacionalismo-vasco",
+      "name": "Nacionalismo vasco histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "republicanismo-catalan",
+      "name": "Republicanismo catalanista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "andalucismo",
+      "name": "Andalucismo histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "feminismo-liberal",
+      "name": "Feminismo liberal y sufragista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "ecosocialismo",
+      "name": "Ecosocialismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "andalusi",
+      "name": "Monarquía califal andalusí",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "humanismo-cristiano",
+      "name": "Humanismo cristiano renacentista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "erasmismo",
+      "name": "Erasmismo español",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "comunero",
+      "name": "Constitucionalismo comunero",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "germanias",
+      "name": "Movimiento de las Germanías",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "austracismo",
+      "name": "Austracismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "borbonismo",
+      "name": "Centralismo borbónico reformista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "historicas",
+      "reason": "Proyecto anterior al eje izquierda-derecha o configuración histórica que no admite una ubicación inequívoca."
+    },
+    {
+      "id": "afrancesado",
+      "name": "Reformismo afrancesado",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "posibilismo",
+      "name": "Republicanismo posibilista",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "republicanismo-conservador",
+      "name": "Republicanismo conservador",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "maurismo",
+      "name": "Maurismo",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "reformismo-melquiades",
+      "name": "Reformismo democrático de Melquíades Álvarez",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "integralismo-catolico",
+      "name": "Integrismo católico histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "catolicismo-social",
+      "name": "Catolicismo social",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "liberalismo-clasico",
+      "name": "Liberalismo clásico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "mutualismo",
+      "name": "Mutualismo libertario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "poum",
+      "name": "Marxismo antiestalinista del POUM",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "socialismo-autogestionario",
+      "name": "Socialismo autogestionario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "carlismo-socialista",
+      "name": "Carlismo socialista autogestionario",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "galleguismo",
+      "name": "Galleguismo histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "territorio",
+      "reason": "Proyecto territorial, autonomista, foral o nacional. No permite deducir economía ni independencia de todas sus variantes."
+    },
+    {
+      "id": "feminismo-socialista",
+      "name": "Feminismo socialista histórico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "conservadurismo-catolico",
+      "name": "Conservadurismo católico decimonónico",
+      "previousGroup": "clasificación heredada por identificador",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "idea-estoicismo-de-tradicion-senequista",
+      "name": "Estoicismo de tradición senequista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-priscilianismo",
+      "name": "Priscilianismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-arrianismo-visigodo",
+      "name": "Arrianismo visigodo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-adopcionismo-hispanico",
+      "name": "Adopcionismo hispánico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-malikismo-andalusi",
+      "name": "Malikismo andalusí",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-zahirismo-de-ibn-hazm",
+      "name": "Zahirismo de Ibn Hazm",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-sufismo-andalusi",
+      "name": "Sufismo andalusí",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-averroismo",
+      "name": "Averroísmo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-filosofia-de-ibn-bajja-avempace",
+      "name": "Filosofía de Ibn Bajja (Avempace)",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-maimonidismo",
+      "name": "Maimonidismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-neoplatonismo-judio-de-ibn-gabirol",
+      "name": "Neoplatonismo judío de Ibn Gabirol",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-cabala-sefardi-medieval",
+      "name": "Cábala sefardí medieval",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-lulismo",
+      "name": "Lulismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-aristotelismo-escolastico",
+      "name": "Aristotelismo escolástico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-escotismo",
+      "name": "Escotismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-suarismo",
+      "name": "Suarismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-molinismo",
+      "name": "Molinismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-banecismo",
+      "name": "Bañecismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-alumbradismo",
+      "name": "Alumbradismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-quietismo-molinosista",
+      "name": "Quietismo molinosista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-valdesianismo",
+      "name": "Valdesianismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-antitrinitarismo-servetiano",
+      "name": "Antitrinitarismo servetiano",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-protestantismo-reformado-espanol",
+      "name": "Protestantismo reformado español",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-mistica-teresiano-sanjuanista",
+      "name": "Mística teresiano-sanjuanista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-tacitismo-espanol",
+      "name": "Tacitismo español",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-antimaquiavelismo-catolico",
+      "name": "Antimaquiavelismo católico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-neoestoicismo-barroco",
+      "name": "Neoestoicismo barroco",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-escepticismo-de-francisco-sanchez",
+      "name": "Escepticismo de Francisco Sánchez",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-racionalismo-heterodoxo-de-uriel-da-costa",
+      "name": "Crítica religiosa de Uriel da Costa (recepción española)",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-novatorismo",
+      "name": "Novatorismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-arbitrismo",
+      "name": "Arbitrismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-bullonismo",
+      "name": "Bullonismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-colbertismo-espanol",
+      "name": "Mercantilismo manufacturero borbónico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-fisiocratismo-de-recepcion-espanola",
+      "name": "Fisiocratismo de recepción española",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-agrarismo-ilustrado",
+      "name": "Agrarismo ilustrado",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-jansenismo-espanol",
+      "name": "Jansenismo español",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-sensismo",
+      "name": "Sensismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-utilitarismo-de-recepcion-benthamiana",
+      "name": "Utilitarismo de recepción benthamiana",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-positivismo-espanol",
+      "name": "Positivismo español",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-krausopositivismo",
+      "name": "Krausopositivismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-neotomismo",
+      "name": "Neotomismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-darwinismo-social",
+      "name": "Darwinismo social",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-georgismo-espanol",
+      "name": "Georgismo español",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-socialismo-de-catedra",
+      "name": "Socialismo de cátedra",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-liberalismo-exaltado",
+      "name": "Liberalismo exaltado",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-democratismo-decimononico",
+      "name": "Democratismo decimonónico",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-cimbriismo",
+      "name": "Cimbrismo",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-republicanismo-radical-lerrouxista",
+      "name": "Republicanismo radical lerrouxista",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-blasquismo",
+      "name": "Blasquismo",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-progresismo-democratico-de-ruiz-zorrilla",
+      "name": "Progresismo democrático de Ruiz Zorrilla",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-socialismo-utopico-fourierista",
+      "name": "Socialismo utópico fourierista",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-icarianismo",
+      "name": "Icarianismo",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-saintsimonismo-de-recepcion-espanola",
+      "name": "Saintsimonismo de recepción española",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-librecambismo-decimononico",
+      "name": "Librecambismo decimonónico",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-abolicionismo-de-la-esclavitud",
+      "name": "Abolicionismo de la esclavitud",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-abolicionismo-penal",
+      "name": "Abolicionismo penal",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-situacionismo-de-recepcion-espanola",
+      "name": "Situacionismo de recepción española",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-raciovitalismo",
+      "name": "Raciovitalismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-perspectivismo-orteguiano",
+      "name": "Perspectivismo orteguiano",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-razon-poetica-de-maria-zambrano",
+      "name": "Razón poética de María Zambrano",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-filosofia-de-la-inteligencia-sentiente-de-zubiri",
+      "name": "Filosofía de la inteligencia sentiente de Zubiri",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-materialismo-filosofico-de-gustavo-bueno",
+      "name": "Materialismo filosófico de Gustavo Bueno",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-personalismo-comunitario",
+      "name": "Personalismo comunitario",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-radical",
+      "name": "Feminismo radical",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-ecofeminismo",
+      "name": "Ecofeminismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-decrecentismo",
+      "name": "Decrecentismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-epicureismo-de-recepcion-hispanica",
+      "name": "Epicureísmo de recepción hispánica",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-nominalismo-escolastico",
+      "name": "Nominalismo escolástico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-humanismo-civico-renacentista",
+      "name": "Humanismo cívico renacentista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-cartesianismo-de-recepcion-espanola",
+      "name": "Cartesianismo de recepción española",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-gassendismo",
+      "name": "Gassendismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-eclecticismo-ilustrado",
+      "name": "Eclecticismo ilustrado",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-empirismo-de-recepcion-espanola",
+      "name": "Empirismo de recepción española",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-deismo",
+      "name": "Deísmo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-escuela-universalista-espanola",
+      "name": "Escuela Universalista Española",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-espiritualismo-eclectico-decimononico",
+      "name": "Espiritualismo ecléctico decimonónico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-existencialismo-unamuniano",
+      "name": "Existencialismo unamuniano",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-fenomenologia",
+      "name": "Fenomenología",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-hermeneutica-filosofica",
+      "name": "Hermenéutica filosófica",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-filosofia-analitica",
+      "name": "Filosofía analítica",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-neopositivismo-logico",
+      "name": "Neopositivismo lógico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-racionalismo-critico",
+      "name": "Racionalismo crítico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-pragmatismo",
+      "name": "Pragmatismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-estructuralismo",
+      "name": "Estructuralismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-postestructuralismo",
+      "name": "Postestructuralismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-filosofia-de-la-liberacion",
+      "name": "Filosofía de la liberación",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-keynesianismo",
+      "name": "Keynesianismo",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-postkeynesianismo",
+      "name": "Postkeynesianismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-monetarismo",
+      "name": "Monetarismo",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-ordoliberalismo",
+      "name": "Ordoliberalismo",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-escuela-austriaca-de-economia",
+      "name": "Escuela austriaca de economía",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-cooperativismo",
+      "name": "Cooperativismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-economia-social-y-solidaria",
+      "name": "Economía social y solidaria",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-economia-feminista",
+      "name": "Economía feminista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-gramscismo",
+      "name": "Gramscismo",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-marxismo-humanista",
+      "name": "Marxismo humanista",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-althusserianismo",
+      "name": "Althusserianismo",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-marxismo-analitico",
+      "name": "Marxismo analítico",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-ciudadanismo-del-15m",
+      "name": "Ciudadanismo del 15M",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-democracia-deliberativa",
+      "name": "Democracia deliberativa",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-democracia-participativa",
+      "name": "Democracia participativa",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-democracia-liquida",
+      "name": "Democracia líquida",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-republicanismo-civico-neorrepublicano",
+      "name": "Republicanismo cívico neorrepublicano",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-soberanismo-espanol-de-izquierdas",
+      "name": "Patriotismo revolucionario del Frente Obrero",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-teologia-de-la-liberacion",
+      "name": "Teología de la liberación",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-cristianos-por-el-socialismo",
+      "name": "Cristianos por el Socialismo",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-catolicismo-liberal",
+      "name": "Catolicismo liberal",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-ultramontanismo",
+      "name": "Ultramontanismo",
+      "previousGroup": "historicas",
+      "group": "derecha",
+      "reason": "Familia conservadora o contrarrevolucionaria documentada; no implica equivalencia entre conservadurismo democrático y autoritarismo."
+    },
+    {
+      "id": "idea-laicismo",
+      "name": "Laicismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-librepensamiento",
+      "name": "Librepensamiento",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-anticlericalismo",
+      "name": "Anticlericalismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-espiritismo-kardecista",
+      "name": "Espiritismo kardecista",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-teosofia-moderna",
+      "name": "Teosofía moderna",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-humanismo-secular",
+      "name": "Humanismo secular",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-de-la-igualdad",
+      "name": "Feminismo de la igualdad",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-de-la-diferencia",
+      "name": "Feminismo de la diferencia",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-autonomo",
+      "name": "Feminismo autónomo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-interseccional",
+      "name": "Feminismo interseccional",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-decolonial",
+      "name": "Feminismo decolonial",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-transfeminismo",
+      "name": "Transfeminismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-teoria-queer",
+      "name": "Teoría queer",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-abolicionista-de-la-prostitucion",
+      "name": "Feminismo abolicionista de la prostitución",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-pro-derechos-de-las-trabajadoras-sexuales",
+      "name": "Feminismo pro derechos de las trabajadoras sexuales",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-feminismo-sexopositivo",
+      "name": "Feminismo prosexo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-ecologismo-politico",
+      "name": "Ecologismo político",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-conservacionismo",
+      "name": "Conservacionismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-ecologia-social",
+      "name": "Ecología social",
+      "previousGroup": "historicas",
+      "group": "izquierda",
+      "reason": "Familia socialista, comunista o libertaria documentada. La agrupación no equipara democracia, comunismo autoritario y anarquismo."
+    },
+    {
+      "id": "idea-ecomodernismo",
+      "name": "Ecomodernismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-ecologia-profunda",
+      "name": "Ecología profunda",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-animalismo",
+      "name": "Animalismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-antiespecismo",
+      "name": "Antiespecismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-movimiento-por-la-soberania-alimentaria",
+      "name": "Movimiento por la soberanía alimentaria",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-pacifismo",
+      "name": "Pacifismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-antimilitarismo",
+      "name": "Antimilitarismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-transhumanismo",
+      "name": "Transhumanismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-posthumanismo-critico",
+      "name": "Posthumanismo crítico",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-tecnoprogresismo",
+      "name": "Transhumanismo democrático (recepción española)",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-movimiento-pirata",
+      "name": "Movimiento pirata",
+      "previousGroup": "historicas",
+      "group": "centro",
+      "reason": "Familia liberal, republicana liberal o democristiana reformista. La categoría abarca corrientes de centroizquierda y centroderecha y no mide una posición electoral actual."
+    },
+    {
+      "id": "idea-etica-hacker",
+      "name": "Ética hacker",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-movimiento-del-software-libre",
+      "name": "Movimiento del software libre",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-movimiento-de-los-comunes-digitales",
+      "name": "Movimiento de los comunes digitales",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-aceleracionismo",
+      "name": "Aceleracionismo",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    },
+    {
+      "id": "idea-altruismo-eficaz",
+      "name": "Altruismo eficaz",
+      "previousGroup": "historicas",
+      "group": "pensamiento",
+      "reason": "Pensamiento o movimiento transversal sin una adscripción política única acreditada. Se conserva su naturaleza y su elegibilidad independientes."
+    }
+  ]
+}

@@ -14,3 +14,7 @@
 .idea-facts{margin:1.5rem 0;padding:1rem 1.2rem;border:1px solid var(--border,#c9c7c3);border-radius:10px}
 .idea-facts h3{margin:1.25rem 0 .5rem}.idea-facts p{line-height:1.65}.idea-facts li{line-height:1.6;margin:.25rem 0}.idea-facts summary{cursor:pointer}
 @media(max-width:640px){.idea-nature-tools{display:grid;grid-template-columns:1fr}.idea-nature-tools label{min-width:0}.idea-facts{padding:1rem}}
+
+/* V12: familias políticas y época independientes. */
+.idea-distribution .idea-distribution-note{font-size:12px;letter-spacing:0;text-transform:none;font-weight:400;color:var(--muted);line-height:1.6}
+.idea-navigation-note{font-size:.85rem;color:var(--muted);line-height:1.65}
